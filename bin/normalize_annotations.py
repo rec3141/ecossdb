@@ -68,6 +68,19 @@ def detect_format(filepath):
     return 'danaseq'  # fallback
 
 
+def clean_ko(value):
+    """Strip ko: prefix and clean KO identifiers."""
+    if not value:
+        return ''
+    # Handle comma-separated values with ko: prefix
+    kos = []
+    for v in value.split(','):
+        v = v.strip().replace('ko:', '')
+        if v:
+            kos.append(v)
+    return ','.join(kos)
+
+
 def parse_danaseq(filepath):
     """Parse danaseq merged_annotations.tsv format."""
     records = []
@@ -78,10 +91,10 @@ def parse_danaseq(filepath):
             records.append({
                 'protein_id': row.get('protein_id', ''),
                 'contig_id': row.get('contig_id', ''),
-                'KO': row.get('KO', row.get('ko', '')),
-                'COG': row.get('COG', row.get('cog', '')),
+                'KO': clean_ko(row.get('KO', row.get('ko', ''))),
+                'COG': row.get('COG', row.get('COG_category', row.get('cog', ''))),
                 'EC': row.get('EC', row.get('ec', '')),
-                'Pfam': row.get('Pfam', row.get('pfam', '')),
+                'Pfam': row.get('Pfam', row.get('PFAMs', row.get('pfam', ''))),
                 'CAZy': row.get('CAZy', row.get('cazy', row.get('CAZy_family', ''))),
                 'description': row.get('description', row.get('product', '')),
             })
