@@ -1,0 +1,32 @@
+es_code	es_name	gene_id	gene_id_type	confidence	evidence_source	functional_role	pathway_context	notes
+2.3.5.1	Controlling the chemical quality of freshwater	K01077	KO	0.80	literature:PMID:29569048	producer	Phosphorus mineralization	phoA alkaline phosphatase; organic P → PO4; LeBrun et al 2018 Microb Ecol
+2.3.5.1	Controlling the chemical quality of freshwater	K01093	KO	0.80	literature:PMID:36181699	producer	Phosphorus mineralization	phoD alkaline phosphatase; dominant P mineralization gene in wetlands; Hu et al 2022 Glob Chang Biol
+2.3.5.1	Controlling the chemical quality of freshwater	K07093	KO	0.75	literature:PMID:41702469	producer	Phosphorus mineralization	phoX alkaline phosphatase; upregulated during P cycling in lake sediments; Qin et al 2026 Environ Res
+2.3.5.1	Controlling the chemical quality of freshwater	K00937	KO	0.80	literature:PMID:39962698	transformer	Polyphosphate metabolism	ppk1 polyphosphate kinase; polyphosphate synthesis for enhanced biological P removal
+2.3.5.1	Controlling the chemical quality of freshwater	K22468	KO	0.75	literature:PMID:39962698	transformer	Polyphosphate metabolism	ppk2 polyphosphate kinase 2; polyphosphate synthesis/degradation
+2.3.5.1	Controlling the chemical quality of freshwater	K01514	KO	0.75	literature:PMID:39962698	producer	Polyphosphate metabolism	ppx exopolyphosphatase; polyphosphate degradation releases PO4
+2.3.5.1	Controlling the chemical quality of freshwater	K02040	KO	0.70	literature:PMID:38844031	consumer	Phosphate transport	pstS phosphate ABC transporter substrate-binding; high-affinity PO4 uptake; Zhuo et al 2024
+2.3.5.1	Controlling the chemical quality of freshwater	K02037	KO	0.70	literature:PMID:38844031	consumer	Phosphate transport	pstA phosphate ABC transporter permease
+2.3.5.1	Controlling the chemical quality of freshwater	K02038	KO	0.70	literature:PMID:38844031	consumer	Phosphate transport	pstC phosphate ABC transporter permease
+2.3.5.1	Controlling the chemical quality of freshwater	K02036	KO	0.70	literature:PMID:38844031	consumer	Phosphate transport	pstB phosphate ABC transporter ATP-binding
+2.3.5.1	Controlling the chemical quality of freshwater	K01113	KO	0.70	literature:PMID:36181699	producer	Phosphorus mineralization	phoB two-component response regulator; P-starvation regulon; Hu et al 2022
+2.3.5.1	Controlling the chemical quality of freshwater	K00697	KO	0.65	literature:PMID:36181699	producer	Phosphorus solubilization	gcd glucose dehydrogenase; organic acid production solubilizes mineral P; Hu et al 2022
+2.3.5.1	Controlling the chemical quality of freshwater	K01841	KO	0.65	literature:PMID:36181699	transformer	Phosphorus mineralization	ugpQ glycerophosphoryl diester phosphodiesterase; organic P mineralization
+2.3.5.1	Controlling the chemical quality of freshwater	K02044	KO	0.65	literature:PMID:38844031	consumer	Phosphonate transport	phnC phosphonate ABC transporter ATP-binding; phosphonate uptake
+2.3.5.1	Controlling the chemical quality of freshwater	K06166	KO	0.75	literature:PMID:37365664	producer	Phosphonate degradation	phnJ C-P lyase core component; phosphonate mineralization in freshwater; Zhao et al 2023
+2.1.1.2	Filtering wastes or sequestering pollutants	K00520	KO	0.85	literature:PMID:37441819	producer	Mercury detoxification	merA mercuric reductase; Hg2+ → Hg0 volatilization; Ren et al 2023 Mar Environ Res
+2.1.1.2	Filtering wastes or sequestering pollutants	K00221	KO	0.80	literature:PMID:37441819	producer	Mercury detoxification	merB alkylmercury lyase; organomercury → Hg2+ for merA reduction
+2.1.1.2	Filtering wastes or sequestering pollutants	K08363	KO	0.75	literature:PMID:37441819	transformer	Mercury transport	merT mercury transport protein; Hg2+ uptake for detoxification
+2.1.1.2	Filtering wastes or sequestering pollutants	K00537	KO	0.80	literature:PMID:36002692	producer	Arsenic detoxification	arsC arsenate reductase; As5+ → As3+ for efflux; Xiao et al 2022
+2.1.1.2	Filtering wastes or sequestering pollutants	K03325	KO	0.80	literature:PMID:36002692	producer	Arsenic detoxification	arsB arsenite efflux pump; removes As3+ from cell
+2.1.1.2	Filtering wastes or sequestering pollutants	K07240	KO	0.75	literature:PMID:36002692	producer	Chromium detoxification	chrA chromate efflux transporter; Cr6+ resistance
+2.1.1.2	Filtering wastes or sequestering pollutants	K17686	KO	0.75	literature:PMID:36002692	producer	Copper detoxification	copA copper-exporting P-type ATPase; Cu efflux
+2.3.5.1	Controlling the chemical quality of freshwater	K21572	KO	0.80	literature:PMID:32082281	transformer	Dissimilatory iron reduction	mtrA decaheme cytochrome c; Fe3+ → Fe2+ in sediments; Garber et al 2020 FeGenie
+2.3.5.1	Controlling the chemical quality of freshwater	K21573	KO	0.80	literature:PMID:32082281	transformer	Dissimilatory iron reduction	mtrB outer membrane beta-barrel; iron reduction electron conduit
+2.3.5.1	Controlling the chemical quality of freshwater	K21574	KO	0.80	literature:PMID:32082281	transformer	Dissimilatory iron reduction	mtrC outer membrane decaheme cytochrome; terminal Fe3+ reductase
+2.3.6.2	Regulating the physical quality of air for people	K16953	KO	0.80	literature:PMID:34693622	producer	DMSP cleavage to DMS	dddP DMSP lyase; produces DMS (climate-active gas); Sun et al 2021 Environ Microbiol
+2.3.6.2	Regulating the physical quality of air for people	K17486	KO	0.80	literature:PMID:34693622	inhibitor	DMSP demethylation	dmdA DMSP demethylase; shunts DMSP away from DMS production; Sun et al 2021
+2.3.6.2	Regulating the physical quality of air for people	K21139	KO	0.75	literature:PMID:35883169	producer	DMSP cleavage to DMS	dddD DMSP lyase (CoA transferase family); DMS + 3-OH-propionate; Liu et al 2022 Microbiome
+2.3.6.2	Regulating the physical quality of air for people	K20034	KO	0.70	literature:PMID:20880330	producer	DMSP cleavage to DMS	dddQ DMSP lyase (cupin family); DMS production in roseobacters; Todd et al 2010
+2.3.6.2	Regulating the physical quality of air for people	K17285	KO	0.70	literature:PMID:37306587	producer	DMSP cleavage to DMS	dddL DMSP lyase; DMS production in marine bacteria; Cheng et al 2023
+2.3.3.2	Controlling disease	K01152	KO	0.80	literature:PMID:39203545	inhibitor	Antimicrobial resistance indicator	intI1 class 1 integron integrase; primary indicator of anthropogenic ARG pollution in water
