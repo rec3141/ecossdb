@@ -5,7 +5,7 @@ channels:
   - defaults
 dependencies:
   - python>=3.10
-  - pandas>=2.0
+  # Only openpyxl is non-stdlib; needed for parse_cices.py (CICES xlsx → TSV).
+  # All pipeline runtime scripts (map_to_es, aggregate_*, score_es, etc.)
+  # use only stdlib (csv, json, argparse, collections) — no extra deps needed.
   - openpyxl>=3.1
-  - scipy>=1.11
-  - numpy>=1.24

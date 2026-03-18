@@ -61,9 +61,30 @@ To extend the mapping table:
 2. Validate: `python3 bin/validate_mapping.py --ontology db/ontology/cices_v5.2.tsv --proposed your_file.tsv --existing db/mappings/es_gene_mapping.tsv`
 3. Merge: `python3 bin/merge_proposed_mappings.py --master db/mappings/es_gene_mapping.tsv --proposed db/mappings/proposed/*.tsv --output db/mappings/es_gene_mapping.tsv --log merge_log.tsv`
 
+## Dependencies
+
+All pipeline runtime scripts use **Python stdlib only** (csv, json, argparse, collections, re, gzip).
+No pandas, numpy, scipy, or other third-party packages needed at runtime.
+
+The only non-stdlib dependency is `openpyxl` in `parse_cices.py` — used once to parse the
+CICES xlsx into TSV. The pre-parsed TSV is committed to the repo, so openpyxl is not needed
+for normal pipeline execution.
+
+### Standalone install
+```bash
+./install.sh          # Creates ecossdb-core conda env + verifies data files
+./install.sh --skip-env  # Just verify data files (no conda)
+```
+
+### Within danaseq
+No separate install needed. ECOSSDB is a git submodule initialized by danaseq's `install.sh`.
+The ECOSSDB processes use danaseq's `dana-mag-classify` env (Python 3 + stdlib is sufficient).
+Scripts are found via `beforeScript "export PATH=${ecossdb_bin}:$PATH"` in each process.
+
 ## Key Design Decisions
 
 - CICES 5.2 as default but ontology-agnostic — any hierarchical TSV works
 - Confidence-weighted scoring with functional role weights (producer, transformer, consumer, inhibitor)
 - Gene-level granularity preserved through aggregation (contig → MAG → sample)
 - AI agent-extensible: schema.json + validate_mapping.py + staging directory
+- Pure stdlib Python — no heavy deps, runs in any Python 3.10+ env
