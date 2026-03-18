@@ -1,0 +1,458 @@
+Goal_num,Target_num,ES,LinkAll,LinkExperts
+1,1.1,Food Provision,PO,PO
+1,1.1,Raw Materials,PO,PO
+1,1.1,Water Provision,PO,PO
+1,1.1,Carbon Storage,PO,UN
+1,1.1,Genetic Resources,PO,UN
+1,1.1,Habitat & Biodiversity,UN,PO
+1,1.1,Recreation & Tourism,UN,PO
+1,1.1,Air Quality,UN,UN
+1,1.1,Cultural & Spiritual,UN,UN
+1,1.1,Erosion Control,UN,UN
+1,1.1,Moderation of Extremes,UN,UN
+1,1.1,Nutrient Cycling,UN,UN
+1,1.1,Pest & Disease Control,UN,UN
+1,1.1,Pollination,UN,UN
+1,1.1,Water Quality,UN,UN
+1,1.1,Water Regulation,UN,UN
+1,1.2,Food Provision,PO,PO
+1,1.2,Raw Materials,PO,PO
+1,1.2,Carbon Storage,PO,UN
+1,1.2,Genetic Resources,PO,UN
+1,1.2,Habitat & Biodiversity,UN,PO
+1,1.2,Recreation & Tourism,UN,PO
+1,1.2,Water Provision,UN,PO
+1,1.2,Air Quality,UN,UN
+1,1.2,Cultural & Spiritual,UN,UN
+1,1.2,Erosion Control,UN,UN
+1,1.2,Moderation of Extremes,UN,UN
+1,1.2,Nutrient Cycling,UN,UN
+1,1.2,Pest & Disease Control,UN,UN
+1,1.2,Pollination,UN,UN
+1,1.2,Water Quality,UN,UN
+1,1.2,Water Regulation,UN,UN
+1,1.5,Food Provision,PO,PO
+1,1.5,Water Provision,PO,PO
+1,1.5,Carbon Storage,PO,UN
+1,1.5,Genetic Resources,PO,UN
+1,1.5,Raw Materials,PO,UN
+1,1.5,Habitat & Biodiversity,UN,PO
+1,1.5,Recreation & Tourism,UN,PO
+1,1.5,Air Quality,UN,UN
+1,1.5,Cultural & Spiritual,UN,UN
+1,1.5,Erosion Control,UN,UN
+1,1.5,Moderation of Extremes,UN,UN
+1,1.5,Nutrient Cycling,UN,UN
+1,1.5,Pest & Disease Control,UN,UN
+1,1.5,Pollination,UN,UN
+1,1.5,Water Quality,UN,UN
+1,1.5,Water Regulation,UN,UN
+2,2.1,Pest & Disease Control,PO,PO
+2,2.1,Pollination,PO,PO
+2,2.1,Carbon Storage,PO,UN
+2,2.1,Erosion Control,PO,UN
+2,2.1,Habitat & Biodiversity,PO,UN
+2,2.1,Nutrient Cycling,PO,UN
+2,2.1,Recreation & Tourism,PO,UN
+2,2.1,Food Provision,UN,PO
+2,2.1,Genetic Resources,UN,PO
+2,2.1,Raw Materials,UN,PO
+2,2.1,Water Provision,UN,PO
+2,2.1,Water Regulation,UN,PO
+2,2.1,Air Quality,UN,UN
+2,2.1,Cultural & Spiritual,UN,UN
+2,2.1,Moderation of Extremes,UN,UN
+2,2.1,Water Quality,UN,UN
+2,2.3,Food Provision,PO,PO
+2,2.3,Habitat & Biodiversity,PO,PO
+2,2.3,Moderation of Extremes,PO,PO
+2,2.3,Nutrient Cycling,PO,PO
+2,2.3,Pollination,PO,PO
+2,2.3,Water Provision,PO,PO
+2,2.3,Carbon Storage,PO,UN
+2,2.3,Erosion Control,PO,UN
+2,2.3,Recreation & Tourism,PO,UN
+2,2.3,Genetic Resources,UN,PO
+2,2.3,Pest & Disease Control,UN,PO
+2,2.3,Raw Materials,UN,PO
+2,2.3,Water Regulation,UN,PO
+2,2.3,Air Quality,UN,UN
+2,2.3,Cultural & Spiritual,UN,UN
+2,2.3,Water Quality,UN,UN
+2,2.4,Carbon Storage,PO,PO
+2,2.4,Habitat & Biodiversity,PO,PO
+2,2.4,Moderation of Extremes,PO,PO
+2,2.4,Nutrient Cycling,PO,PO
+2,2.4,Water Provision,PO,PO
+2,2.4,Water Regulation,PO,PO
+2,2.4,Erosion Control,PO,UN
+2,2.4,Recreation & Tourism,PO,UN
+2,2.4,Cultural & Spiritual,UN,PO
+2,2.4,Genetic Resources,UN,PO
+2,2.4,Pollination,UN,PO
+2,2.4,Air Quality,UN,UN
+2,2.4,Food Provision,UN,UN
+2,2.4,Pest & Disease Control,UN,UN
+2,2.4,Raw Materials,UN,UN
+2,2.4,Water Quality,UN,UN
+2,2.5,Erosion Control,PO,UN
+2,2.5,Pollination,PO,UN
+2,2.5,Water Provision,PO,UN
+2,2.5,Genetic Resources,UN,PO
+2,2.5,Habitat & Biodiversity,UN,PO
+2,2.5,Air Quality,UN,UN
+2,2.5,Carbon Storage,UN,UN
+2,2.5,Cultural & Spiritual,UN,UN
+2,2.5,Food Provision,UN,UN
+2,2.5,Moderation of Extremes,UN,UN
+2,2.5,Nutrient Cycling,UN,UN
+2,2.5,Pest & Disease Control,UN,UN
+2,2.5,Raw Materials,UN,UN
+2,2.5,Recreation & Tourism,UN,UN
+2,2.5,Water Quality,UN,UN
+2,2.5,Water Regulation,UN,UN
+2,2.2,Carbon Storage,PO,UN
+2,2.2,Erosion Control,PO,UN
+2,2.2,Food Provision,PO,UN
+2,2.2,Habitat & Biodiversity,PO,UN
+2,2.2,Nutrient Cycling,PO,UN
+2,2.2,Pollination,PO,UN
+2,2.2,Genetic Resources,UN,PO
+2,2.2,Water Provision,UN,PO
+2,2.2,Air Quality,UN,UN
+2,2.2,Cultural & Spiritual,UN,UN
+2,2.2,Moderation of Extremes,UN,UN
+2,2.2,Pest & Disease Control,UN,UN
+2,2.2,Raw Materials,UN,UN
+2,2.2,Recreation & Tourism,UN,UN
+2,2.2,Water Quality,UN,UN
+2,2.2,Water Regulation,UN,UN
+3,3.3,Water Provision,PO,PO
+3,3.3,Air Quality,PO,UN
+3,3.3,Carbon Storage,PO,UN
+3,3.3,Cultural & Spiritual,PO,UN
+3,3.3,Pollination,PO,UN
+3,3.3,Pest & Disease Control,UN,PO
+3,3.3,Water Quality,UN,PO
+3,3.3,Erosion Control,UN,UN
+3,3.3,Food Provision,UN,UN
+3,3.3,Genetic Resources,UN,UN
+3,3.3,Habitat & Biodiversity,UN,UN
+3,3.3,Moderation of Extremes,UN,UN
+3,3.3,Nutrient Cycling,UN,UN
+3,3.3,Raw Materials,UN,UN
+3,3.3,Recreation & Tourism,UN,UN
+3,3.3,Water Regulation,UN,UN
+3,3.4,Air Quality,PO,UN
+3,3.4,Cultural & Spiritual,PO,UN
+3,3.4,Food Provision,PO,UN
+3,3.4,Pollination,PO,UN
+3,3.4,Water Quality,UN,PO
+3,3.4,Carbon Storage,UN,UN
+3,3.4,Erosion Control,UN,UN
+3,3.4,Genetic Resources,UN,UN
+3,3.4,Habitat & Biodiversity,UN,UN
+3,3.4,Moderation of Extremes,UN,UN
+3,3.4,Nutrient Cycling,UN,UN
+3,3.4,Pest & Disease Control,UN,UN
+3,3.4,Raw Materials,UN,UN
+3,3.4,Recreation & Tourism,UN,UN
+3,3.4,Water Provision,UN,UN
+3,3.4,Water Regulation,UN,UN
+3,3.9,Water Provision,PO,PO
+3,3.9,Air Quality,PO,UN
+3,3.9,Carbon Storage,PO,UN
+3,3.9,Cultural & Spiritual,PO,UN
+3,3.9,Erosion Control,PO,UN
+3,3.9,Food Provision,PO,UN
+3,3.9,Pollination,PO,UN
+3,3.9,Habitat & Biodiversity,UN,PO
+3,3.9,Pest & Disease Control,UN,PO
+3,3.9,Water Quality,UN,PO
+3,3.9,Genetic Resources,UN,UN
+3,3.9,Moderation of Extremes,UN,UN
+3,3.9,Nutrient Cycling,UN,UN
+3,3.9,Raw Materials,UN,UN
+3,3.9,Recreation & Tourism,UN,UN
+3,3.9,Water Regulation,UN,UN
+6,6.1,Water Provision,PO,PO
+6,6.1,Water Quality,PO,PO
+6,6.1,Carbon Storage,PO,UN
+6,6.1,Cultural & Spiritual,PO,UN
+6,6.1,Food Provision,PO,UN
+6,6.1,Nutrient Cycling,PO,UN
+6,6.1,Recreation & Tourism,PO,UN
+6,6.1,Habitat & Biodiversity,UN,PO
+6,6.1,Water Regulation,UN,PO
+6,6.1,Air Quality,UN,UN
+6,6.1,Erosion Control,UN,UN
+6,6.1,Genetic Resources,UN,UN
+6,6.1,Moderation of Extremes,UN,UN
+6,6.1,Pest & Disease Control,UN,UN
+6,6.1,Pollination,UN,UN
+6,6.1,Raw Materials,UN,UN
+6,6.3,Food Provision,PO,PO
+6,6.3,Water Quality,PO,PO
+6,6.3,Cultural & Spiritual,PO,UN
+6,6.3,Recreation & Tourism,PO,UN
+6,6.3,Water Provision,PO,UN
+6,6.3,Habitat & Biodiversity,UN,PO
+6,6.3,Water Regulation,UN,PO
+6,6.3,Air Quality,UN,UN
+6,6.3,Carbon Storage,UN,UN
+6,6.3,Erosion Control,UN,UN
+6,6.3,Genetic Resources,UN,UN
+6,6.3,Moderation of Extremes,UN,UN
+6,6.3,Nutrient Cycling,UN,UN
+6,6.3,Pest & Disease Control,UN,UN
+6,6.3,Pollination,UN,UN
+6,6.3,Raw Materials,UN,UN
+6,6.4,Water Provision,PO,PO
+6,6.4,Carbon Storage,PO,UN
+6,6.4,Cultural & Spiritual,PO,UN
+6,6.4,Nutrient Cycling,PO,UN
+6,6.4,Recreation & Tourism,PO,UN
+6,6.4,Water Quality,PO,UN
+6,6.4,Food Provision,UN,PO
+6,6.4,Moderation of Extremes,UN,PO
+6,6.4,Water Regulation,UN,PO
+6,6.4,Air Quality,UN,UN
+6,6.4,Erosion Control,UN,UN
+6,6.4,Genetic Resources,UN,UN
+6,6.4,Habitat & Biodiversity,UN,UN
+6,6.4,Pest & Disease Control,UN,UN
+6,6.4,Pollination,UN,UN
+6,6.4,Raw Materials,UN,UN
+6,6.6,Food Provision,PO,PO
+6,6.6,Water Provision,PO,PO
+6,6.6,Water Quality,PO,PO
+6,6.6,Carbon Storage,PO,UN
+6,6.6,Cultural & Spiritual,PO,UN
+6,6.6,Nutrient Cycling,PO,UN
+6,6.6,Recreation & Tourism,PO,UN
+6,6.6,Erosion Control,UN,PO
+6,6.6,Habitat & Biodiversity,UN,PO
+6,6.6,Moderation of Extremes,UN,PO
+6,6.6,Water Regulation,UN,PO
+6,6.6,Air Quality,UN,UN
+6,6.6,Genetic Resources,UN,UN
+6,6.6,Pest & Disease Control,UN,UN
+6,6.6,Pollination,UN,UN
+6,6.6,Raw Materials,UN,UN
+7,7.1,Carbon Storage,PO,PO
+7,7.1,Air Quality,PO,UN
+7,7.1,Moderation of Extremes,PO,UN
+7,7.1,Cultural & Spiritual,UN,UN
+7,7.1,Erosion Control,UN,UN
+7,7.1,Food Provision,UN,UN
+7,7.1,Genetic Resources,UN,UN
+7,7.1,Habitat & Biodiversity,UN,UN
+7,7.1,Nutrient Cycling,UN,UN
+7,7.1,Pest & Disease Control,UN,UN
+7,7.1,Pollination,UN,UN
+7,7.1,Raw Materials,UN,UN
+7,7.1,Recreation & Tourism,UN,UN
+7,7.1,Water Provision,UN,UN
+7,7.1,Water Quality,UN,UN
+7,7.1,Water Regulation,UN,UN
+7,7.2,Carbon Storage,PO,PO
+7,7.2,Moderation of Extremes,PO,UN
+7,7.2,Air Quality,UN,UN
+7,7.2,Cultural & Spiritual,UN,UN
+7,7.2,Erosion Control,UN,UN
+7,7.2,Food Provision,UN,UN
+7,7.2,Genetic Resources,UN,UN
+7,7.2,Habitat & Biodiversity,UN,UN
+7,7.2,Nutrient Cycling,UN,UN
+7,7.2,Pest & Disease Control,UN,UN
+7,7.2,Pollination,UN,UN
+7,7.2,Raw Materials,UN,UN
+7,7.2,Recreation & Tourism,UN,UN
+7,7.2,Water Provision,UN,UN
+7,7.2,Water Quality,UN,UN
+7,7.2,Water Regulation,UN,UN
+8,8.2,Water Regulation,PO,UN
+8,8.4,Raw Materials,PO,UN
+8,8.4,Water Provision,PO,UN
+8,8.4,Water Regulation,PO,UN
+8,8.4,Habitat & Biodiversity,UN,PO
+8,8.9,Food Provision,PO,UN
+8,8.9,Raw Materials,PO,UN
+8,8.9,Nutrient Cycling,UN,PO
+9,9.1,Carbon Storage,PO,PO
+9,9.1,Air Quality,PO,UN
+9,9.1,Moderation of Extremes,PO,UN
+9,9.1,Pest & Disease Control,PO,UN
+9,9.1,Water Provision,UN,PO
+9,9.4,Carbon Storage,PO,PO
+9,9.4,Water Provision,PO,PO
+9,9.4,Air Quality,PO,UN
+9,9.4,Moderation of Extremes,PO,UN
+9,9.4,Pest & Disease Control,PO,UN
+9,9.4,Habitat & Biodiversity,UN,PO
+11,11.5,Water Provision,PO,PO
+11,11.5,Raw Materials,PO,UN
+11,11.5,Habitat & Biodiversity,UN,PO
+11,11.6,Air Quality,PO,PO
+11,11.6,Carbon Storage,PO,PO
+11,11.6,Water Provision,PO,PO
+11,11.6,Cultural & Spiritual,PO,UN
+11,11.6,Moderation of Extremes,PO,UN
+11,11.6,Nutrient Cycling,PO,UN
+11,11.6,Water Quality,UN,PO
+11,11.7,Raw Materials,PO,UN
+11,11.7,Water Provision,PO,UN
+11,11.7,Water Regulation,PO,UN
+11,11.7,Cultural & Spiritual,UN,PO
+11,11.7,Habitat & Biodiversity,UN,PO
+11,11.A,Cultural & Spiritual,PO,PO
+11,11.A,Moderation of Extremes,PO,UN
+11,11.A,Water Regulation,PO,UN
+11,11.A,Carbon Storage,UN,PO
+11,11.A,Habitat & Biodiversity,UN,PO
+11,11.A,Water Quality,UN,PO
+12,12.2,Food Provision,PO,PO
+12,12.2,Raw Materials,PO,UN
+12,12.2,Water Regulation,PO,UN
+12,12.2,Cultural & Spiritual,UN,PO
+12,12.2,Nutrient Cycling,UN,PO
+12,12.2,Recreation & Tourism,UN,PO
+12,12.3,Food Provision,PO,PO
+12,12.3,Raw Materials,PO,UN
+12,12.3,Water Regulation,PO,UN
+12,12.4,Food Provision,PO,PO
+12,12.4,Raw Materials,PO,UN
+12,12.4,Water Regulation,PO,UN
+12,12.4,Cultural & Spiritual,UN,PO
+12,12.5,Carbon Storage,PO,UN
+12,12.5,Food Provision,PO,UN
+12,12.5,Raw Materials,PO,UN
+13,13.1,Air Quality,PO,PO
+13,13.1,Carbon Storage,PO,PO
+13,13.1,Food Provision,PO,PO
+13,13.1,Moderation of Extremes,PO,PO
+13,13.1,Nutrient Cycling,PO,PO
+13,13.1,Raw Materials,PO,PO
+13,13.1,Water Provision,PO,PO
+13,13.1,Water Regulation,PO,PO
+13,13.1,Genetic Resources,PO,UN
+13,13.1,Pest & Disease Control,PO,UN
+13,13.1,Habitat & Biodiversity,UN,PO
+13,13.1,Recreation & Tourism,UN,PO
+13,13.1,Water Quality,UN,PO
+13,13.1,Cultural & Spiritual,UN,UN
+13,13.1,Erosion Control,UN,UN
+13,13.1,Pollination,UN,UN
+14,14.1,Cultural & Spiritual,PO,UN
+14,14.1,Food Provision,PO,UN
+14,14.1,Moderation of Extremes,PO,UN
+14,14.1,Raw Materials,PO,UN
+14,14.1,Water Provision,PO,UN
+14,14.2,Food Provision,PO,PO
+14,14.2,Cultural & Spiritual,PO,UN
+14,14.2,Moderation of Extremes,PO,UN
+14,14.2,Raw Materials,PO,UN
+14,14.2,Water Provision,PO,UN
+14,14.2,Carbon Storage,UN,PO
+14,14.2,Habitat & Biodiversity,UN,PO
+14,14.2,Recreation & Tourism,UN,PO
+14,14.3,Cultural & Spiritual,PO,UN
+14,14.3,Moderation of Extremes,PO,UN
+14,14.3,Raw Materials,PO,UN
+14,14.3,Carbon Storage,UN,PO
+14,14.3,Recreation & Tourism,UN,PO
+14,14.4,Food Provision,PO,PO
+14,14.4,Raw Materials,PO,UN
+14,14.4,Water Provision,PO,UN
+14,14.4,Water Regulation,PO,UN
+14,14.4,Habitat & Biodiversity,UN,PO
+14,14.4,Recreation & Tourism,UN,PO
+14,14.7,Cultural & Spiritual,PO,PO
+14,14.7,Food Provision,PO,PO
+14,14.7,Moderation of Extremes,PO,UN
+14,14.7,Raw Materials,PO,UN
+14,14.7,Water Provision,PO,UN
+14,14.7,Water Regulation,PO,UN
+14,14.7,Carbon Storage,UN,PO
+14,14.7,Habitat & Biodiversity,UN,PO
+14,14.7,Recreation & Tourism,UN,PO
+14,14.B,Food Provision,PO,PO
+14,14.B,Moderation of Extremes,PO,UN
+14,14.B,Raw Materials,PO,UN
+14,14.B,Water Provision,PO,UN
+14,14.B,Habitat & Biodiversity,UN,PO
+15,15.1,Carbon Storage,PO,PO
+15,15.1,Erosion Control,PO,PO
+15,15.1,Food Provision,PO,PO
+15,15.1,Genetic Resources,PO,PO
+15,15.1,Habitat & Biodiversity,PO,PO
+15,15.1,Raw Materials,PO,PO
+15,15.1,Recreation & Tourism,PO,PO
+15,15.1,Water Provision,PO,PO
+15,15.1,Water Quality,PO,PO
+15,15.1,Water Regulation,PO,PO
+15,15.1,Cultural & Spiritual,PO,UN
+15,15.1,Moderation of Extremes,PO,UN
+15,15.1,Pest & Disease Control,PO,UN
+15,15.1,Nutrient Cycling,UN,PO
+15,15.1,Pollination,UN,PO
+15,15.2,Carbon Storage,PO,PO
+15,15.2,Food Provision,PO,PO
+15,15.2,Habitat & Biodiversity,PO,PO
+15,15.2,Raw Materials,PO,PO
+15,15.2,Recreation & Tourism,PO,PO
+15,15.2,Water Provision,PO,PO
+15,15.2,Water Regulation,PO,PO
+15,15.2,Genetic Resources,PO,UN
+15,15.2,Moderation of Extremes,PO,UN
+15,15.2,Pest & Disease Control,PO,UN
+15,15.2,Water Quality,PO,UN
+15,15.2,Erosion Control,UN,PO
+15,15.2,Nutrient Cycling,UN,PO
+15,15.2,Pollination,UN,PO
+15,15.3,Carbon Storage,PO,PO
+15,15.3,Habitat & Biodiversity,PO,PO
+15,15.3,Moderation of Extremes,PO,PO
+15,15.3,Water Provision,PO,PO
+15,15.3,Water Quality,PO,PO
+15,15.3,Cultural & Spiritual,PO,UN
+15,15.3,Genetic Resources,PO,UN
+15,15.3,Pest & Disease Control,PO,UN
+15,15.3,Recreation & Tourism,PO,UN
+15,15.3,Erosion Control,UN,PO
+15,15.3,Food Provision,UN,PO
+15,15.3,Nutrient Cycling,UN,PO
+15,15.3,Pollination,UN,PO
+15,15.3,Raw Materials,UN,PO
+15,15.3,Water Regulation,UN,PO
+15,15.4,Raw Materials,PO,PO
+15,15.4,Recreation & Tourism,PO,PO
+15,15.4,Water Provision,PO,PO
+15,15.4,Carbon Storage,PO,UN
+15,15.4,Food Provision,PO,UN
+15,15.4,Genetic Resources,PO,UN
+15,15.4,Moderation of Extremes,PO,UN
+15,15.4,Pest & Disease Control,PO,UN
+15,15.4,Water Quality,PO,UN
+15,15.4,Erosion Control,UN,PO
+15,15.4,Habitat & Biodiversity,UN,PO
+15,15.4,Water Regulation,UN,PO
+15,15.5,Cultural & Spiritual,PO,PO
+15,15.5,Erosion Control,PO,PO
+15,15.5,Food Provision,PO,PO
+15,15.5,Habitat & Biodiversity,PO,PO
+15,15.5,Recreation & Tourism,PO,PO
+15,15.5,Water Provision,PO,PO
+15,15.5,Water Quality,PO,PO
+15,15.5,Carbon Storage,PO,UN
+15,15.5,Pest & Disease Control,PO,UN
+15,15.5,Raw Materials,PO,UN
+15,15.5,Genetic Resources,UN,PO
+15,15.5,Moderation of Extremes,UN,PO
+15,15.5,Nutrient Cycling,UN,PO
+15,15.5,Pollination,UN,PO
+15,15.8,Genetic Resources,PO,UN
+15,15.8,Pest & Disease Control,PO,UN
+15,15.8,Water Provision,PO,UN
+15,15.8,Habitat & Biodiversity,UN,PO
+15,15.8,Raw Materials,UN,PO

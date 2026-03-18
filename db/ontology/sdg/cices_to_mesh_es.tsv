@@ -1,0 +1,51 @@
+cices_code	cices_name	mesh_es	notes
+1.1.1.1	Any crops and fruits grown by humans for food	Food Provision	Cultivated terrestrial plants for nutrition
+1.1.1.2	Material from plants, fungi, algae or bacterial that we can use	Raw Materials	Fibres and other materials
+1.1.1.3	Plant materials used as a source of energy	Raw Materials	Cultivated energy crops
+1.1.2.1	Plants cultivated in fresh or salt water that we eat	Food Provision	Aquaculture plants
+1.1.2.2	Plants cultivated in fresh or salt water as material	Raw Materials	Aquaculture materials
+1.1.3.1	Livestock raised for food	Food Provision	Reared animals for nutrition
+1.1.3.2	Material from animals that we can use	Raw Materials	Animal fibres and materials
+1.1.4.1	Animals cultivated in water that we eat	Food Provision	Aquaculture animals
+1.1.5.1	Food from wild plants	Food Provision	Wild plant harvest
+1.1.5.2	Materials from wild plants	Raw Materials	Wild plant materials
+1.1.6.1	Food from wild animals	Food Provision	Wild animal harvest
+1.1.6.2	Materials from wild animals	Raw Materials	Wild animal materials
+1.2.1.1	Seed collection	Genetic Resources	Plant genetic material
+1.2.1.2	Plants for breeding	Genetic Resources	Cultivar development
+1.2.1.3	Genetic material from wild plants	Genetic Resources	Wild plant genetics
+1.2.2.1	Animals used for replenishing stock	Genetic Resources	Animal genetic material
+1.2.2.2	Wild animals for breeding	Genetic Resources	Wild animal genetics
+2.1.1.1	Decomposing wastes or polluting substances	Water Quality	Bioremediation and waste decomposition
+2.1.1.2	Filtering wastes or sequestering pollutants	Water Quality	Biofiltering and sequestration
+2.1.2.1	Reducing smells	Air Quality	Odour mediation by living processes
+2.2.1.1	Controlling soil or sediment loss by water	Erosion Control	Biological erosion prevention
+2.2.1.2	Controlling soil or sediment loss by wind	Erosion Control	Wind erosion prevention
+2.2.2.1	Controlling river and lake levels	Water Regulation	Hydrological flow regulation
+2.2.2.2	Controlling peaks in river levels	Moderation of Extremes	Flood mitigation
+2.2.3.1	Stopping landslides and avalanches	Moderation of Extremes	Mass movement prevention
+2.2.3.2	Protecting people from flooding	Moderation of Extremes	Flood protection
+2.2.3.3	Protecting people from storms	Moderation of Extremes	Storm protection
+2.2.3.4	Protecting people from fire	Moderation of Extremes	Fire protection
+2.3.2.1	Pollinating fruit trees and other plants	Pollination	Biotic pollination
+2.3.2.3	Providing habitats for wild plants and animals	Habitat & Biodiversity	Habitat provision
+2.3.2.4	Providing habitats for wild plants and animals	Habitat & Biodiversity	Gene pool protection
+2.3.2.5	Providing habitats for wild plants and animals	Habitat & Biodiversity	Maintaining nursery populations
+2.3.3.1	Controlling pests and invasive species	Pest & Disease Control	Biological pest control
+2.3.3.2	Controlling disease	Pest & Disease Control	Disease regulation
+2.3.4.1	Ensuring soils form and develop	Nutrient Cycling	Soil formation
+2.3.4.2	Ensuring soil organic matter is maintained	Nutrient Cycling	Soil organic matter maintenance
+2.3.4.3	Creating and maintaining soil structure	Nutrient Cycling	Soil structure
+2.3.5.1	Controlling the chemical quality of freshwater	Water Quality	Freshwater quality regulation
+2.3.5.2	Controlling the chemical quality of salt water	Water Quality	Marine water quality regulation
+2.3.6.1	Regulating our global climate	Carbon Storage	Global climate regulation via C cycling
+2.3.6.2	Regulating the physical quality of air	Air Quality	Local air quality regulation
+3.1.1.1	Using the environment for sport and recreation	Recreation & Tourism	Outdoor recreation
+3.1.1.2	Watching plants and animals where they live	Recreation & Tourism	Nature-based tourism
+3.1.2.1	Using nature for health	Recreation & Tourism	Health and recreation
+3.2.1.1	Researching nature	Cultural & Spiritual	Scientific research
+3.2.1.2	Studying nature	Cultural & Spiritual	Education
+3.2.1.3	Nature and cultural identity	Cultural & Spiritual	Heritage values
+3.2.1.4	The beauty of nature	Cultural & Spiritual	Aesthetic values
+3.2.2.1	Nature as national emblem	Cultural & Spiritual	Symbolic value
+3.2.2.2	Spiritual importance of nature	Cultural & Spiritual	Sacred and religious values

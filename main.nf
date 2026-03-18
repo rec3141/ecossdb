@@ -37,6 +37,7 @@ if (params.help) {
       --sample_id       Sample identifier (default: 'sample')
       --outdir          Output directory (default: 'results')
       --role_weights    Scoring role weights (default: producer:1.0,transformer:0.7,consumer:-0.3,inhibitor:-0.5)
+      --sdg             Enable SDG (Sustainable Development Goals) mapping (default: true)
     """.stripIndent()
     exit 0
 }
@@ -55,6 +56,7 @@ include { AGGREGATE_CONTIGS     } from './modules/aggregation'
 include { AGGREGATE_BINS        } from './modules/aggregation'
 include { SCORE_ES              } from './modules/scoring'
 include { EXPORT_VIZ            } from './modules/viz'
+include { MAP_ES_TO_SDG         } from './modules/sdg'
 
 // --- Main workflow ---
 workflow {
@@ -123,6 +125,17 @@ workflow {
             AGGREGATE_CONTIGS.out.catalog,
             ch_mag_profiles,
             ch_hierarchy_json
+        )
+    }
+
+    // 9. SDG mapping (optional, enabled by default)
+    if (params.sdg) {
+        ch_sdg_crosswalk = Channel.fromPath("${projectDir}/db/ontology/sdg/cices_to_sdg.tsv")
+        ch_sdg_targets   = Channel.fromPath("${projectDir}/db/ontology/sdg/sdg_targets.tsv")
+        MAP_ES_TO_SDG(
+            SCORE_ES.out.scores,
+            ch_sdg_crosswalk,
+            ch_sdg_targets
         )
     }
 }
