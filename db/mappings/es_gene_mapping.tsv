@@ -92,9 +92,29 @@ es_code	es_name	gene_id	gene_id_type	confidence	evidence_source	functional_role	
 2.1.1.2	Filtering wastes or sequestering pollutants	K00537	KO	0.80	literature:PMID:36002692	producer	Arsenic detoxification	arsC arsenate reductase; As5+ → As3+ for efflux; Xiao et al 2022
 2.1.1.2	Filtering wastes or sequestering pollutants	K03325	KO	0.80	literature:PMID:36002692	producer	Arsenic detoxification	arsB arsenite efflux pump; removes As3+ from cell
 2.1.1.2	Filtering wastes or sequestering pollutants	K07240	KO	0.75	literature:PMID:36002692	producer	Chromium detoxification	chrA chromate efflux transporter; Cr6+ resistance
+2.1.1.2	Filtering wastes or sequestering pollutants	K07667	KO	0.70	literature:PMID:36002692	transformer	Metal-responsive regulation	cusR two-component copper response regulator
 2.1.1.2	Filtering wastes or sequestering pollutants	K08363	KO	0.75	literature:PMID:37441819	transformer	Mercury transport	merT mercury transport protein; Hg2+ uptake for detoxification
+2.1.1.2	Filtering wastes or sequestering pollutants	K16264	KO	0.75	literature:PMID:36002692	producer	Cobalt/zinc/cadmium efflux	czcA RND heavy metal efflux; Co/Zn/Cd resistance
 2.1.1.2	Filtering wastes or sequestering pollutants	K17686	KO	0.75	literature:PMID:36002692	producer	Copper detoxification	copA copper-exporting P-type ATPase; Cu efflux
+2.1.1.2	Filtering wastes or sequestering pollutants	K19592	KO	0.80	literature:PMID:36002692	producer	Zinc/cadmium detoxification	zntA Zn2+/Cd2+ efflux P-type ATPase; heavy metal export
 2.3.3.2	Controlling disease	K01152	KO	0.80	literature:PMID:39203545	inhibitor	Antimicrobial resistance indicator	intI1 class 1 integron integrase; primary indicator of anthropogenic ARG pollution in water
+2.3.3.2	Controlling disease	K02547	KO	0.75	literature:PMID:36002692	inhibitor	Antimicrobial resistance	mexB RND multidrug efflux pump; metal-ARG co-selection; Xiao et al 2022
+2.3.3.2	Controlling disease	K05595	KO	0.80	literature:PMID:41202544	inhibitor	Antimicrobial resistance	mecA PBP2a; methicillin resistance indicator in water
+2.3.3.2	Controlling disease	K07552	KO	0.75	literature:PMID:41202544	inhibitor	Antimicrobial resistance	qnrS pentapeptide repeat quinolone resistance
+2.3.3.2	Controlling disease	K17836	KO	0.80	literature:PMID:41202544	inhibitor	Antimicrobial resistance	blaTEM class A beta-lactamase; major ARG in freshwater; Zhang et al 2025
+2.3.3.2	Controlling disease	K18220	KO	0.80	literature:PMID:26441948	inhibitor	Antimicrobial resistance	sul1 sulfonamide resistance dihydropteroate synthase; widespread ARG indicator; Tan et al 2015
+2.3.3.2	Controlling disease	K18221	KO	0.80	literature:PMID:26441948	inhibitor	Antimicrobial resistance	sul2 sulfonamide resistance dihydropteroate synthase; mobile ARG
+2.3.3.2	Controlling disease	K18519	KO	0.80	literature:PMID:41202544	inhibitor	Antimicrobial resistance	vanA D-alanine--D-lactate ligase; vancomycin resistance indicator
+2.3.3.2	Controlling disease	K18590	KO	0.75	literature:PMID:38924952	inhibitor	Antimicrobial resistance	tetM tetracycline resistance ribosomal protection; Lu et al 2024 Water Res
+2.3.3.2	Controlling disease	K18843	KO	0.75	literature:PMID:38924952	inhibitor	Antimicrobial resistance	tetW tetracycline resistance ribosomal protection
+2.3.4.2	Ensuring the organic matter in our soils is maintained	K00422	KO	0.65	literature:PMID:38278240	transformer	Lignin degradation	laccase (AA1 family); lignin oxidation; Wang et al 2024
+2.3.4.2	Ensuring the organic matter in our soils is maintained	K00430	KO	0.65	literature:PMID:38278240	transformer	Lignin degradation	peroxidase (AA2 family); lignin and Mn peroxidase
+2.3.4.2	Ensuring the organic matter in our soils is maintained	K01179	KO	0.70	literature:PMID:38278240	transformer	Cellulose degradation	endoglucanase (cellulase); GH5/GH9 family; plant residue decomposition; Wang et al 2024
+2.3.4.2	Ensuring the organic matter in our soils is maintained	K01183	KO	0.70	literature:PMID:38278240	transformer	Chitin degradation	chiA chitinase; GH18 fungal residue decomposition; dominant in deep soil
+2.3.4.2	Ensuring the organic matter in our soils is maintained	K01185	KO	0.65	literature:PMID:37594978	transformer	Peptidoglycan degradation	lysozyme; GH23 bacterial residue decomposition; Paul et al 2023 PLoS ONE
+2.3.4.2	Ensuring the organic matter in our soils is maintained	K01218	KO	0.65	literature:PMID:38278240	transformer	Hemicellulose degradation	xynA endo-1,4-beta-xylanase; hemicellulose decomposition correlated with SOC
+2.3.4.2	Ensuring the organic matter in our soils is maintained	K01225	KO	0.65	literature:PMID:38278240	transformer	Cellulose degradation	cbhA cellobiohydrolase; GH6/GH7 crystalline cellulose degradation
+2.3.4.2	Ensuring the organic matter in our soils is maintained	K05349	KO	0.70	literature:PMID:38278240	transformer	Cellulose degradation	bglX beta-glucosidase; GH1/GH3 dominant in soil C cycling; Wang et al 2024
 2.3.5.1	Controlling the chemical quality of freshwater	K00260	KO	0.55	foam	transformer	11_Nitrogen cycle / Ammonia assimilation	gudB, rocG
 2.3.5.1	Controlling the chemical quality of freshwater	K00261	KO	0.55	foam	transformer	11_Nitrogen cycle / Ammonia assimilation	GLUD1_2, gdhA
 2.3.5.1	Controlling the chemical quality of freshwater	K00262	KO	0.55	foam	transformer	11_Nitrogen cycle / Ammonia assimilation	E1.4.1.4, gdhA
@@ -211,6 +231,24 @@ es_code	es_name	gene_id	gene_id_type	confidence	evidence_source	functional_role	
 2.3.5.1	Controlling the chemical quality of freshwater	K21573	KO	0.80	literature:PMID:32082281	transformer	Dissimilatory iron reduction	mtrB outer membrane beta-barrel; iron reduction electron conduit
 2.3.5.1	Controlling the chemical quality of freshwater	K21574	KO	0.80	literature:PMID:32082281	transformer	Dissimilatory iron reduction	mtrC outer membrane decaheme cytochrome; terminal Fe3+ reductase
 2.3.5.1	Controlling the chemical quality of freshwater	K22468	KO	0.75	literature:PMID:39962698	transformer	Polyphosphate metabolism	ppk2 polyphosphate kinase 2; polyphosphate synthesis/degradation
+2.3.5.2	Controlling the chemical quality of salt water	K00368	KO	0.85	kegg_decoder+literature	producer	Denitrification (NO3→N2)	nirK Cu-containing nitrite reductase
+2.3.5.2	Controlling the chemical quality of salt water	K00370	KO	0.85	kegg_decoder+literature	producer	Denitrification (NO3→N2)	narG nitrate reductase; marine N removal
+2.3.5.2	Controlling the chemical quality of salt water	K00371	KO	0.85	kegg_decoder+literature	producer	Denitrification (NO3→N2)	narH nitrate reductase beta
+2.3.5.2	Controlling the chemical quality of salt water	K00376	KO	0.85	kegg_decoder+literature	producer	Denitrification (NO3→N2)	nosZ nitrous oxide reductase; terminal N2 production
+2.3.5.2	Controlling the chemical quality of salt water	K00394	KO	0.75	kegg_decoder+literature	transformer	Dissimilatory sulfate reduction	aprA APS reductase; marine S cycling
+2.3.5.2	Controlling the chemical quality of salt water	K01077	KO	0.75	literature:PMID:29569048	producer	Phosphorus mineralization	phoA alkaline phosphatase; marine P cycling
+2.3.5.2	Controlling the chemical quality of salt water	K01093	KO	0.75	literature:PMID:36181699	producer	Phosphorus mineralization	phoD alkaline phosphatase; marine P cycling
+2.3.5.2	Controlling the chemical quality of salt water	K02567	KO	0.85	kegg_decoder+literature	producer	Denitrification (NO3→N2)	napA periplasmic nitrate reductase
+2.3.5.2	Controlling the chemical quality of salt water	K02586	KO	0.85	kegg_decoder+literature	producer	Nitrogen fixation (N2→NH4)	nifD nitrogenase Mo-Fe alpha
+2.3.5.2	Controlling the chemical quality of salt water	K02588	KO	0.85	kegg_decoder+literature	producer	Nitrogen fixation (N2→NH4)	nifH nitrogenase reductase; marine N fixation
+2.3.5.2	Controlling the chemical quality of salt water	K04561	KO	0.80	kegg_decoder+literature	producer	Denitrification (NO3→N2)	norB nitric oxide reductase
+2.3.5.2	Controlling the chemical quality of salt water	K10944	KO	0.80	kegg_decoder+literature	transformer	Nitrification (NH3→NO3)	amoA ammonia monooxygenase; marine nitrification
+2.3.5.2	Controlling the chemical quality of salt water	K10945	KO	0.80	kegg_decoder+literature	transformer	Nitrification (NH3→NO3)	amoB ammonia monooxygenase subunit B
+2.3.5.2	Controlling the chemical quality of salt water	K10946	KO	0.80	kegg_decoder+literature	transformer	Nitrification (NH3→NO3)	amoC ammonia monooxygenase subunit C
+2.3.5.2	Controlling the chemical quality of salt water	K11180	KO	0.75	kegg_decoder+literature	transformer	Dissimilatory sulfate reduction	dsrA dissimilatory sulfite reductase; marine S cycling
+2.3.5.2	Controlling the chemical quality of salt water	K15864	KO	0.85	kegg_decoder+literature	producer	Denitrification (NO3→N2)	nirS cytochrome cd1 nitrite reductase
+2.3.5.2	Controlling the chemical quality of salt water	K17222	KO	0.75	kegg_decoder+literature	transformer	Thiosulfate oxidation (Sox)	soxA thiosulfate oxidation; marine S cycling
+2.3.5.2	Controlling the chemical quality of salt water	K20932	KO	0.85	kegg_decoder+literature	producer	Anammox (NH4+NO2→N2)	hzsA hydrazine synthase; marine anammox
 2.3.6.1	Regulating our global climate	K00018	KO	0.7	kegg_decoder	producer	Formaldehyde assimilation (methylotrophy)	Formaldehyde assimilation serine (M00346)
 2.3.6.1	Regulating our global climate	K00024	KO	0.5	foam	producer	15_Methylotrophy / Serine pathway for formaldehyde fixation	mdh
 2.3.6.1	Regulating our global climate	K00050	KO	0.5	foam	producer	15_Methylotrophy / Serine pathway for formaldehyde fixation	
@@ -371,6 +409,7 @@ es_code	es_name	gene_id	gene_id_type	confidence	evidence_source	functional_role	
 2.3.6.1	Regulating our global climate	K16258	KO	0.5	foam	producer	15_Methylotrophy / Methanol oxidation to formaldehyde	mxaK
 2.3.6.1	Regulating our global climate	K16259	KO	0.5	foam	producer	15_Methylotrophy / Methanol oxidation to formaldehyde	mxaL
 2.3.6.1	Regulating our global climate	K16260	KO	0.5	foam	producer	15_Methylotrophy / Methanol oxidation to formaldehyde	mxaD
+2.3.6.1	Regulating our global climate	K22622	KO	0.75	kegg_decoder	transformer	Thiosulfate oxidation (Sox)	soxY thiosulfate oxidation; S-compound cycling affects ocean climate
 2.3.6.2	Regulating the physical quality of air for people	K16953	KO	0.80	literature:PMID:34693622	producer	DMSP cleavage to DMS	dddP DMSP lyase; produces DMS (climate-active gas); Sun et al 2021 Environ Microbiol
 2.3.6.2	Regulating the physical quality of air for people	K17285	KO	0.70	literature:PMID:37306587	producer	DMSP cleavage to DMS	dddL DMSP lyase; DMS production in marine bacteria; Cheng et al 2023
 2.3.6.2	Regulating the physical quality of air for people	K17486	KO	0.80	literature:PMID:34693622	inhibitor	DMSP demethylation	dmdA DMSP demethylase; shunts DMSP away from DMS production; Sun et al 2021
