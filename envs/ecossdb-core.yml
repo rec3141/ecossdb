@@ -1,0 +1,11 @@
+name: ecossdb-core
+channels:
+  - conda-forge
+  - bioconda
+  - defaults
+dependencies:
+  - python>=3.10
+  - pandas>=2.0
+  - openpyxl>=3.1
+  - scipy>=1.11
+  - numpy>=1.24

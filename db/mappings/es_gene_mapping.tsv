@@ -1,0 +1,347 @@
+es_code	es_name	gene_id	gene_id_type	confidence	evidence_source	functional_role	pathway_context	notes
+2.1.1.1	Decomposing wastes or polluting substances	K00023	KO	0.6	foam	producer	08_Hydrocarbon degradation / Aromatic carboxylic acid degradation	phbB
+2.1.1.1	Decomposing wastes or polluting substances	K00055	KO	0.6	foam	producer	08_Hydrocarbon degradation / Other aromatics degradation	E1.1.1.90
+2.1.1.1	Decomposing wastes or polluting substances	K00120	KO	0.6	foam	producer	08_Hydrocarbon degradation / Polycyclic aromatic hydrocarbon degradation	fgd2
+2.1.1.1	Decomposing wastes or polluting substances	K00132	KO	0.6	foam	producer	08_Hydrocarbon degradation / Polycyclic aromatic hydrocarbon degradation	E1.2.1.10
+2.1.1.1	Decomposing wastes or polluting substances	K00141	KO	0.6	foam	producer	08_Hydrocarbon degradation / Other aromatics degradation	xylC
+2.1.1.1	Decomposing wastes or polluting substances	K00155	KO	0.6	foam	producer	08_Hydrocarbon degradation / Polycyclic aromatic hydrocarbon degradation	LNAA, LNBA
+2.1.1.1	Decomposing wastes or polluting substances	K00224	KO	0.6	foam	producer	08_Hydrocarbon degradation / Polycyclic aromatic hydrocarbon degradation	CEQORH
+2.1.1.1	Decomposing wastes or polluting substances	K00252	KO	0.6	foam	producer	08_Hydrocarbon degradation / Aromatic carboxylic acid degradation	GCDH, gcdH
+2.1.1.1	Decomposing wastes or polluting substances	K00446	KO	0.9	kegg_decoder+foam	producer	Catechol meta-cleavage (xenobiotic degradation)	Catechol meta-cleavage (M00569); dmpB, xylE
+2.1.1.1	Decomposing wastes or polluting substances	K00448	KO	0.6	foam	producer	08_Hydrocarbon degradation / Other aromatics degradation	pcaG
+2.1.1.1	Decomposing wastes or polluting substances	K00449	KO	0.6	foam	producer	08_Hydrocarbon degradation / Polycyclic aromatic hydrocarbon degradation	pcaH
+2.1.1.1	Decomposing wastes or polluting substances	K00450	KO	0.6	foam	producer	08_Hydrocarbon degradation / Aromatic carboxylic acid degradation	E1.13.11.4
+2.1.1.1	Decomposing wastes or polluting substances	K00451	KO	0.6	foam	producer	08_Hydrocarbon degradation / Aromatic carboxylic acid degradation	HGD, hmgA
+2.1.1.1	Decomposing wastes or polluting substances	K00452	KO	0.6	foam	producer	08_Hydrocarbon degradation / Nitoaromatics degradation	HAAO
+2.1.1.1	Decomposing wastes or polluting substances	K00465	KO	0.6	foam	producer	08_Hydrocarbon degradation / Polycyclic aromatic hydrocarbon degradation	CCD1
+2.1.1.1	Decomposing wastes or polluting substances	K00480	KO	0.6	foam	producer	08_Hydrocarbon degradation / Polycyclic aromatic hydrocarbon degradation	E1.14.13.1
+2.1.1.1	Decomposing wastes or polluting substances	K00481	KO	0.6	foam	producer	08_Hydrocarbon degradation / Aromatic carboxylic acid degradation	pobA
+2.1.1.1	Decomposing wastes or polluting substances	K00492	KO	0.6	foam	producer	08_Hydrocarbon degradation / Nitoaromatics degradation	tmuM
+2.1.1.1	Decomposing wastes or polluting substances	K00517	KO	0.6	foam	producer	08_Hydrocarbon degradation / Polycyclic aromatic hydrocarbon degradation	CYP81F
+2.1.1.1	Decomposing wastes or polluting substances	K00599	KO	0.6	foam	producer	08_Hydrocarbon degradation / Polycyclic aromatic hydrocarbon degradation	METTL6
+2.1.1.1	Decomposing wastes or polluting substances	K01473	KO	0.6	foam	producer	08_Hydrocarbon degradation / BTEX and related aromatics degradation	hyuA
+2.1.1.1	Decomposing wastes or polluting substances	K01501	KO	0.6	foam	producer	08_Hydrocarbon degradation / Other aromatics degradation	E3.5.5.1
+2.1.1.1	Decomposing wastes or polluting substances	K01555	KO	0.6	foam	producer	08_Hydrocarbon degradation / Aromatic carboxylic acid degradation	FAH, fahA
+2.1.1.1	Decomposing wastes or polluting substances	K01557	KO	0.6	foam	producer	08_Hydrocarbon degradation / Aromatic carboxylic acid degradation	FAHD1
+2.1.1.1	Decomposing wastes or polluting substances	K01572	KO	0.6	foam	producer	08_Hydrocarbon degradation / Aromatic carboxylic acid degradation	
+2.1.1.1	Decomposing wastes or polluting substances	K01576	KO	0.6	foam	producer	08_Hydrocarbon degradation / Aromatic carboxylic acid degradation	mdlC
+2.1.1.1	Decomposing wastes or polluting substances	K01586	KO	0.6	foam	producer	08_Hydrocarbon degradation / Aromatic carboxylic acid degradation	lysA
+2.1.1.1	Decomposing wastes or polluting substances	K01590	KO	0.6	foam	producer	08_Hydrocarbon degradation / Aromatic carboxylic acid degradation	hdc, HDC
+2.1.1.1	Decomposing wastes or polluting substances	K01617	KO	0.6	foam	producer	08_Hydrocarbon degradation / Chlorinated aromatics degradation	dmpH, xylI, nahK
+2.1.1.1	Decomposing wastes or polluting substances	K01619	KO	0.6	foam	producer	08_Hydrocarbon degradation / Polycyclic aromatic hydrocarbon degradation	deoC, DERA
+2.1.1.1	Decomposing wastes or polluting substances	K01666	KO	0.8	kegg_decoder	producer	Catechol meta-cleavage (xenobiotic degradation)	Catechol meta-cleavage (M00569)
+2.1.1.1	Decomposing wastes or polluting substances	K01781	KO	0.6	foam	producer	08_Hydrocarbon degradation / Aromatic carboxylic acid degradation	mdlA
+2.1.1.1	Decomposing wastes or polluting substances	K01800	KO	0.6	foam	producer	08_Hydrocarbon degradation / Aromatic carboxylic acid degradation	maiA, GSTZ1
+2.1.1.1	Decomposing wastes or polluting substances	K01856	KO	0.9	kegg_decoder+foam	producer	Catechol ortho-cleavage (xenobiotic degradation)	Catechol ortho-cleavage (M00568); catB
+2.1.1.1	Decomposing wastes or polluting substances	K03379	KO	0.6	foam	producer	08_Hydrocarbon degradation / Hydrocarbon degradation	chnB
+2.1.1.1	Decomposing wastes or polluting substances	K03380	KO	0.6	foam	producer	08_Hydrocarbon degradation / Other aromatics degradation	E1.14.13.7
+2.1.1.1	Decomposing wastes or polluting substances	K03381	KO	0.9	kegg_decoder+foam	producer	Catechol ortho-cleavage (xenobiotic degradation)	Catechol ortho-cleavage (M00568); catA
+2.1.1.1	Decomposing wastes or polluting substances	K03384	KO	0.6	foam	producer	08_Hydrocarbon degradation / Polycyclic aromatic hydrocarbon degradation	
+2.1.1.1	Decomposing wastes or polluting substances	K03464	KO	0.8	kegg_decoder	producer	Catechol ortho-cleavage (xenobiotic degradation)	Catechol ortho-cleavage (M00568)
+2.1.1.1	Decomposing wastes or polluting substances	K04098	KO	0.6	foam	producer	08_Hydrocarbon degradation / Nitoaromatics degradation	chqB
+2.1.1.1	Decomposing wastes or polluting substances	K04099	KO	0.6	foam	producer	08_Hydrocarbon degradation / Polycyclic aromatics degradation	desB, galA
+2.1.1.1	Decomposing wastes or polluting substances	K04102	KO	0.6	foam	producer	08_Hydrocarbon degradation / Aromatic carboxylic acid degradation	pht5
+2.1.1.1	Decomposing wastes or polluting substances	K04110	KO	0.6	foam	producer	08_Hydrocarbon degradation / Aromatic carboxylic acid degradation	badA
+2.1.1.1	Decomposing wastes or polluting substances	K05549	KO	0.6	foam	producer	08_Hydrocarbon degradation / Aromatic carboxylic acid degradation	benA-xylX
+2.1.1.1	Decomposing wastes or polluting substances	K05550	KO	0.6	foam	producer	08_Hydrocarbon degradation / Aromatic carboxylic acid degradation	benB-xylY
+2.1.1.1	Decomposing wastes or polluting substances	K05708	KO	0.6	foam	producer	08_Hydrocarbon degradation / Aromatic carboxylic acid degradation	hcaE, hcaA1
+2.1.1.1	Decomposing wastes or polluting substances	K05709	KO	0.6	foam	producer	08_Hydrocarbon degradation / Aromatic carboxylic acid degradation	hcaF, hcaA2
+2.1.1.1	Decomposing wastes or polluting substances	K05711	KO	0.6	foam	producer	08_Hydrocarbon degradation / Aromatic carboxylic acid degradation	hcaB
+2.1.1.1	Decomposing wastes or polluting substances	K05797	KO	0.6	foam	producer	08_Hydrocarbon degradation / BTEX and related aromatics degradation	pchF
+2.1.1.1	Decomposing wastes or polluting substances	K05823	KO	0.6	foam	producer	08_Hydrocarbon degradation / BTEX and related aromatics degradation	dapL
+2.1.1.1	Decomposing wastes or polluting substances	K06912	KO	0.6	foam	producer	08_Hydrocarbon degradation / Chlorinated aromatics degradation	tfdA
+2.1.1.1	Decomposing wastes or polluting substances	K07104	KO	0.8	kegg_decoder	producer	Catechol meta-cleavage (xenobiotic degradation)	Catechol meta-cleavage (M00569)
+2.1.1.1	Decomposing wastes or polluting substances	K07519	KO	0.6	foam	producer	08_Hydrocarbon degradation / Polycyclic aromatic hydrocarbon degradation	
+2.1.1.1	Decomposing wastes or polluting substances	K07824	KO	0.6	foam	producer	08_Hydrocarbon degradation / Aromatic carboxylic acid degradation	CYP53A1
+2.1.1.1	Decomposing wastes or polluting substances	K08689	KO	0.6	foam	producer	08_Hydrocarbon degradation / Polycyclic aromatics degradation	bphAa, bphA1, bphA
+2.1.1.1	Decomposing wastes or polluting substances	K10217	KO	0.6	foam	producer	08_Hydrocarbon degradation / BTEX and related aromatics degradation	dmpC, xylG, praB
+2.1.1.1	Decomposing wastes or polluting substances	K10676	KO	0.6	foam	producer	08_Hydrocarbon degradation / Heterocyclic aromatics degradation	tfdB
+2.1.1.1	Decomposing wastes or polluting substances	K11066	KO	0.6	foam	producer	08_Hydrocarbon degradation / Other aromatics degradation	E3.5.1.28D, amiD
+2.1.1.1	Decomposing wastes or polluting substances	K11943	KO	0.6	foam	producer	08_Hydrocarbon degradation / Polycyclic aromatic hydrocarbon degradation	nidA
+2.1.1.1	Decomposing wastes or polluting substances	K11944	KO	0.6	foam	producer	08_Hydrocarbon degradation / Polycyclic aromatic hydrocarbon degradation	nidB
+2.1.1.1	Decomposing wastes or polluting substances	K11945	KO	0.6	foam	producer	08_Hydrocarbon degradation / Polycyclic aromatic hydrocarbon degradation	phdF
+2.1.1.1	Decomposing wastes or polluting substances	K11946	KO	0.6	foam	producer	08_Hydrocarbon degradation / Polycyclic aromatic hydrocarbon degradation	phdG
+2.1.1.1	Decomposing wastes or polluting substances	K11947	KO	0.6	foam	producer	08_Hydrocarbon degradation / Polycyclic aromatic hydrocarbon degradation	nidD
+2.1.1.1	Decomposing wastes or polluting substances	K11948	KO	0.6	foam	producer	08_Hydrocarbon degradation / Polycyclic aromatic hydrocarbon degradation	phdI
+2.1.1.1	Decomposing wastes or polluting substances	K11949	KO	0.6	foam	producer	08_Hydrocarbon degradation / Polycyclic aromatic hydrocarbon degradation	phdJ
+2.1.1.1	Decomposing wastes or polluting substances	K12526	KO	0.6	foam	producer	08_Hydrocarbon degradation / Aromatic carboxylic acid degradation	lysAC
+2.1.1.1	Decomposing wastes or polluting substances	K14269	KO	0.6	foam	producer	08_Hydrocarbon degradation / BTEX and related aromatics degradation	
+2.1.1.1	Decomposing wastes or polluting substances	K14578	KO	0.6	foam	producer	08_Hydrocarbon degradation / Polycyclic aromatic hydrocarbon degradation	nahAb, nagAb, ndoA, nbzAb, dntAb
+2.1.1.1	Decomposing wastes or polluting substances	K14579	KO	0.6	foam	producer	08_Hydrocarbon degradation / Polycyclic aromatic hydrocarbon degradation	nahAc, ndoB, nbzAc, dntAc
+2.1.1.1	Decomposing wastes or polluting substances	K14580	KO	0.6	foam	producer	08_Hydrocarbon degradation / Polycyclic aromatic hydrocarbon degradation	nahAd, ndoC, nbzAd, dntAd
+2.1.1.1	Decomposing wastes or polluting substances	K14581	KO	0.6	foam	producer	08_Hydrocarbon degradation / Polycyclic aromatic hydrocarbon degradation	nahAa, nagAa, ndoR, nbzAa, dntAa
+2.1.1.1	Decomposing wastes or polluting substances	K14582	KO	0.6	foam	producer	08_Hydrocarbon degradation / Polycyclic aromatic hydrocarbon degradation	nahB, doxE
+2.1.1.1	Decomposing wastes or polluting substances	K14599	KO	0.6	foam	producer	08_Hydrocarbon degradation / Polycyclic aromatic hydrocarbon degradation	dbfA1
+2.1.1.1	Decomposing wastes or polluting substances	K14600	KO	0.6	foam	producer	08_Hydrocarbon degradation / Polycyclic aromatic hydrocarbon degradation	dbfA2
+2.1.1.1	Decomposing wastes or polluting substances	K14601	KO	0.6	foam	producer	08_Hydrocarbon degradation / Polycyclic aromatic hydrocarbon degradation	flnB
+2.1.1.1	Decomposing wastes or polluting substances	K14602	KO	0.6	foam	producer	08_Hydrocarbon degradation / Polycyclic aromatic hydrocarbon degradation	flnD1
+2.1.1.1	Decomposing wastes or polluting substances	K14603	KO	0.6	foam	producer	08_Hydrocarbon degradation / Hydrocarbon degradation	flnD2
+2.1.1.1	Decomposing wastes or polluting substances	K15054	KO	0.6	foam	producer	08_Hydrocarbon degradation / Aromatic carboxylic acid degradation	mdlB
+2.1.1.1	Decomposing wastes or polluting substances	K16242	KO	0.85	kegg_decoder	producer	Benzene degradation	Benzene degradation (M00548)
+2.1.1.1	Decomposing wastes or polluting substances	K16243	KO	0.85	kegg_decoder	producer	Benzene degradation	Benzene degradation (M00548)
+2.1.1.1	Decomposing wastes or polluting substances	K16244	KO	0.85	kegg_decoder	producer	Benzene degradation	Benzene degradation (M00548)
+2.1.1.1	Decomposing wastes or polluting substances	K16249	KO	0.85	kegg_decoder	producer	Benzene degradation	Benzene degradation (M00548)
+2.1.1.1	Decomposing wastes or polluting substances	K17222	KO	0.75	kegg_decoder	transformer	Thiosulfate oxidation (Sox pathway)	Thiosulfate oxidation Sox (M00595)
+2.1.1.1	Decomposing wastes or polluting substances	K17223	KO	0.75	kegg_decoder	transformer	Thiosulfate oxidation (Sox pathway)	Thiosulfate oxidation Sox (M00595)
+2.1.1.1	Decomposing wastes or polluting substances	K17224	KO	0.75	kegg_decoder	transformer	Thiosulfate oxidation (Sox pathway)	Thiosulfate oxidation Sox (M00595)
+2.1.1.1	Decomposing wastes or polluting substances	K17225	KO	0.75	kegg_decoder	transformer	Thiosulfate oxidation (Sox pathway)	Thiosulfate oxidation Sox (M00595)
+2.1.1.1	Decomposing wastes or polluting substances	K17226	KO	0.75	kegg_decoder	transformer	Thiosulfate oxidation (Sox pathway)	Thiosulfate oxidation Sox (M00595)
+2.1.1.1	Decomposing wastes or polluting substances	K22622	KO	0.75	kegg_decoder	transformer	Thiosulfate oxidation (Sox pathway)	Thiosulfate oxidation Sox (M00595)
+2.3.5.1	Controlling the chemical quality of freshwater	K00260	KO	0.55	foam	transformer	11_Nitrogen cycle / Ammonia assimilation	gudB, rocG
+2.3.5.1	Controlling the chemical quality of freshwater	K00261	KO	0.55	foam	transformer	11_Nitrogen cycle / Ammonia assimilation	GLUD1_2, gdhA
+2.3.5.1	Controlling the chemical quality of freshwater	K00262	KO	0.55	foam	transformer	11_Nitrogen cycle / Ammonia assimilation	E1.4.1.4, gdhA
+2.3.5.1	Controlling the chemical quality of freshwater	K00264	KO	0.55	foam	transformer	11_Nitrogen cycle / Ammonia assimilation	GLT1
+2.3.5.1	Controlling the chemical quality of freshwater	K00265	KO	0.55	foam	transformer	11_Nitrogen cycle / Ammonia assimilation	gltB
+2.3.5.1	Controlling the chemical quality of freshwater	K00266	KO	0.55	foam	transformer	11_Nitrogen cycle / Ammonia assimilation	gltD
+2.3.5.1	Controlling the chemical quality of freshwater	K00284	KO	0.55	foam	transformer	11_Nitrogen cycle / Ammonia assimilation	GLU, gltS
+2.3.5.1	Controlling the chemical quality of freshwater	K00360	KO	0.75	kegg_decoder+foam	consumer	Assimilatory nitrate reduction (NO3→NH4)	Assimilatory nitrate reduction (M00531); nasB
+2.3.5.1	Controlling the chemical quality of freshwater	K00362	KO	0.85	kegg_decoder+foam	transformer	DNRA (NO3→NH4)	DNRA (M00530); nirB
+2.3.5.1	Controlling the chemical quality of freshwater	K00363	KO	0.85	kegg_decoder+foam	transformer	DNRA (NO3→NH4)	DNRA (M00530); nirD
+2.3.5.1	Controlling the chemical quality of freshwater	K00366	KO	0.55	foam	transformer	11_Nitrogen cycle / Nitrogenated compounds Reduction	nirA
+2.3.5.1	Controlling the chemical quality of freshwater	K00367	KO	0.65	kegg_decoder	consumer	Assimilatory nitrate reduction (NO3→NH4)	Assimilatory nitrate reduction (M00531)
+2.3.5.1	Controlling the chemical quality of freshwater	K00368	KO	0.95	kegg_decoder+foam	producer	Denitrification (NO3→N2)	Denitrification (M00529); nirK
+2.3.5.1	Controlling the chemical quality of freshwater	K00370	KO	0.85	kegg_decoder+foam	transformer	DNRA (NO3→NH4)	DNRA (M00530); narG, narZ, nxrA
+2.3.5.1	Controlling the chemical quality of freshwater	K00371	KO	0.85	kegg_decoder+foam	transformer	DNRA (NO3→NH4)	DNRA (M00530); narH, narY, nxrB
+2.3.5.1	Controlling the chemical quality of freshwater	K00372	KO	0.75	kegg_decoder+foam	consumer	Assimilatory nitrate reduction (NO3→NH4)	Assimilatory nitrate reduction (M00531); nasA
+2.3.5.1	Controlling the chemical quality of freshwater	K00373	KO	0.55	foam	transformer	11_Nitrogen cycle / Nitrogenated compounds Reduction	narJ, narW
+2.3.5.1	Controlling the chemical quality of freshwater	K00374	KO	0.55	foam	transformer	11_Nitrogen cycle / Nitrogenated compounds Reduction	narI, narV
+2.3.5.1	Controlling the chemical quality of freshwater	K00376	KO	0.95	kegg_decoder+foam	producer	Denitrification (NO3→N2)	Denitrification (M00529); nosZ
+2.3.5.1	Controlling the chemical quality of freshwater	K00380	KO	0.7	kegg_decoder+foam	consumer	Assimilatory sulfate reduction	Assimilatory sulfate reduction (M00176); cysJ
+2.3.5.1	Controlling the chemical quality of freshwater	K00381	KO	0.7	kegg_decoder+foam	consumer	Assimilatory sulfate reduction	Assimilatory sulfate reduction (M00176); cysI
+2.3.5.1	Controlling the chemical quality of freshwater	K00387	KO	0.5	foam	transformer	18_Sulfur compounds metabolism / Sulfur compounds cycle	SUOX
+2.3.5.1	Controlling the chemical quality of freshwater	K00390	KO	0.7	kegg_decoder+foam	consumer	Assimilatory sulfate reduction	Assimilatory sulfate reduction (M00176); cysH
+2.3.5.1	Controlling the chemical quality of freshwater	K00392	KO	0.5	foam	transformer	18_Sulfur compounds metabolism / Sulfur compounds cycle	sir
+2.3.5.1	Controlling the chemical quality of freshwater	K00394	KO	0.7	kegg_decoder+foam	consumer	Assimilatory sulfate reduction	Assimilatory sulfate reduction (M00176); aprA
+2.3.5.1	Controlling the chemical quality of freshwater	K00395	KO	0.85	kegg_decoder+foam	transformer	Dissimilatory sulfate reduction (Dsr)	Dissimilatory sulfate reduction (M00596); aprB
+2.3.5.1	Controlling the chemical quality of freshwater	K00531	KO	0.55	foam	transformer	11_Nitrogen cycle / Nitrogen Fixation	anfG
+2.3.5.1	Controlling the chemical quality of freshwater	K00625	KO	0.5	foam	transformer	18_Sulfur compounds metabolism / Sulfur compounds cycle	E2.3.1.8, pta
+2.3.5.1	Controlling the chemical quality of freshwater	K00793	KO	0.55	kegg_decoder	producer	Riboflavin biosynthesis	Riboflavin biosynthesis (M00125)
+2.3.5.1	Controlling the chemical quality of freshwater	K00794	KO	0.55	kegg_decoder	producer	Riboflavin biosynthesis	Riboflavin biosynthesis (M00125)
+2.3.5.1	Controlling the chemical quality of freshwater	K00811	KO	0.5	foam	transformer	18_Sulfur compounds metabolism / Sulfur compounds cycle	ASP5
+2.3.5.1	Controlling the chemical quality of freshwater	K00812	KO	0.5	foam	transformer	18_Sulfur compounds metabolism / Sulfur compounds cycle	aspB
+2.3.5.1	Controlling the chemical quality of freshwater	K00813	KO	0.5	foam	transformer	18_Sulfur compounds metabolism / Sulfur compounds cycle	aspC
+2.3.5.1	Controlling the chemical quality of freshwater	K00860	KO	0.6	kegg_decoder	consumer	Assimilatory sulfate reduction	Assimilatory sulfate reduction (M00176)
+2.3.5.1	Controlling the chemical quality of freshwater	K00958	KO	0.6	kegg_decoder	consumer	Assimilatory sulfate reduction	Assimilatory sulfate reduction (M00176)
+2.3.5.1	Controlling the chemical quality of freshwater	K00959	KO	0.5	foam	transformer	18_Sulfur compounds metabolism / Sulfur compounds cycle	
+2.3.5.1	Controlling the chemical quality of freshwater	K01011	KO	0.5	foam	transformer	18_Sulfur compounds metabolism / Sulfur compounds cycle	TST, MPST, sseA
+2.3.5.1	Controlling the chemical quality of freshwater	K01425	KO	0.55	foam	transformer	11_Nitrogen cycle / Ammonia assimilation	glsA, GLS
+2.3.5.1	Controlling the chemical quality of freshwater	K01497	KO	0.55	kegg_decoder	producer	Riboflavin biosynthesis	Riboflavin biosynthesis (M00125)
+2.3.5.1	Controlling the chemical quality of freshwater	K01915	KO	0.55	foam	transformer	11_Nitrogen cycle / Ammonia assimilation	glnA, GLUL
+2.3.5.1	Controlling the chemical quality of freshwater	K01953	KO	0.55	foam	transformer	11_Nitrogen cycle / Ammonia assimilation	asnB, ASNS
+2.3.5.1	Controlling the chemical quality of freshwater	K02225	KO	0.6	kegg_decoder	producer	Cobalamin (B12) biosynthesis	Cobalamin B12 biosynthesis (M00120)
+2.3.5.1	Controlling the chemical quality of freshwater	K02227	KO	0.6	kegg_decoder	producer	Cobalamin (B12) biosynthesis	Cobalamin B12 biosynthesis (M00120)
+2.3.5.1	Controlling the chemical quality of freshwater	K02228	KO	0.6	kegg_decoder	producer	Cobalamin (B12) biosynthesis	Cobalamin B12 biosynthesis (M00120)
+2.3.5.1	Controlling the chemical quality of freshwater	K02229	KO	0.6	kegg_decoder	producer	Cobalamin (B12) biosynthesis	Cobalamin B12 biosynthesis (M00120)
+2.3.5.1	Controlling the chemical quality of freshwater	K02231	KO	0.6	kegg_decoder	producer	Cobalamin (B12) biosynthesis	Cobalamin B12 biosynthesis (M00120)
+2.3.5.1	Controlling the chemical quality of freshwater	K02232	KO	0.6	kegg_decoder	producer	Cobalamin (B12) biosynthesis	Cobalamin B12 biosynthesis (M00120)
+2.3.5.1	Controlling the chemical quality of freshwater	K02233	KO	0.6	kegg_decoder	producer	Cobalamin (B12) biosynthesis	Cobalamin B12 biosynthesis (M00120)
+2.3.5.1	Controlling the chemical quality of freshwater	K02305	KO	0.95	kegg_decoder+foam	producer	Denitrification (NO3→N2)	Denitrification (M00529); norC
+2.3.5.1	Controlling the chemical quality of freshwater	K02439	KO	0.5	foam	transformer	18_Sulfur compounds metabolism / Sulfur compounds cycle	glpE
+2.3.5.1	Controlling the chemical quality of freshwater	K02567	KO	0.85	kegg_decoder+foam	transformer	DNRA (NO3→NH4)	DNRA (M00530); napA
+2.3.5.1	Controlling the chemical quality of freshwater	K02568	KO	0.85	kegg_decoder+foam	transformer	DNRA (NO3→NH4)	DNRA (M00530); napB
+2.3.5.1	Controlling the chemical quality of freshwater	K02586	KO	0.95	kegg_decoder+foam	producer	Nitrogen fixation (N2→NH4)	Nitrogen fixation (M00175); nifD
+2.3.5.1	Controlling the chemical quality of freshwater	K02588	KO	0.95	kegg_decoder+foam	producer	Nitrogen fixation (N2→NH4)	Nitrogen fixation (M00175); nifH
+2.3.5.1	Controlling the chemical quality of freshwater	K02591	KO	0.95	kegg_decoder+foam	producer	Nitrogen fixation (N2→NH4)	Nitrogen fixation (M00175); nifK
+2.3.5.1	Controlling the chemical quality of freshwater	K02595	KO	0.55	foam	transformer	11_Nitrogen cycle / Nitrogen Fixation	nifW
+2.3.5.1	Controlling the chemical quality of freshwater	K03385	KO	0.85	kegg_decoder+foam	transformer	DNRA (NO3→NH4)	DNRA (M00530); nrfA
+2.3.5.1	Controlling the chemical quality of freshwater	K03852	KO	0.5	foam	transformer	18_Sulfur compounds metabolism / Sulfur compounds cycle	xsc
+2.3.5.1	Controlling the chemical quality of freshwater	K04013	KO	0.55	foam	transformer	11_Nitrogen cycle / Nitrogenated compounds Reduction	nrfB
+2.3.5.1	Controlling the chemical quality of freshwater	K04014	KO	0.55	foam	transformer	11_Nitrogen cycle / Nitrogenated compounds Reduction	nrfC
+2.3.5.1	Controlling the chemical quality of freshwater	K04015	KO	0.55	foam	transformer	11_Nitrogen cycle / Nitrogenated compounds Reduction	nrfD
+2.3.5.1	Controlling the chemical quality of freshwater	K04100	KO	0.5	foam	transformer	18_Sulfur compounds metabolism / Chemoautotrophic oxidation of sulfur compounds	ligA
+2.3.5.1	Controlling the chemical quality of freshwater	K04101	KO	0.5	foam	transformer	18_Sulfur compounds metabolism / Chemoautotrophic oxidation of sulfur compounds	ligB
+2.3.5.1	Controlling the chemical quality of freshwater	K04561	KO	0.95	kegg_decoder+foam	producer	Denitrification (NO3→N2)	Denitrification (M00529); norB
+2.3.5.1	Controlling the chemical quality of freshwater	K05301	KO	0.5	foam	transformer	18_Sulfur compounds metabolism / Sulfur compounds cycle	sorA
+2.3.5.1	Controlling the chemical quality of freshwater	K05597	KO	0.55	foam	transformer	11_Nitrogen cycle / Ammonia assimilation	aspQ, ansB, ansA
+2.3.5.1	Controlling the chemical quality of freshwater	K05601	KO	0.55	foam	transformer	11_Nitrogen cycle / Nitrogenated compounds Reduction	hcp
+2.3.5.1	Controlling the chemical quality of freshwater	K06034	KO	0.5	foam	transformer	18_Sulfur compounds metabolism / Sulfur compounds cycle	comD
+2.3.5.1	Controlling the chemical quality of freshwater	K08345	KO	0.55	foam	transformer	11_Nitrogen cycle / Nitrogenated compounds Reduction	
+2.3.5.1	Controlling the chemical quality of freshwater	K08346	KO	0.55	foam	transformer	11_Nitrogen cycle / Nitrogenated compounds Reduction	
+2.3.5.1	Controlling the chemical quality of freshwater	K08347	KO	0.55	foam	transformer	11_Nitrogen cycle / Nitrogenated compounds Reduction	
+2.3.5.1	Controlling the chemical quality of freshwater	K08361	KO	0.55	foam	transformer	11_Nitrogen cycle / Nitrogenated compounds Reduction	
+2.3.5.1	Controlling the chemical quality of freshwater	K10534	KO	0.75	kegg_decoder+foam	consumer	Assimilatory nitrate reduction (NO3→NH4)	Assimilatory nitrate reduction (M00531); NR
+2.3.5.1	Controlling the chemical quality of freshwater	K10535	KO	0.9	kegg_decoder+foam	transformer	Nitrification (NH3→NO3)	Nitrification (M00528); hao
+2.3.5.1	Controlling the chemical quality of freshwater	K10944	KO	0.9	kegg_decoder+foam	transformer	Nitrification (NH3→NO3)	Nitrification (M00528); pmoA-amoA
+2.3.5.1	Controlling the chemical quality of freshwater	K10945	KO	0.9	kegg_decoder+foam	transformer	Nitrification (NH3→NO3)	Nitrification (M00528); pmoB-amoB
+2.3.5.1	Controlling the chemical quality of freshwater	K10946	KO	0.9	kegg_decoder+foam	transformer	Nitrification (NH3→NO3)	Nitrification (M00528); pmoC-amoC
+2.3.5.1	Controlling the chemical quality of freshwater	K11180	KO	0.85	kegg_decoder+foam	transformer	Dissimilatory sulfate reduction (Dsr)	Dissimilatory sulfate reduction (M00596); dsrA
+2.3.5.1	Controlling the chemical quality of freshwater	K11181	KO	0.85	kegg_decoder+foam	transformer	Dissimilatory sulfate reduction (Dsr)	Dissimilatory sulfate reduction (M00596); dsrB
+2.3.5.1	Controlling the chemical quality of freshwater	K11358	KO	0.5	foam	transformer	18_Sulfur compounds metabolism / Sulfur compounds cycle	yhdR
+2.3.5.1	Controlling the chemical quality of freshwater	K13039	KO	0.5	foam	transformer	18_Sulfur compounds metabolism / Sulfur compounds cycle	comE
+2.3.5.1	Controlling the chemical quality of freshwater	K13788	KO	0.5	foam	transformer	18_Sulfur compounds metabolism / Sulfur compounds cycle	pta
+2.3.5.1	Controlling the chemical quality of freshwater	K14454	KO	0.5	foam	transformer	18_Sulfur compounds metabolism / Sulfur compounds cycle	GOT1
+2.3.5.1	Controlling the chemical quality of freshwater	K14455	KO	0.5	foam	transformer	18_Sulfur compounds metabolism / Sulfur compounds cycle	GOT2
+2.3.5.1	Controlling the chemical quality of freshwater	K14652	KO	0.55	kegg_decoder	producer	Riboflavin biosynthesis	Riboflavin biosynthesis (M00125)
+2.3.5.1	Controlling the chemical quality of freshwater	K15371	KO	0.55	foam	transformer	11_Nitrogen cycle / Ammonia assimilation	GDH2
+2.3.5.1	Controlling the chemical quality of freshwater	K15373	KO	0.5	foam	transformer	18_Sulfur compounds metabolism / Sulfur compounds cycle	isfD
+2.3.5.1	Controlling the chemical quality of freshwater	K15864	KO	0.95	kegg_decoder+foam	producer	Denitrification (NO3→N2)	Denitrification (M00529); nirS
+2.3.5.1	Controlling the chemical quality of freshwater	K15875	KO	0.55	foam	transformer	11_Nitrogen cycle / Nitrogenated compounds Reduction	
+2.3.5.1	Controlling the chemical quality of freshwater	K15876	KO	0.75	kegg_decoder	transformer	DNRA (NO3→NH4)	DNRA (M00530)
+2.3.5.1	Controlling the chemical quality of freshwater	K15878	KO	0.55	foam	transformer	11_Nitrogen cycle / Nitrogenated compounds Reduction	K15878, narB
+2.3.5.1	Controlling the chemical quality of freshwater	K15879	KO	0.55	foam	transformer	11_Nitrogen cycle / Nitrogenated compounds Reduction	narC
+2.3.5.1	Controlling the chemical quality of freshwater	K15905	KO	0.55	foam	transformer	11_Nitrogen cycle / Nitrification	
+2.3.5.1	Controlling the chemical quality of freshwater	K15906	KO	0.55	foam	transformer	11_Nitrogen cycle / Nitrification	
+2.3.5.1	Controlling the chemical quality of freshwater	K20932	KO	0.85	kegg_decoder	producer	Anammox (NH4+NO2→N2)	Anammox (M00804)
+2.3.5.1	Controlling the chemical quality of freshwater	K20933	KO	0.85	kegg_decoder	producer	Anammox (NH4+NO2→N2)	Anammox (M00804)
+2.3.5.1	Controlling the chemical quality of freshwater	K20934	KO	0.85	kegg_decoder	producer	Anammox (NH4+NO2→N2)	Anammox (M00804)
+2.3.5.1	Controlling the chemical quality of freshwater	K20935	KO	0.85	kegg_decoder	producer	Anammox (NH4+NO2→N2)	Anammox (M00804)
+2.3.6.1	Regulating our global climate	K00018	KO	0.7	kegg_decoder	producer	Formaldehyde assimilation (methylotrophy)	Formaldehyde assimilation serine (M00346)
+2.3.6.1	Regulating our global climate	K00024	KO	0.5	foam	producer	15_Methylotrophy / Serine pathway for formaldehyde fixation	mdh
+2.3.6.1	Regulating our global climate	K00050	KO	0.5	foam	producer	15_Methylotrophy / Serine pathway for formaldehyde fixation	
+2.3.6.1	Regulating our global climate	K00093	KO	0.5	foam	producer	15_Methylotrophy / Methane oxidation to cO2	mdh
+2.3.6.1	Regulating our global climate	K00122	KO	0.5	foam	producer	15_Methylotrophy / Methane oxidation to cO2	FDH
+2.3.6.1	Regulating our global climate	K00123	KO	0.5	foam	producer	15_Methylotrophy / Formaldehyde oxidation (glutathione-dependent)	fdoG, fdhF, fdwA
+2.3.6.1	Regulating our global climate	K00124	KO	0.5	foam	producer	15_Methylotrophy / Formaldehyde oxidation (glutathione-dependent)	fdoH, fdsB
+2.3.6.1	Regulating our global climate	K00125	KO	0.5	foam	producer	15_Methylotrophy / Methane oxidation to cO2	fdhB
+2.3.6.1	Regulating our global climate	K00126	KO	0.5	foam	producer	15_Methylotrophy / Formaldehyde oxidation (glutathione-dependent)	fdsD
+2.3.6.1	Regulating our global climate	K00127	KO	0.5	foam	producer	15_Methylotrophy / Methane oxidation to cO2	fdoI, fdsG
+2.3.6.1	Regulating our global climate	K00134	KO	0.85	kegg_decoder	producer	Calvin cycle (CO2 fixation)	Calvin cycle (M00165)
+2.3.6.1	Regulating our global climate	K00148	KO	0.5	foam	producer	15_Methylotrophy / Methane oxidation to cO2	fdhA
+2.3.6.1	Regulating our global climate	K00150	KO	0.85	kegg_decoder	producer	Calvin cycle (CO2 fixation)	Calvin cycle (M00165)
+2.3.6.1	Regulating our global climate	K00169	KO	0.8	kegg_decoder	producer	Reductive TCA cycle (CO2 fixation)	rTCA (M00173)
+2.3.6.1	Regulating our global climate	K00170	KO	0.8	kegg_decoder	producer	Reductive TCA cycle (CO2 fixation)	rTCA (M00173)
+2.3.6.1	Regulating our global climate	K00171	KO	0.8	kegg_decoder	producer	Reductive TCA cycle (CO2 fixation)	rTCA (M00173)
+2.3.6.1	Regulating our global climate	K00172	KO	0.8	kegg_decoder	producer	Reductive TCA cycle (CO2 fixation)	rTCA (M00173)
+2.3.6.1	Regulating our global climate	K00174	KO	0.8	kegg_decoder	producer	Reductive TCA cycle (CO2 fixation)	rTCA (M00173)
+2.3.6.1	Regulating our global climate	K00175	KO	0.8	kegg_decoder	producer	Reductive TCA cycle (CO2 fixation)	rTCA (M00173)
+2.3.6.1	Regulating our global climate	K00190	KO	0.55	foam	inhibitor	14_Methanogenesis / From acetate	
+2.3.6.1	Regulating our global climate	K00192	KO	0.55	foam	inhibitor	14_Methanogenesis / From acetate	cdhA
+2.3.6.1	Regulating our global climate	K00194	KO	0.9	kegg_decoder+foam	producer	Wood-Ljungdahl pathway (CO2 fixation)	Wood-Ljungdahl (M00377); cdhD, acsD
+2.3.6.1	Regulating our global climate	K00195	KO	0.55	foam	inhibitor	14_Methanogenesis / From acetate	cdhB
+2.3.6.1	Regulating our global climate	K00197	KO	0.9	kegg_decoder+foam	producer	Wood-Ljungdahl pathway (CO2 fixation)	Wood-Ljungdahl (M00377); cdhE, acsC
+2.3.6.1	Regulating our global climate	K00198	KO	0.9	kegg_decoder+foam	producer	Wood-Ljungdahl pathway (CO2 fixation)	Wood-Ljungdahl (M00377); cooS, acsA
+2.3.6.1	Regulating our global climate	K00200	KO	0.95	kegg_decoder+foam	inhibitor	Methanogenesis (CO2→CH4)	Methanogenesis (M00567); fwdA, fmdA
+2.3.6.1	Regulating our global climate	K00201	KO	0.95	kegg_decoder+foam	inhibitor	Methanogenesis (CO2→CH4)	Methanogenesis (M00567); fwdB, fmdB
+2.3.6.1	Regulating our global climate	K00202	KO	0.95	kegg_decoder+foam	inhibitor	Methanogenesis (CO2→CH4)	Methanogenesis (M00567); fwdC, fmdC
+2.3.6.1	Regulating our global climate	K00203	KO	0.95	kegg_decoder+foam	inhibitor	Methanogenesis (CO2→CH4)	Methanogenesis (M00567); fwdD, fmdD
+2.3.6.1	Regulating our global climate	K00204	KO	0.55	foam	inhibitor	14_Methanogenesis / From CO2	fwdH
+2.3.6.1	Regulating our global climate	K00205	KO	0.55	foam	inhibitor	14_Methanogenesis / From CO2	fwdF, fmdF
+2.3.6.1	Regulating our global climate	K00241	KO	0.8	kegg_decoder	producer	Reductive TCA cycle (CO2 fixation)	rTCA (M00173)
+2.3.6.1	Regulating our global climate	K00242	KO	0.8	kegg_decoder	producer	Reductive TCA cycle (CO2 fixation)	rTCA (M00173)
+2.3.6.1	Regulating our global climate	K00288	KO	0.5	foam	producer	15_Methylotrophy / Formaldehyde oxidation (tetrahydrofolate pathway)	MTHFD
+2.3.6.1	Regulating our global climate	K00297	KO	0.8	kegg_decoder	producer	Wood-Ljungdahl pathway (CO2 fixation)	Wood-Ljungdahl (M00377)
+2.3.6.1	Regulating our global climate	K00319	KO	0.95	kegg_decoder+foam	inhibitor	Methanogenesis (CO2→CH4)	Methanogenesis (M00567); mtd
+2.3.6.1	Regulating our global climate	K00320	KO	0.95	kegg_decoder+foam	inhibitor	Methanogenesis (CO2→CH4)	Methanogenesis (M00567); mer
+2.3.6.1	Regulating our global climate	K00355	KO	0.5	foam	transformer	13_Hydrogen metabolism / Hydrogen production VII (chlorophyta, cyanobacteria)	NQO1
+2.3.6.1	Regulating our global climate	K00399	KO	0.95	kegg_decoder+foam	inhibitor	Methanogenesis (CO2→CH4)	Methanogenesis (M00567); mcrA
+2.3.6.1	Regulating our global climate	K00401	KO	0.95	kegg_decoder+foam	inhibitor	Methanogenesis (CO2→CH4)	Methanogenesis (M00567); mcrB
+2.3.6.1	Regulating our global climate	K00402	KO	0.95	kegg_decoder+foam	inhibitor	Methanogenesis (CO2→CH4)	Methanogenesis (M00567); mcrG
+2.3.6.1	Regulating our global climate	K00436	KO	0.5	foam	transformer	13_Hydrogen metabolism / Hydrogen production	hoxH
+2.3.6.1	Regulating our global climate	K00440	KO	0.55	foam	inhibitor	14_Methanogenesis / From CO2	frhA
+2.3.6.1	Regulating our global climate	K00441	KO	0.55	foam	inhibitor	14_Methanogenesis / From CO2	frhB
+2.3.6.1	Regulating our global climate	K00442	KO	0.55	foam	inhibitor	14_Methanogenesis / From CO2	frhD
+2.3.6.1	Regulating our global climate	K00443	KO	0.55	foam	inhibitor	14_Methanogenesis / From CO2	frhG
+2.3.6.1	Regulating our global climate	K00532	KO	0.5	foam	transformer	13_Hydrogen metabolism / Hydrogen production VII (chlorophyta, cyanobacteria)	E1.12.7.2
+2.3.6.1	Regulating our global climate	K00533	KO	0.7	kegg_decoder+foam	transformer	H2 production hydrogenase	FeFe hydrogenase (M00628); E1.12.7.2L
+2.3.6.1	Regulating our global climate	K00534	KO	0.7	kegg_decoder+foam	transformer	H2 production hydrogenase	FeFe hydrogenase (M00628); E1.12.7.2S
+2.3.6.1	Regulating our global climate	K00577	KO	0.95	kegg_decoder+foam	inhibitor	Methanogenesis (CO2→CH4)	Methanogenesis (M00567); mtrA
+2.3.6.1	Regulating our global climate	K00578	KO	0.95	kegg_decoder+foam	inhibitor	Methanogenesis (CO2→CH4)	Methanogenesis (M00567); mtrB
+2.3.6.1	Regulating our global climate	K00579	KO	0.95	kegg_decoder+foam	inhibitor	Methanogenesis (CO2→CH4)	Methanogenesis (M00567); mtrC
+2.3.6.1	Regulating our global climate	K00580	KO	0.95	kegg_decoder+foam	inhibitor	Methanogenesis (CO2→CH4)	Methanogenesis (M00567); mtrD
+2.3.6.1	Regulating our global climate	K00581	KO	0.95	kegg_decoder+foam	inhibitor	Methanogenesis (CO2→CH4)	Methanogenesis (M00567); mtrE
+2.3.6.1	Regulating our global climate	K00582	KO	0.95	kegg_decoder+foam	inhibitor	Methanogenesis (CO2→CH4)	Methanogenesis (M00567); mtrF
+2.3.6.1	Regulating our global climate	K00583	KO	0.95	kegg_decoder+foam	inhibitor	Methanogenesis (CO2→CH4)	Methanogenesis (M00567); mtrG
+2.3.6.1	Regulating our global climate	K00584	KO	0.95	kegg_decoder+foam	inhibitor	Methanogenesis (CO2→CH4)	Methanogenesis (M00567); mtrH
+2.3.6.1	Regulating our global climate	K00600	KO	0.7999999999999999	kegg_decoder+foam	producer	Formaldehyde assimilation (methylotrophy)	Formaldehyde assimilation serine (M00346); glyA, SHMT
+2.3.6.1	Regulating our global climate	K00615	KO	0.85	kegg_decoder	producer	Calvin cycle (CO2 fixation)	Calvin cycle (M00165)
+2.3.6.1	Regulating our global climate	K00672	KO	0.95	kegg_decoder+foam	inhibitor	Methanogenesis (CO2→CH4)	Methanogenesis (M00567); ftr
+2.3.6.1	Regulating our global climate	K00830	KO	0.7999999999999999	kegg_decoder+foam	producer	Formaldehyde assimilation (methylotrophy)	Formaldehyde assimilation serine (M00346); AGXT
+2.3.6.1	Regulating our global climate	K00855	KO	0.85	kegg_decoder	producer	Calvin cycle (CO2 fixation)	Calvin cycle (M00165)
+2.3.6.1	Regulating our global climate	K00925	KO	0.55	foam	inhibitor	14_Methanogenesis / From acetate	ackA
+2.3.6.1	Regulating our global climate	K00927	KO	0.85	kegg_decoder	producer	Calvin cycle (CO2 fixation)	Calvin cycle (M00165)
+2.3.6.1	Regulating our global climate	K01057	KO	0.5	foam	producer	15_Methylotrophy / RuMP pathway for formaldehyde fixation (first two steps are common to both RuMP pathway variants)	PGLS, pgl, devB
+2.3.6.1	Regulating our global climate	K01070	KO	0.5	foam	producer	15_Methylotrophy / Formaldehyde oxidation (glutathione-dependent)	frmB, ESD, fghA
+2.3.6.1	Regulating our global climate	K01491	KO	0.9	kegg_decoder+foam	producer	Wood-Ljungdahl pathway (CO2 fixation)	Wood-Ljungdahl (M00377); folD
+2.3.6.1	Regulating our global climate	K01499	KO	0.95	kegg_decoder+foam	inhibitor	Methanogenesis (CO2→CH4)	Methanogenesis (M00567); mch
+2.3.6.1	Regulating our global climate	K01595	KO	0.7999999999999999	kegg_decoder+foam	producer	Formaldehyde assimilation (methylotrophy)	Formaldehyde assimilation serine (M00346); ppc
+2.3.6.1	Regulating our global climate	K01601	KO	0.85	kegg_decoder	producer	Calvin cycle (CO2 fixation)	Calvin cycle (M00165)
+2.3.6.1	Regulating our global climate	K01602	KO	0.85	kegg_decoder	producer	Calvin cycle (CO2 fixation)	Calvin cycle (M00165)
+2.3.6.1	Regulating our global climate	K01623	KO	0.85	kegg_decoder	producer	Calvin cycle (CO2 fixation)	Calvin cycle (M00165)
+2.3.6.1	Regulating our global climate	K01624	KO	0.85	kegg_decoder	producer	Calvin cycle (CO2 fixation)	Calvin cycle (M00165)
+2.3.6.1	Regulating our global climate	K01648	KO	0.8	kegg_decoder	producer	Reductive TCA cycle (CO2 fixation)	rTCA (M00173)
+2.3.6.1	Regulating our global climate	K01689	KO	0.7	kegg_decoder	producer	Formaldehyde assimilation (methylotrophy)	Formaldehyde assimilation serine (M00346)
+2.3.6.1	Regulating our global climate	K01807	KO	0.85	kegg_decoder	producer	Calvin cycle (CO2 fixation)	Calvin cycle (M00165)
+2.3.6.1	Regulating our global climate	K01808	KO	0.85	kegg_decoder	producer	Calvin cycle (CO2 fixation)	Calvin cycle (M00165)
+2.3.6.1	Regulating our global climate	K01895	KO	0.55	foam	inhibitor	14_Methanogenesis / From acetate	ACSS1_2, acs
+2.3.6.1	Regulating our global climate	K01902	KO	0.8	kegg_decoder	producer	Reductive TCA cycle (CO2 fixation)	rTCA (M00173)
+2.3.6.1	Regulating our global climate	K01903	KO	0.8	kegg_decoder	producer	Reductive TCA cycle (CO2 fixation)	rTCA (M00173)
+2.3.6.1	Regulating our global climate	K01938	KO	0.9	kegg_decoder+foam	producer	Wood-Ljungdahl pathway (CO2 fixation)	Wood-Ljungdahl (M00377); fhs
+2.3.6.1	Regulating our global climate	K01961	KO	0.75	kegg_decoder	producer	3-Hydroxypropionate bi-cycle (CO2 fixation)	3-HP (M00376)
+2.3.6.1	Regulating our global climate	K01962	KO	0.75	kegg_decoder	producer	3-Hydroxypropionate bi-cycle (CO2 fixation)	3-HP (M00376)
+2.3.6.1	Regulating our global climate	K01964	KO	0.75	kegg_decoder	producer	3-Hydroxypropionate bi-cycle (CO2 fixation)	3-HP (M00376)
+2.3.6.1	Regulating our global climate	K02636	KO	0.5	foam	transformer	13_Hydrogen metabolism / Hydrogen production VII (chlorophyta, cyanobacteria)	petC
+2.3.6.1	Regulating our global climate	K02689	KO	0.85	kegg_decoder	producer	Photosystem I (oxygenic photosynthesis)	PSI (M00163)
+2.3.6.1	Regulating our global climate	K02690	KO	0.85	kegg_decoder	producer	Photosystem I (oxygenic photosynthesis)	PSI (M00163)
+2.3.6.1	Regulating our global climate	K02694	KO	0.85	kegg_decoder	producer	Photosystem I (oxygenic photosynthesis)	PSI (M00163)
+2.3.6.1	Regulating our global climate	K02703	KO	0.85	kegg_decoder	producer	Photosystem II (oxygenic photosynthesis)	PSII (M00161)
+2.3.6.1	Regulating our global climate	K02704	KO	0.85	kegg_decoder	producer	Photosystem II (oxygenic photosynthesis)	PSII (M00161)
+2.3.6.1	Regulating our global climate	K02705	KO	0.85	kegg_decoder	producer	Photosystem II (oxygenic photosynthesis)	PSII (M00161)
+2.3.6.1	Regulating our global climate	K02706	KO	0.85	kegg_decoder	producer	Photosystem II (oxygenic photosynthesis)	PSII (M00161)
+2.3.6.1	Regulating our global climate	K03388	KO	0.55	foam	inhibitor	14_Methanogenesis / From CO2	hdrA2
+2.3.6.1	Regulating our global climate	K03389	KO	0.55	foam	inhibitor	14_Methanogenesis / From CO2	hdrB2
+2.3.6.1	Regulating our global climate	K03390	KO	0.55	foam	inhibitor	14_Methanogenesis / From CO2	hdrC2
+2.3.6.1	Regulating our global climate	K03396	KO	0.5	foam	producer	15_Methylotrophy / Formaldehyde oxidation (glutathione-dependent)	gfa
+2.3.6.1	Regulating our global climate	K03518	KO	0.5	foam	transformer	13_Hydrogen metabolism / Hydrogen production	coxS
+2.3.6.1	Regulating our global climate	K03519	KO	0.5	foam	transformer	13_Hydrogen metabolism / Hydrogen production	coxM, cutM
+2.3.6.1	Regulating our global climate	K03520	KO	0.5	foam	transformer	13_Hydrogen metabolism / Hydrogen production	coxL, cutL
+2.3.6.1	Regulating our global climate	K03841	KO	0.85	kegg_decoder	producer	Calvin cycle (CO2 fixation)	Calvin cycle (M00165)
+2.3.6.1	Regulating our global climate	K04480	KO	0.55	foam	inhibitor	14_Methanogenesis / From methanol	mtaB
+2.3.6.1	Regulating our global climate	K06281	KO	0.7	kegg_decoder+foam	transformer	H2 uptake hydrogenase	NiFe hydrogenase (M00627); hyaB, hybC
+2.3.6.1	Regulating our global climate	K06282	KO	0.7	kegg_decoder+foam	transformer	H2 uptake hydrogenase	NiFe hydrogenase (M00627); hyaA, hybO
+2.3.6.1	Regulating our global climate	K06441	KO	0.5	foam	transformer	13_Hydrogen metabolism / Hydrogen production VII (chlorophyta, cyanobacteria)	E1.12.7.2G
+2.3.6.1	Regulating our global climate	K08348	KO	0.5	foam	producer	15_Methylotrophy / Methane oxidation to cO2	fdnG
+2.3.6.1	Regulating our global climate	K08349	KO	0.5	foam	producer	15_Methylotrophy / Methane oxidation to cO2	fdnH
+2.3.6.1	Regulating our global climate	K08350	KO	0.5	foam	producer	15_Methylotrophy / Methane oxidation to cO2	fdnI
+2.3.6.1	Regulating our global climate	K08684	KO	0.5	foam	producer	15_Methylotrophy / Methane oxydation	
+2.3.6.1	Regulating our global climate	K08685	KO	0.5	foam	producer	15_Methylotrophy / Methylamine to formaldehyde	qhpA
+2.3.6.1	Regulating our global climate	K08691	KO	0.85	kegg_decoder+foam	producer	3-Hydroxypropionate bi-cycle (CO2 fixation)	3-HP (M00376); mcl
+2.3.6.1	Regulating our global climate	K08692	KO	0.5	foam	producer	15_Methylotrophy / Serine pathway for formaldehyde fixation	mtkB
+2.3.6.1	Regulating our global climate	K09709	KO	0.75	kegg_decoder	producer	3-Hydroxypropionate bi-cycle (CO2 fixation)	3-HP (M00376)
+2.3.6.1	Regulating our global climate	K10713	KO	0.5	foam	producer	15_Methylotrophy / Formaldehyde oxidation (h4mpt pathway)	fae
+2.3.6.1	Regulating our global climate	K10714	KO	0.5	foam	producer	15_Methylotrophy / Formaldehyde oxidation (h4mpt pathway)	mtdB
+2.3.6.1	Regulating our global climate	K10944	KO	0.9	kegg_decoder	producer	Methane oxidation (CH4→CO2)	Methane oxidation (M00174)
+2.3.6.1	Regulating our global climate	K10945	KO	0.9	kegg_decoder	producer	Methane oxidation (CH4→CO2)	Methane oxidation (M00174)
+2.3.6.1	Regulating our global climate	K10946	KO	0.9	kegg_decoder	producer	Methane oxidation (CH4→CO2)	Methane oxidation (M00174)
+2.3.6.1	Regulating our global climate	K11260	KO	0.55	foam	inhibitor	14_Methanogenesis / From CO2	fwdG
+2.3.6.1	Regulating our global climate	K11261	KO	0.55	foam	inhibitor	14_Methanogenesis / From CO2	fwdE, fmdE
+2.3.6.1	Regulating our global climate	K11532	KO	0.85	kegg_decoder	producer	Calvin cycle (CO2 fixation)	Calvin cycle (M00165)
+2.3.6.1	Regulating our global climate	K13402	KO	0.5	foam	producer	15_Methylotrophy / Formaldehyde oxidation (tetrahydrofolate pathway)	MTHFD1L
+2.3.6.1	Regulating our global climate	K13403	KO	0.5	foam	producer	15_Methylotrophy / Formaldehyde oxidation (tetrahydrofolate pathway)	MTHFD2
+2.3.6.1	Regulating our global climate	K13942	KO	0.55	foam	inhibitor	14_Methanogenesis / From CO2	hmd
+2.3.6.1	Regulating our global climate	K14028	KO	0.5	foam	producer	15_Methylotrophy / Methanol oxidation to formaldehyde	mdh1, mxaF
+2.3.6.1	Regulating our global climate	K14029	KO	0.5	foam	producer	15_Methylotrophy / Methanol oxidation to formaldehyde	mdh2, mxaI
+2.3.6.1	Regulating our global climate	K14067	KO	0.5	foam	producer	15_Methylotrophy / Serine pathway for formaldehyde fixation	mtkA
+2.3.6.1	Regulating our global climate	K14080	KO	0.55	foam	inhibitor	14_Methanogenesis / From methanol	mtaA
+2.3.6.1	Regulating our global climate	K14081	KO	0.55	foam	inhibitor	14_Methanogenesis / From methanol	mtaC
+2.3.6.1	Regulating our global climate	K14082	KO	0.55	foam	inhibitor	14_Methanogenesis / From methylamine	mtbA
+2.3.6.1	Regulating our global climate	K14083	KO	0.55	foam	inhibitor	14_Methanogenesis / From trimethylamine	mttB
+2.3.6.1	Regulating our global climate	K14084	KO	0.55	foam	inhibitor	14_Methanogenesis / From trimethylamine	mttC
+2.3.6.1	Regulating our global climate	K14138	KO	0.9	kegg_decoder+foam	producer	Wood-Ljungdahl pathway (CO2 fixation)	Wood-Ljungdahl (M00377); acsB
+2.3.6.1	Regulating our global climate	K14468	KO	0.75	kegg_decoder	producer	3-Hydroxypropionate bi-cycle (CO2 fixation)	3-HP (M00376)
+2.3.6.1	Regulating our global climate	K14469	KO	0.75	kegg_decoder	producer	3-Hydroxypropionate bi-cycle (CO2 fixation)	3-HP (M00376)
+2.3.6.1	Regulating our global climate	K15022	KO	0.8	kegg_decoder	producer	Wood-Ljungdahl pathway (CO2 fixation)	Wood-Ljungdahl (M00377)
+2.3.6.1	Regulating our global climate	K15023	KO	0.8	kegg_decoder	producer	Wood-Ljungdahl pathway (CO2 fixation)	Wood-Ljungdahl (M00377)
+2.3.6.1	Regulating our global climate	K15228	KO	0.5	foam	producer	15_Methylotrophy / Methylamine to formaldehyde	mauA
+2.3.6.1	Regulating our global climate	K15229	KO	0.5	foam	producer	15_Methylotrophy / Methylamine to formaldehyde	mauB
+2.3.6.1	Regulating our global climate	K15230	KO	0.8	kegg_decoder	producer	Reductive TCA cycle (CO2 fixation)	rTCA (M00173)
+2.3.6.1	Regulating our global climate	K15231	KO	0.8	kegg_decoder	producer	Reductive TCA cycle (CO2 fixation)	rTCA (M00173)
+2.3.6.1	Regulating our global climate	K16154	KO	0.5	foam	producer	15_Methylotrophy / Methane oxidation to cO2	
+2.3.6.1	Regulating our global climate	K16155	KO	0.5	foam	producer	15_Methylotrophy / Methane oxidation to cO2	
+2.3.6.1	Regulating our global climate	K16156	KO	0.5	foam	producer	15_Methylotrophy / Methane oxidation to cO2	
+2.3.6.1	Regulating our global climate	K16157	KO	0.95	kegg_decoder+foam	producer	Methane oxidation (CH4→CO2)	Methane oxidation (M00174); mmoX
+2.3.6.1	Regulating our global climate	K16158	KO	0.95	kegg_decoder+foam	producer	Methane oxidation (CH4→CO2)	Methane oxidation (M00174); mmoY
+2.3.6.1	Regulating our global climate	K16159	KO	0.95	kegg_decoder+foam	producer	Methane oxidation (CH4→CO2)	Methane oxidation (M00174); mmoZ
+2.3.6.1	Regulating our global climate	K16160	KO	0.95	kegg_decoder+foam	producer	Methane oxidation (CH4→CO2)	Methane oxidation (M00174); mmoB
+2.3.6.1	Regulating our global climate	K16161	KO	0.95	kegg_decoder+foam	producer	Methane oxidation (CH4→CO2)	Methane oxidation (M00174); mmoC
+2.3.6.1	Regulating our global climate	K16162	KO	0.95	kegg_decoder+foam	producer	Methane oxidation (CH4→CO2)	Methane oxidation (M00174); mmoD
+2.3.6.1	Regulating our global climate	K16176	KO	0.55	foam	inhibitor	14_Methanogenesis / From methylamine	mtmB
+2.3.6.1	Regulating our global climate	K16177	KO	0.55	foam	inhibitor	14_Methanogenesis / From methylamine	mtmC
+2.3.6.1	Regulating our global climate	K16178	KO	0.55	foam	inhibitor	14_Methanogenesis / From dimethylamine	mtbB
+2.3.6.1	Regulating our global climate	K16179	KO	0.55	foam	inhibitor	14_Methanogenesis / From dimethylamine	mtbC
+2.3.6.1	Regulating our global climate	K16254	KO	0.5	foam	producer	15_Methylotrophy / Methanol oxidation to formaldehyde	mxaJ
+2.3.6.1	Regulating our global climate	K16255	KO	0.5	foam	producer	15_Methylotrophy / Methanol oxidation to formaldehyde	mxaG
+2.3.6.1	Regulating our global climate	K16256	KO	0.5	foam	producer	15_Methylotrophy / Methanol oxidation to formaldehyde	mxaA
+2.3.6.1	Regulating our global climate	K16257	KO	0.5	foam	producer	15_Methylotrophy / Methanol oxidation to formaldehyde	mxaC
+2.3.6.1	Regulating our global climate	K16258	KO	0.5	foam	producer	15_Methylotrophy / Methanol oxidation to formaldehyde	mxaK
+2.3.6.1	Regulating our global climate	K16259	KO	0.5	foam	producer	15_Methylotrophy / Methanol oxidation to formaldehyde	mxaL
+2.3.6.1	Regulating our global climate	K16260	KO	0.5	foam	producer	15_Methylotrophy / Methanol oxidation to formaldehyde	mxaD

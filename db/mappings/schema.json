@@ -1,0 +1,75 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "ECOSSDB Gene-to-ES Mapping Row",
+  "description": "Schema for a single row in the es_gene_mapping.tsv file. Each row maps one gene identifier to one ecosystem service category.",
+  "type": "object",
+  "required": ["es_code", "es_name", "gene_id", "gene_id_type", "confidence", "evidence_source", "functional_role"],
+  "properties": {
+    "es_code": {
+      "type": "string",
+      "description": "CICES ecosystem service code (e.g. '2.3.5.1'). Must exist in the ontology file (db/ontology/cices_v5.2.tsv).",
+      "pattern": "^[0-9]+(\\.[0-9]+)*$"
+    },
+    "es_name": {
+      "type": "string",
+      "description": "Human-readable ES name matching the ontology entry."
+    },
+    "gene_id": {
+      "type": "string",
+      "description": "Gene/family identifier (e.g. 'K00370', 'COG0243', 'PF00124')."
+    },
+    "gene_id_type": {
+      "type": "string",
+      "enum": ["KO", "COG", "Pfam", "EC", "CAZy", "custom_hmm"],
+      "description": "Type of gene identifier."
+    },
+    "confidence": {
+      "type": "number",
+      "minimum": 0,
+      "maximum": 1,
+      "description": "Confidence score. 0.90+ = direct evidence, 0.75-0.89 = strong inference, 0.50-0.74 = pathway-level, 0.25-0.49 = indirect, <0.25 = speculative."
+    },
+    "evidence_source": {
+      "type": "string",
+      "description": "Source of the mapping evidence. Use structured references: 'kegg_decoder', 'foam', 'literature:PMID:12345678', 'literature:DOI:10.1234/...', 'agent:<agent_id>'."
+    },
+    "functional_role": {
+      "type": "string",
+      "enum": ["producer", "consumer", "transformer", "inhibitor"],
+      "description": "The gene's functional role relative to the ecosystem service. producer: directly provides the ES. consumer: uses/depletes the ES. transformer: converts substrates in a way that contributes to the ES. inhibitor: actively works against the ES."
+    },
+    "pathway_context": {
+      "type": "string",
+      "description": "Metabolic pathway or functional context (e.g. 'Denitrification (NO3→N2)')."
+    },
+    "notes": {
+      "type": "string",
+      "description": "Free-text notes, reasoning chain, or additional context."
+    }
+  },
+  "additionalProperties": false,
+  "examples": [
+    {
+      "es_code": "2.3.5.1",
+      "es_name": "Controlling the chemical quality of freshwater",
+      "gene_id": "K00370",
+      "gene_id_type": "KO",
+      "confidence": 0.85,
+      "evidence_source": "kegg_decoder+literature",
+      "functional_role": "producer",
+      "pathway_context": "Denitrification (NO3→N2)",
+      "notes": "narG nitrate reductase alpha subunit"
+    },
+    {
+      "es_code": "2.3.6.1",
+      "es_name": "Regulating our global climate",
+      "gene_id": "K00399",
+      "gene_id_type": "KO",
+      "confidence": 0.90,
+      "evidence_source": "kegg_decoder+literature",
+      "functional_role": "inhibitor",
+      "pathway_context": "Methanogenesis (CO2→CH4)",
+      "notes": "mcrA methyl-CoM reductase; produces CH4 greenhouse gas"
+    }
+  ]
+}

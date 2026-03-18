@@ -1,0 +1,14 @@
+# Reference PDFs (large, not generated)
+CICES-V5.2_Guidance_final-_-29042025.pdf
+
+__pycache__/
+*.pyc
+*.pyo
+.nextflow/
+.nextflow.log*
+work/
+results/
+test-results/
+*.swp
+*.swo
+.DS_Store

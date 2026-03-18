@@ -1,0 +1,1028 @@
+{
+  "name": "Ecosystem Services",
+  "code": "root",
+  "children": [
+    {
+      "name": "Provisioning",
+      "code": "1",
+      "level": "section",
+      "children": [
+        {
+          "name": "Biomass",
+          "code": "1.1",
+          "level": "division",
+          "children": [
+            {
+              "name": "Cultivated terrestrial plants for nutrition, materials or energy",
+              "code": "1.1.1",
+              "level": "group",
+              "children": [
+                {
+                  "name": "Any crops and fruits grown by humans for food; food crops",
+                  "code": "1.1.1.1",
+                  "level": "class"
+                },
+                {
+                  "name": "Material from plants, fungi, algae or bacterial that we can use",
+                  "code": "1.1.1.2",
+                  "level": "class"
+                },
+                {
+                  "name": "Plant materials used as a source of energy",
+                  "code": "1.1.1.3",
+                  "level": "class"
+                }
+              ]
+            },
+            {
+              "name": "Cultivated aquatic plants for nutrition, materials or energy",
+              "code": "1.1.2",
+              "level": "group",
+              "children": [
+                {
+                  "name": "Plants that are cultivated in fresh or salt water that we eat",
+                  "code": "1.1.2.1",
+                  "level": "class"
+                },
+                {
+                  "name": "Plants that are cultivated in fresh or salt water that we can use as a material",
+                  "code": "1.1.2.2",
+                  "level": "class"
+                },
+                {
+                  "name": "Plants that are cultivated in fresh or salt water that we can use as an energy source",
+                  "code": "1.1.2.3",
+                  "level": "class"
+                }
+              ]
+            },
+            {
+              "name": "Reared animals for nutrition, materials or energy",
+              "code": "1.1.3",
+              "level": "group",
+              "children": [
+                {
+                  "name": "Livestock raised in housing and/or grazed outdoors",
+                  "code": "1.1.3.1",
+                  "level": "class"
+                },
+                {
+                  "name": "Material from animals that we can use",
+                  "code": "1.1.3.2",
+                  "level": "class"
+                },
+                {
+                  "name": "Animal materials used as a source of energy or for traction",
+                  "code": "1.1.3.3",
+                  "level": "class"
+                }
+              ]
+            },
+            {
+              "name": "Reared aquatic animals for nutrition, materials or energy",
+              "code": "1.1.4",
+              "level": "group",
+              "children": [
+                {
+                  "name": "Animals that are cultivated in fresh or salt water that we eat.",
+                  "code": "1.1.4.1",
+                  "level": "class"
+                },
+                {
+                  "name": "Animals that are cultivated in fresh or salt water that we can use as a material.",
+                  "code": "1.1.4.2",
+                  "level": "class"
+                },
+                {
+                  "name": "Animals that are cultivated in fresh or salt water that we can use as a source of energy.",
+                  "code": "1.1.4.3",
+                  "level": "class"
+                }
+              ]
+            },
+            {
+              "name": "Wild plants (terrestrial and aquatic) for nutrition, materials or energy",
+              "code": "1.1.5",
+              "level": "group",
+              "children": [
+                {
+                  "name": "Food from wild plants",
+                  "code": "1.1.5.1",
+                  "level": "class"
+                },
+                {
+                  "name": "Materials from wild plants",
+                  "code": "1.1.5.2",
+                  "level": "class"
+                },
+                {
+                  "name": "Materials from wild plants, fungi and algae used for energy",
+                  "code": "1.1.5.3",
+                  "level": "class"
+                }
+              ]
+            },
+            {
+              "name": "Wild animals (terrestrial and aquatic) for nutrition, materials or energy",
+              "code": "1.1.6",
+              "level": "group",
+              "children": [
+                {
+                  "name": "Food from wild animals",
+                  "code": "1.1.6.1",
+                  "level": "class"
+                },
+                {
+                  "name": "Materials from wild animals",
+                  "code": "1.1.6.2",
+                  "level": "class"
+                },
+                {
+                  "name": "Material from wild animals that can be used as a source of energy",
+                  "code": "1.1.6.3",
+                  "level": "class"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Genetic material from all biota (including seed, spore or gamete production)",
+          "code": "1.2",
+          "level": "division",
+          "children": [
+            {
+              "name": "Genetic material from plants, algae or fungi",
+              "code": "1.2.1",
+              "level": "group",
+              "children": [
+                {
+                  "name": "Seed collection",
+                  "code": "1.2.1.1",
+                  "level": "class"
+                },
+                {
+                  "name": "Plants. fungi or algae that we can use for breeding",
+                  "code": "1.2.1.2",
+                  "level": "class"
+                },
+                {
+                  "name": "Genetic material from wild plants. fungi or algae that we can use",
+                  "code": "1.2.1.3",
+                  "level": "class"
+                }
+              ]
+            },
+            {
+              "name": "Genetic material from animals",
+              "code": "1.2.2",
+              "level": "group",
+              "children": [
+                {
+                  "name": "Animals used for replenishing stock",
+                  "code": "1.2.2.1",
+                  "level": "class"
+                },
+                {
+                  "name": "Wild animals that we can use for breeding",
+                  "code": "1.2.2.2",
+                  "level": "class"
+                },
+                {
+                  "name": "The genetic information that is stored in wild animals that we can use",
+                  "code": "1.2.2.3",
+                  "level": "class"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Other types of provisioning service from biotic sources",
+          "code": "1.3",
+          "level": "division",
+          "children": [
+            {
+              "name": "Other",
+              "code": "1.3.X",
+              "level": "group",
+              "children": [
+                {
+                  "name": "Other",
+                  "code": "1.3.X.X",
+                  "level": "class"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Regulation & Maintenance",
+      "code": "2",
+      "level": "section",
+      "children": [
+        {
+          "name": "Transformation of biochemical or physical inputs to ecosystems",
+          "code": "2.1",
+          "level": "division",
+          "children": [
+            {
+              "name": "Reduction of nutrient loads and mediation of wastes or toxic substances of anthropogenic origin by living processes",
+              "code": "2.1.1",
+              "level": "group",
+              "children": [
+                {
+                  "name": "Decomposing wastes or polluting substances",
+                  "code": "2.1.1.1",
+                  "level": "class"
+                },
+                {
+                  "name": "Filtering wastes or sequestering pollutants",
+                  "code": "2.1.1.2",
+                  "level": "class"
+                }
+              ]
+            },
+            {
+              "name": "Mediation of nuisances of anthropogenic origin",
+              "code": "2.1.2",
+              "level": "group",
+              "children": [
+                {
+                  "name": "Reducing smells",
+                  "code": "2.1.2.1",
+                  "level": "class"
+                },
+                {
+                  "name": "Reducing noise",
+                  "code": "2.1.2.2",
+                  "level": "class"
+                },
+                {
+                  "name": "Screening unsightly things",
+                  "code": "2.1.2.3",
+                  "level": "class"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Regulation of baseline flows and extreme events",
+          "code": "2.2",
+          "level": "division",
+          "children": [
+            {
+              "name": "Erosion control",
+              "code": "2.2.1",
+              "level": "group",
+              "children": [
+                {
+                  "name": "Controlling or preventing soil or sediment loss by running water",
+                  "code": "2.2.1.1",
+                  "level": "class"
+                },
+                {
+                  "name": "Controlling or preventing soil or sediment loss by wind",
+                  "code": "2.2.1.2",
+                  "level": "class"
+                }
+              ]
+            },
+            {
+              "name": "Hydrological cycle and water flow regulation",
+              "code": "2.2.2",
+              "level": "group",
+              "children": [
+                {
+                  "name": "Ecosystems controlling river and lake levels during normal conditions",
+                  "code": "2.2.2.1",
+                  "level": "class"
+                },
+                {
+                  "name": "Controlling the peaks in reiver levels; mitigating flood waves",
+                  "code": "2.2.2.2",
+                  "level": "class"
+                }
+              ]
+            },
+            {
+              "name": "Hazard mitigation",
+              "code": "2.2.3",
+              "level": "group",
+              "children": [
+                {
+                  "name": "Stopping landslides and avalanches harming people",
+                  "code": "2.2.3.1",
+                  "level": "class"
+                },
+                {
+                  "name": "Protecting people from flooding",
+                  "code": "2.2.3.2",
+                  "level": "class"
+                },
+                {
+                  "name": "Protecting people from storms",
+                  "code": "2.2.3.3",
+                  "level": "class"
+                },
+                {
+                  "name": "Protecting people from fire",
+                  "code": "2.2.3.4",
+                  "level": "class"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Regulation of physical, chemical, biological conditions",
+          "code": "2.3",
+          "level": "division",
+          "children": [
+            {
+              "name": "Lifecycle maintenance, habitat and gene pool protection",
+              "code": "2.3.2",
+              "level": "group",
+              "children": [
+                {
+                  "name": "Pollinating our fruit trees and other plants",
+                  "code": "2.3.2.1",
+                  "level": "class"
+                },
+                {
+                  "name": "Spreading the seeds of wild plants",
+                  "code": "2.3.2.2",
+                  "level": "class"
+                },
+                {
+                  "name": "Providing habitats for wild plants and animals that can be useful to us",
+                  "code": "2.3.2.3",
+                  "level": "class"
+                },
+                {
+                  "name": "Providing habitats for wild plants and animals that can be useful to us",
+                  "code": "2.3.2.4",
+                  "level": "class"
+                },
+                {
+                  "name": "Providing habitats for wild plants and animals that can be useful to us",
+                  "code": "2.3.2.5",
+                  "level": "class"
+                }
+              ]
+            },
+            {
+              "name": "Pest and disease control",
+              "code": "2.3.3",
+              "level": "group",
+              "children": [
+                {
+                  "name": "Controlling pests and invasive species",
+                  "code": "2.3.3.1",
+                  "level": "class"
+                },
+                {
+                  "name": "Controlling disease",
+                  "code": "2.3.3.2",
+                  "level": "class"
+                }
+              ]
+            },
+            {
+              "name": "Regulation of soil quality",
+              "code": "2.3.4",
+              "level": "group",
+              "children": [
+                {
+                  "name": "Ensuring soils form and develop",
+                  "code": "2.3.4.1",
+                  "level": "class"
+                },
+                {
+                  "name": "Ensuring the organic matter in our soils is maintained",
+                  "code": "2.3.4.2",
+                  "level": "class"
+                },
+                {
+                  "name": "Creating and maintaining the structure of soils",
+                  "code": "2.3.4.3",
+                  "level": "class"
+                }
+              ]
+            },
+            {
+              "name": "Water conditions",
+              "code": "2.3.5",
+              "level": "group",
+              "children": [
+                {
+                  "name": "Controlling the chemical quality of freshwater",
+                  "code": "2.3.5.1",
+                  "level": "class"
+                },
+                {
+                  "name": "Controlling the chemical quality of salt water",
+                  "code": "2.3.5.2",
+                  "level": "class"
+                }
+              ]
+            },
+            {
+              "name": "Atmospheric composition and conditions",
+              "code": "2.3.6",
+              "level": "group",
+              "children": [
+                {
+                  "name": "Regulating our global climate",
+                  "code": "2.3.6.1",
+                  "level": "class"
+                },
+                {
+                  "name": "Regulating the physical quality of air for people",
+                  "code": "2.3.6.2",
+                  "level": "class"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Other types of regulation and maintenance service by living processes",
+          "code": "2.4",
+          "level": "division",
+          "children": [
+            {
+              "name": "Other",
+              "code": "2.4.X",
+              "level": "group",
+              "children": [
+                {
+                  "name": "Other",
+                  "code": "2.4.X.X",
+                  "level": "class"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Cultural",
+      "code": "3",
+      "level": "section",
+      "children": [
+        {
+          "name": "Physical and experiential interactions with natural environment",
+          "code": "3.1",
+          "level": "division",
+          "children": [
+            {
+              "name": "Direct, in-situ and outdoor interactions with living systems that depend on presence in the environmental setting, i.e. broadly recreational activities",
+              "code": "3.1.1",
+              "level": "group",
+              "children": [
+                {
+                  "name": "Using the environment for sport and recreation; using nature to help stay fit",
+                  "code": "3.1.1.1",
+                  "level": "class"
+                },
+                {
+                  "name": "Watching plants and animals where they live; using nature to destress",
+                  "code": "3.1.1.2",
+                  "level": "class"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Intellectual and representative interactions with natural environment",
+          "code": "3.2",
+          "level": "division",
+          "children": [
+            {
+              "name": "Direct, in-situ and outdoor interactions with living systems that depend on presence in the environmental setting",
+              "code": "3.2.1",
+              "level": "group",
+              "children": [
+                {
+                  "name": "Researching nature",
+                  "code": "3.2.1.1",
+                  "level": "class"
+                },
+                {
+                  "name": "Studying nature",
+                  "code": "3.2.1.2",
+                  "level": "class"
+                },
+                {
+                  "name": "The things in nature that help people identify with the history or culture of where they live or come from",
+                  "code": "3.2.1.3",
+                  "level": "class"
+                },
+                {
+                  "name": "The beauty of nature",
+                  "code": "3.2.1.4",
+                  "level": "class"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Intellectual and representative interactions with natural environment",
+          "code": "3.3",
+          "level": "division",
+          "children": [
+            {
+              "name": "Indirect, interactions with living systems",
+              "code": "3.3.1",
+              "level": "group",
+              "children": [
+                {
+                  "name": "The things in nature used to make films or to write books",
+                  "code": "3.3.1.1",
+                  "level": "class"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Spiritual, symbolic and other cultural interactions with natural environment",
+          "code": "3.4",
+          "level": "division",
+          "children": [
+            {
+              "name": "Elements of living systems that are indirectly appreciated and have significance for people without their presence in the environmental setting.",
+              "code": "3.4.1",
+              "level": "group",
+              "children": [
+                {
+                  "name": "Using nature as a national or local emblem, or referencing a particular area as distinctive in some way (e.g. The Yorkshire Dales)",
+                  "code": "3.4.1.1",
+                  "level": "class"
+                },
+                {
+                  "name": "The things in nature that have spiritual importance for people",
+                  "code": "3.4.1.2",
+                  "level": "class"
+                }
+              ]
+            },
+            {
+              "name": "Other biophysical characteristics of species or ecosystems that are appreciated in their own right by people",
+              "code": "3.4.2",
+              "level": "group",
+              "children": [
+                {
+                  "name": "The things in nature that we think should be conserved",
+                  "code": "3.4.2.1",
+                  "level": "class"
+                },
+                {
+                  "name": "The things in nature that we want future generations to enjoy or use",
+                  "code": "3.4.2.2",
+                  "level": "class"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Other characteristics of living systems that have cultural significance",
+          "code": "3.5",
+          "level": "division",
+          "children": [
+            {
+              "name": "Other",
+              "code": "3.5.X",
+              "level": "group",
+              "children": [
+                {
+                  "name": "Other",
+                  "code": "3.5.X.X",
+                  "level": "class"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Provisioning",
+      "code": "4",
+      "level": "section",
+      "children": [
+        {
+          "name": "Water",
+          "code": "4.1",
+          "level": "division",
+          "children": [
+            {
+              "name": "Surface water used for nutrition, materials or energy",
+              "code": "4.1.1",
+              "level": "group",
+              "children": [
+                {
+                  "name": "Drinking water from sources at the ground surface",
+                  "code": "4.1.1.1",
+                  "level": "class"
+                },
+                {
+                  "name": "Surface water that we can use for things other than drinking",
+                  "code": "4.1.1.2",
+                  "level": "class"
+                },
+                {
+                  "name": "Hydropower",
+                  "code": "4.1.1.3",
+                  "level": "class"
+                },
+                {
+                  "name": "Wave or tidal power",
+                  "code": "4.1.1.4",
+                  "level": "class"
+                }
+              ]
+            },
+            {
+              "name": "Ground water for used for nutrition, materials or energy",
+              "code": "4.1.2",
+              "level": "group",
+              "children": [
+                {
+                  "name": "Dirking water from the below ground",
+                  "code": "4.1.2.1",
+                  "level": "class"
+                },
+                {
+                  "name": "Sub-surface water that we can use for things other than drinking",
+                  "code": "4.1.2.2",
+                  "level": "class"
+                },
+                {
+                  "name": "Sub-surface water that we can use as a source of energy",
+                  "code": "4.1.2.3",
+                  "level": "class"
+                }
+              ]
+            },
+            {
+              "name": "Other aqueous ecosystem outputs",
+              "code": "4.1.X",
+              "level": "group",
+              "children": [
+                {
+                  "name": "Other",
+                  "code": "4.1.X.X",
+                  "level": "class"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Non-aqueous natural abiotic ecosystem outputs",
+          "code": "4.2",
+          "level": "division",
+          "children": [
+            {
+              "name": "Mineral substances used for nutrition, materials or energy",
+              "code": "4.2.1",
+              "level": "group",
+              "children": [
+                {
+                  "name": "Minerals in our food",
+                  "code": "4.2.1.1",
+                  "level": "class"
+                },
+                {
+                  "name": "Natural inorganic materials from nature that we can use",
+                  "code": "4.2.1.2",
+                  "level": "class"
+                },
+                {
+                  "name": "Natural inorganic materials from nature that we can use as an energy source",
+                  "code": "4.2.1.3",
+                  "level": "class"
+                }
+              ]
+            },
+            {
+              "name": "Non-mineral substances or ecosystem properties used for nutrition, materials or energy",
+              "code": "4.2.2",
+              "level": "group",
+              "children": [
+                {
+                  "name": "The ways the physical environment contribute to our nutritional health",
+                  "code": "4.2.2.1",
+                  "level": "class"
+                },
+                {
+                  "name": "Gaseous, fluid or non-mineral solid inorganic materials from nature that we can use (excludes water vapour)",
+                  "code": "4.2.2.2",
+                  "level": "class"
+                },
+                {
+                  "name": "Wind power",
+                  "code": "4.2.2.3",
+                  "level": "class"
+                },
+                {
+                  "name": "Solar power",
+                  "code": "4.2.2.4",
+                  "level": "class"
+                },
+                {
+                  "name": "Using underground heat",
+                  "code": "4.2.2.5",
+                  "level": "class"
+                }
+              ]
+            },
+            {
+              "name": "Other mineral or non-mineral substances or ecosystem properties used for nutrition, materials or energy",
+              "code": "4.2.X",
+              "level": "group",
+              "children": [
+                {
+                  "name": "Other",
+                  "code": "4.2.X.X",
+                  "level": "class"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Regulation & Maintenance",
+      "code": "5",
+      "level": "section",
+      "children": [
+        {
+          "name": "Transformation of biochemical or physical inputs to ecosystems",
+          "code": "5.1",
+          "level": "division",
+          "children": [
+            {
+              "name": "Mediation of waste, toxics and other nuisances by non-living processes",
+              "code": "5.1.1",
+              "level": "group",
+              "children": [
+                {
+                  "name": "Diluting or removing wastes",
+                  "code": "5.1.1.1",
+                  "level": "class"
+                },
+                {
+                  "name": "Diluting or removing wastes",
+                  "code": "5.1.1.2",
+                  "level": "class"
+                },
+                {
+                  "name": "Natural processing of wastes",
+                  "code": "5.1.1.3",
+                  "level": "class"
+                },
+                {
+                  "name": "Underground storage of wastes",
+                  "code": "5.1.1.4",
+                  "level": "class"
+                }
+              ]
+            },
+            {
+              "name": "Mediation of nuisances of anthropogenic origin",
+              "code": "5.1.2",
+              "level": "group",
+              "children": [
+                {
+                  "name": "Natural protection",
+                  "code": "5.1.2.1",
+                  "level": "class"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Regulation and maintenance of geophysical",
+          "code": "5.2",
+          "level": "division",
+          "children": [
+            {
+              "name": "Regulation of baseline flows and extreme events",
+              "code": "5.2.1",
+              "level": "group",
+              "children": [
+                {
+                  "name": "Physical barriers to landslides",
+                  "code": "5.2.1.1",
+                  "level": "class"
+                },
+                {
+                  "name": "Physical barriers to flows",
+                  "code": "5.2.1.2",
+                  "level": "class"
+                },
+                {
+                  "name": "Physical barriers to air movements",
+                  "code": "5.2.1.3",
+                  "level": "class"
+                }
+              ]
+            },
+            {
+              "name": "Maintenance of physical, chemical, abiotic conditions",
+              "code": "5.2.2",
+              "level": "group",
+              "children": [
+                {
+                  "name": "Regulating living conditions by the physical environment",
+                  "code": "5.2.2.1",
+                  "level": "class"
+                },
+                {
+                  "name": "Regulating living conditions by the physical environment",
+                  "code": "5.2.2.2",
+                  "level": "class"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Other type of regulation and maintenance service by abiotic processes",
+          "code": "5.3",
+          "level": "division",
+          "children": [
+            {
+              "name": "Other",
+              "code": "5.3.X",
+              "level": "group",
+              "children": [
+                {
+                  "name": "Other",
+                  "code": "5.3.X.X",
+                  "level": "class"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Cultural",
+      "code": "6",
+      "level": "section",
+      "children": [
+        {
+          "name": "Physical and experiential interactions with biophysical environment",
+          "code": "6.1",
+          "level": "division",
+          "children": [
+            {
+              "name": "Direct, in-situ and outdoor interactions with geophysical systems that depend on presence in the environmental setting",
+              "code": "6.1.1",
+              "level": "group",
+              "children": [
+                {
+                  "name": "Using the environment for sport and recreation; using nature to help stay fit",
+                  "code": "6.1.1.1",
+                  "level": "class"
+                },
+                {
+                  "name": "Watching plants and animals where they live; using nature to destress",
+                  "code": "6.1.1.2",
+                  "level": "class"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Intellectual and representative interactions with geophysical environment",
+          "code": "6.2",
+          "level": "division",
+          "children": [
+            {
+              "name": "Direct, in-situ and outdoor interactions with geophysical systems that depend on presence in the environmental setting",
+              "code": "6.2.1",
+              "level": "group",
+              "children": [
+                {
+                  "name": "Researching nature",
+                  "code": "6.2.1.1",
+                  "level": "class"
+                },
+                {
+                  "name": "Studying nature",
+                  "code": "6.2.1.2",
+                  "level": "class"
+                },
+                {
+                  "name": "The things in nature that help people identify with the history or culture of where they live or come from",
+                  "code": "6.2.1.3",
+                  "level": "class"
+                },
+                {
+                  "name": "The beauty of nature",
+                  "code": "6.2.1.4",
+                  "level": "class"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Intellectual and representative interactions with geophysical environment",
+          "code": "6.3",
+          "level": "division",
+          "children": [
+            {
+              "name": "Indirect, interactions with geophysical systems",
+              "code": "6.3.1",
+              "level": "group",
+              "children": [
+                {
+                  "name": "The things in nature used to make films or to write books",
+                  "code": "6.3.1.1",
+                  "level": "class"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Spiritual, symbolic and other interactions with geophysical environment",
+          "code": "6.4",
+          "level": "division",
+          "children": [
+            {
+              "name": "Elements of geophysical systems that are indirectly appreciated and have significance for people without their presence in the environmental setting.",
+              "code": "6.4.1",
+              "level": "group",
+              "children": [
+                {
+                  "name": "Using nature to as a national or local emblem",
+                  "code": "6.4.1.1",
+                  "level": "class"
+                },
+                {
+                  "name": "The things in nature that have spiritual importance for people",
+                  "code": "6.4.1.2",
+                  "level": "class"
+                }
+              ]
+            },
+            {
+              "name": "Other biophysical elements of species or ecosystems that are appreciated in their own right by people",
+              "code": "6.4.2",
+              "level": "group",
+              "children": [
+                {
+                  "name": "The things in nature that we think should be conserved",
+                  "code": "6.4.2.1",
+                  "level": "class"
+                },
+                {
+                  "name": "The things in nature that we want future generations to enjoy or use",
+                  "code": "6.4.2.2",
+                  "level": "class"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Other characteristics of living systems that have cultural significance",
+          "code": "6.5",
+          "level": "division",
+          "children": [
+            {
+              "name": "Other",
+              "code": "6.5.X",
+              "level": "group",
+              "children": [
+                {
+                  "name": "Other",
+                  "code": "6.5.X.X",
+                  "level": "class"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,9 @@
+name: ecossdb-hmm
+channels:
+  - conda-forge
+  - bioconda
+  - defaults
+dependencies:
+  - python>=3.10
+  - pandas>=2.0
+  - hmmer>=3.3
