@@ -1,0 +1,2 @@
+es_code	es_name	gene_id	gene_id_type	confidence	evidence_source	functional_role	pathway_context	notes
+2.3.5.1	Controlling the chemical quality of freshwater	K01000	KO	0.55	kegg_decoder+literature	transformer	Phosphonate biosynthesis	pepM PEP mutase; first step in phosphonate biosynthesis; produces C-P bond organophosphorus compounds

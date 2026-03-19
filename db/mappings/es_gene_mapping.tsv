@@ -218,6 +218,7 @@ es_code	es_name	gene_id	gene_id_type	confidence	evidence_source	functional_role	
 2.3.5.1	Controlling the chemical quality of freshwater	K00937	KO	0.80	literature:PMID:39962698	transformer	Polyphosphate metabolism	ppk1 polyphosphate kinase; polyphosphate synthesis for enhanced biological P removal
 2.3.5.1	Controlling the chemical quality of freshwater	K00958	KO	0.6	kegg_decoder	consumer	Assimilatory sulfate reduction	Assimilatory sulfate reduction (M00176)
 2.3.5.1	Controlling the chemical quality of freshwater	K00959	KO	0.5	foam	transformer	18_Sulfur compounds metabolism / Sulfur compounds cycle	
+2.3.5.1	Controlling the chemical quality of freshwater	K01000	KO	0.55	kegg_decoder+literature	transformer	Phosphonate biosynthesis	pepM PEP mutase; first step in phosphonate biosynthesis; produces C-P bond organophosphorus compounds
 2.3.5.1	Controlling the chemical quality of freshwater	K01011	KO	0.5	foam	transformer	18_Sulfur compounds metabolism / Sulfur compounds cycle	TST, MPST, sseA
 2.3.5.1	Controlling the chemical quality of freshwater	K01077	KO	0.80	literature:PMID:29569048	producer	Phosphorus mineralization	phoA alkaline phosphatase; organic P → PO4; LeBrun et al 2018 Microb Ecol
 2.3.5.1	Controlling the chemical quality of freshwater	K01091	KO	0.55	kegg_decoder+literature	producer	Phosphorus mineralization	phoN acid phosphatase; releases Pi from organic P compounds; P cycling
