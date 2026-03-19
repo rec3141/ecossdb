@@ -1,0 +1,15 @@
+es_code	es_name	gene_id	gene_id_type	confidence	evidence_source	functional_role	pathway_context	notes
+2.3.6.2	Regulating the physical quality of air for people	K00108	KO	0.60	kegg_decoder+literature	transformer	Choline → glycine betaine pathway	betA choline dehydrogenase; choline/betaine metabolism linked to DMS production in marine systems
+2.1.1.1	Decomposing wastes or polluting substances	K01669	KO	0.65	kegg_decoder+literature	producer	Aromatic compound degradation	hppD 4-hydroxyphenylpyruvate dioxygenase; aromatic ring cleavage; tyrosine/xenobiotic degradation
+2.1.1.1	Decomposing wastes or polluting substances	K01426	KO	0.60	kegg_decoder+literature	producer	Amide bond hydrolysis	amiE amidase; hydrolyzes amide bonds in xenobiotics (acrylamide, herbicide amides)
+2.1.1.1	Decomposing wastes or polluting substances	K00681	KO	0.60	kegg_decoder+literature	producer	Glutathione-xenobiotic conjugate processing	ggt gamma-glutamyltranspeptidase; mercapturic acid pathway for xenobiotic elimination
+2.1.1.1	Decomposing wastes or polluting substances	K00344	KO	0.55	kegg_decoder+literature	producer	Quinone/xenobiotic reduction	qor NADPH:quinone oxidoreductase; reduces quinones and nitroaromatic xenobiotics
+2.1.1.1	Decomposing wastes or polluting substances	K16898	KO	0.60	kegg_decoder+literature	producer	Lipid/oil degradation	fadD variant; long-chain fatty acid CoA ligase; hydrocarbon remediation
+2.1.1.1	Decomposing wastes or polluting substances	K00020	KO	0.65	kegg_decoder+literature	producer	Steroid/endocrine disruptor degradation	3-beta-hydroxysteroid dehydrogenase; degrades estrogens and other endocrine disruptors in water
+2.3.3.2	Controlling disease	K11927	KO	0.55	kegg_decoder+literature	inhibitor	Bacterial virulence/competition	VgrG T6SS spike protein; effector delivery; pathogenicity and bacterial warfare indicator
+2.3.5.1	Controlling the chemical quality of freshwater	K03832	KO	0.60	kegg_decoder+literature	transformer	Iron acquisition/cycling	TonB energy transducer; powers TonB-dependent receptors for siderophore/Fe/B12 import
+2.3.5.1	Controlling the chemical quality of freshwater	K03561	KO	0.55	kegg_decoder+literature	transformer	Iron acquisition/cycling	ExbD TonB system accessory; required for TonB-dependent iron transport
+2.3.5.1	Controlling the chemical quality of freshwater	K03320	KO	0.65	kegg_decoder+literature	consumer	Ammonium uptake	Amt permease variant; ammonium/methylammonium uptake; dissolved N removal
+2.3.5.1	Controlling the chemical quality of freshwater	K00548	KO	0.50	kegg_decoder+literature	transformer	B12-dependent metabolism	metH B12-dependent methionine synthase; indicator of B12 cycling capacity
+2.3.5.1	Controlling the chemical quality of freshwater	K00428	KO	0.50	kegg_decoder+literature	producer	Reactive oxygen detoxification	cytochrome c peroxidase; H2O2 detoxification in freshwater
+2.3.5.1	Controlling the chemical quality of freshwater	K01126	KO	0.55	kegg_decoder+literature	transformer	Phosphorus cycling	phospholipase C; releases phosphate from phospholipids; organic P mineralization

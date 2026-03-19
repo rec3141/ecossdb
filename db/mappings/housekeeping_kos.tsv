@@ -66,3 +66,31 @@ K01711	dTDP-glucose 4,6-dehydratase	LPS biosynthesis
 K00067	UDP-N-acetylglucosamine oxidoreductase	Peptidoglycan/LPS precursor
 K13464	type IV pili twitching motility PilT	Motility (broadly distributed)
 K07114	uncharacterized protein putative Fe-S	Unknown function
+K02274	cytochrome c oxidase subunit II coxII	Aerobic respiration (generic)
+K02276	cytochrome c oxidase subunit IV	Aerobic respiration (generic)
+K02406	flagellin fliC	Motility (generic)
+K03406	methyl-accepting chemotaxis protein MCP	Chemotaxis (generic)
+K00031	isocitrate dehydrogenase icd	TCA cycle
+K01681	aconitase acnA/acnB	TCA cycle
+K00658	2-oxoglutarate dehydrogenase E2 sucB	TCA cycle
+K00627	2-oxoglutarate dehydrogenase E1 sucA	TCA cycle
+K00239	succinate dehydrogenase A sdhA	TCA cycle / ETC
+K02111	F-type ATPase alpha atpA	ATP synthase
+K00605	aminomethyltransferase gcvT	Glycine cleavage
+K00604	aminomethyltransferase gcvT variant	Glycine cleavage
+K00655	1-acylglycerol-3-phosphate O-acyltransferase plsC	Phospholipid biosynthesis
+K02477	two-component regulator ompR/phoP	Signal transduction (generic)
+K07263	OmpA outer membrane protein	Cell envelope
+K03466	GTPase Era	Cell cycle
+K01262	aminopeptidase N pepN	Protein turnover
+K03307	Na+/H+ antiporter NhaA	Ion homeostasis
+K01951	GMP synthase guaA	Purine biosynthesis
+K01952	phosphoribosylformylglycinamidine synthase purL	Purine biosynthesis
+K01256	aminopeptidase general	Protein turnover (generic)
+K03699	tRNA modification GTPase mnmE	tRNA modification
+K07107	uncharacterized protein	Unknown function
+K07003	uncharacterized protein	Unknown function
+K07152	uncharacterized oxidoreductase	Unknown function
+K07052	uncharacterized protein	Unknown function
+K09808	uncharacterized ABC transporter	Unknown function
+K07566	putative GTPase	Unknown function
