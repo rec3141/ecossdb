@@ -1,0 +1,38 @@
+es_code	es_name	gene_id	gene_id_type	confidence	evidence_source	functional_role	pathway_context	notes
+2.3.3.2	Controlling disease	K16068	KO	0.85	literature:PMID:35438519	inhibitor	Cyanotoxin biosynthesis	mcyA microcystin synthetase; hepatotoxin production in freshwater; Yancey et al 2022
+2.3.3.2	Controlling disease	K16069	KO	0.85	literature:PMID:35438519	inhibitor	Cyanotoxin biosynthesis	mcyB microcystin synthetase; structural variant determination
+2.3.3.2	Controlling disease	K16070	KO	0.85	literature:PMID:39947845	inhibitor	Cyanotoxin biosynthesis	mcyE microcystin synthetase; key marker for MC-producing cyanobacteria; Jeon et al 2025
+2.3.3.2	Controlling disease	K16071	KO	0.80	literature:PMID:35438519	inhibitor	Cyanotoxin biosynthesis	mcyD microcystin synthetase polyketide synthase
+2.3.3.2	Controlling disease	K16072	KO	0.80	literature:PMID:35438519	inhibitor	Cyanotoxin biosynthesis	mcyG microcystin synthetase starter unit
+2.3.3.2	Controlling disease	K21636	KO	0.80	literature:PMID:39772868	inhibitor	Cyanotoxin biosynthesis	cyrA cylindrospermopsin synthetase; freshwater cyanotoxin; Hart et al 2025
+2.3.3.2	Controlling disease	K21637	KO	0.80	literature:PMID:39772868	inhibitor	Cyanotoxin biosynthesis	cyrB cylindrospermopsin amidinotransferase
+2.3.3.2	Controlling disease	K21304	KO	0.80	literature:PMID:39772868	inhibitor	Cyanotoxin biosynthesis	sxtA saxitoxin synthetase; paralytic shellfish toxin producer
+2.3.5.1	Controlling the chemical quality of freshwater	K20935	KO	0.85	kegg_decoder	producer	Anammox (NH4+NO2→N2)	hdh hydrazine dehydrogenase; terminal N2 production via anammox
+2.3.5.1	Controlling the chemical quality of freshwater	K20933	KO	0.85	kegg_decoder	producer	Anammox (NH4+NO2→N2)	hzsB hydrazine synthase subunit B
+2.3.5.1	Controlling the chemical quality of freshwater	K20934	KO	0.85	kegg_decoder	producer	Anammox (NH4+NO2→N2)	hzsC hydrazine synthase subunit C
+2.3.5.1	Controlling the chemical quality of freshwater	K03385	KO	0.80	kegg_decoder	transformer	DNRA (NO3→NH4)	nrfA cytochrome c552 nitrite reductase; DNRA terminal enzyme
+2.3.5.1	Controlling the chemical quality of freshwater	K15876	KO	0.80	kegg_decoder	transformer	DNRA (NO3→NH4)	nrfH cytochrome c nitrite reductase partner; DNRA electron donor
+2.3.5.1	Controlling the chemical quality of freshwater	K10535	KO	0.80	kegg_decoder	transformer	Nitrification (NH3→NO3)	hao hydroxylamine oxidoreductase; nitrification intermediate
+2.3.5.1	Controlling the chemical quality of freshwater	K02568	KO	0.80	kegg_decoder	producer	Denitrification (NO3→N2)	napB periplasmic nitrate reductase small subunit
+2.3.5.1	Controlling the chemical quality of freshwater	K02305	KO	0.80	kegg_decoder	producer	Denitrification (NO3→N2)	norC nitric oxide reductase subunit C
+2.3.6.1	Regulating our global climate	K15022	KO	0.75	kegg_decoder	producer	Wood-Ljungdahl pathway	mtrH methyl-H4MPT:CoM methyltransferase; CO2 fixation
+2.3.6.1	Regulating our global climate	K15023	KO	0.75	kegg_decoder	producer	Wood-Ljungdahl pathway	mtrA methyl-H4MPT:CoM methyltransferase subunit A
+2.3.6.1	Regulating our global climate	K16157	KO	0.85	kegg_decoder	producer	Methane oxidation (sMMO)	mmoX soluble methane monooxygenase alpha; CH4 → CH3OH
+2.3.6.1	Regulating our global climate	K16158	KO	0.85	kegg_decoder	producer	Methane oxidation (sMMO)	mmoY soluble methane monooxygenase beta subunit
+2.3.6.1	Regulating our global climate	K16159	KO	0.80	kegg_decoder	producer	Methane oxidation (sMMO)	mmoZ soluble methane monooxygenase gamma subunit
+2.3.6.1	Regulating our global climate	K14028	KO	0.80	literature:PMID:36585489	producer	N2O reduction	nosZ clade II; N2O → N2; major N2O sink in wetlands; Zhang et al 2022
+2.3.5.2	Controlling the chemical quality of salt water	K20932	KO	0.85	kegg_decoder	producer	Anammox (NH4+NO2→N2)	hzsA hydrazine synthase; already in 2.3.5.1 but also marine
+2.3.5.2	Controlling the chemical quality of salt water	K20935	KO	0.85	kegg_decoder	producer	Anammox (NH4+NO2→N2)	hdh hydrazine dehydrogenase; marine anammox
+2.3.5.2	Controlling the chemical quality of salt water	K03385	KO	0.75	kegg_decoder	transformer	DNRA (NO3→NH4)	nrfA cytochrome c nitrite reductase; marine DNRA
+2.3.5.2	Controlling the chemical quality of salt water	K00376	KO	0.85	kegg_decoder	producer	Denitrification (NO3→N2)	nosZ nitrous oxide reductase; marine N removal
+2.3.5.1	Controlling the chemical quality of freshwater	K00367	KO	0.65	kegg_decoder	consumer	Assimilatory nitrate reduction	nasA assimilatory nitrate reductase large subunit
+2.3.5.1	Controlling the chemical quality of freshwater	K10534	KO	0.65	kegg_decoder	consumer	Assimilatory nitrate reduction	nasB assimilatory nitrate reductase electron transfer
+2.3.5.1	Controlling the chemical quality of freshwater	K00372	KO	0.65	kegg_decoder	consumer	Assimilatory nitrite reduction	nasC/nirA assimilatory nitrite reductase
+2.3.5.2	Controlling the chemical quality of salt water	K00958	KO	0.70	kegg_decoder	transformer	Sulfate activation	sat sulfate adenylyltransferase; first step dissimilatory sulfate reduction
+2.3.4.2	Ensuring the organic matter in our soils is maintained	K01198	KO	0.65	literature:PMID:38278240	transformer	Hemicellulose degradation	xynB xylan 1,4-beta-xylosidase; hemicellulose terminal hydrolysis
+2.3.4.2	Ensuring the organic matter in our soils is maintained	K01188	KO	0.65	literature:PMID:38278240	transformer	Cellulose degradation	bglB beta-glucosidase; cellobiose hydrolysis to glucose
+2.3.4.2	Ensuring the organic matter in our soils is maintained	K19668	KO	0.65	literature:PMID:38278240	transformer	Lignin degradation	manganese peroxidase; AA2 family lignin oxidation
+2.1.1.1	Decomposing wastes or polluting substances	K14579	KO	0.75	literature:PMID:26441948	producer	Aromatic ring cleavage	gentisate 1,2-dioxygenase; aromatic contaminant ring opening
+2.1.1.1	Decomposing wastes or polluting substances	K00517	KO	0.70	literature:PMID:26441948	producer	Xenobiotic oxidation	cytochrome P450 monooxygenase; broad xenobiotic oxidation; Tan et al 2015
+2.1.1.2	Filtering wastes or sequestering pollutants	K00531	KO	0.75	literature:PMID:37441819	producer	Selenium detoxification	selenate reductase; Se reduction and sequestration
+2.1.1.2	Filtering wastes or sequestering pollutants	K07233	KO	0.70	literature:PMID:36002692	producer	Lead/zinc resistance	pbrA lead efflux P-type ATPase; Pb resistance
