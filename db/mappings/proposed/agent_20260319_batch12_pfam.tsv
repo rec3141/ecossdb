@@ -1,0 +1,22 @@
+es_code	es_name	gene_id	gene_id_type	confidence	evidence_source	functional_role	pathway_context	notes
+2.1.1.1	Decomposing wastes or polluting substances	Sulfatase	Pfam	0.60	kegg_decoder+literature	producer	Sulfate ester hydrolysis	Arylsulfatase family; cleaves sulfate esters from xenobiotics and natural substrates
+2.1.1.1	Decomposing wastes or polluting substances	Abhydrolase_1	Pfam	0.55	kegg_decoder+literature	producer	Xenobiotic hydrolysis	Alpha/beta hydrolase fold; broad substrate: pesticides, lipids, epoxides
+2.1.1.1	Decomposing wastes or polluting substances	Aldedh	Pfam	0.55	kegg_decoder+literature	producer	Aldehyde detoxification	Aldehyde dehydrogenase family; detoxifies reactive aldehydes from pollutant breakdown
+2.1.1.1	Decomposing wastes or polluting substances	Acyl-CoA_dh_N	Pfam	0.55	kegg_decoder+literature	producer	Fatty acid/xenobiotic beta-oxidation	Acyl-CoA dehydrogenase N-terminal; first step beta-oxidation; hydrocarbon degradation
+2.1.1.1	Decomposing wastes or polluting substances	Acyl-CoA_dh_1	Pfam	0.55	kegg_decoder+literature	producer	Fatty acid/xenobiotic beta-oxidation	Acyl-CoA dehydrogenase middle domain
+2.1.1.1	Decomposing wastes or polluting substances	Acyl-CoA_dh_M	Pfam	0.55	kegg_decoder+literature	producer	Fatty acid/xenobiotic beta-oxidation	Acyl-CoA dehydrogenase C-terminal
+2.1.1.1	Decomposing wastes or polluting substances	Amidohydro_1	Pfam	0.55	kegg_decoder+literature	producer	Amide/ring hydrolysis	Amidohydrolase; hydrolyzes amide and C-N bonds; includes atrazine chlorohydrolase-like
+2.1.1.1	Decomposing wastes or polluting substances	adh_short	Pfam	0.50	kegg_decoder+literature	producer	Xenobiotic reduction	Short-chain dehydrogenase/reductase SDR; diverse xenobiotic and steroid oxidoreduction
+2.1.1.1	Decomposing wastes or polluting substances	adh_short_C2	Pfam	0.50	kegg_decoder+literature	producer	Xenobiotic reduction	SDR C-terminal domain; same broad xenobiotic activity
+2.1.1.1	Decomposing wastes or polluting substances	ECH_1	Pfam	0.50	kegg_decoder+literature	producer	Fatty acid beta-oxidation	Enoyl-CoA hydratase; beta-oxidation step 2; fatty acid and xenobiotic degradation
+2.1.1.1	Decomposing wastes or polluting substances	GFO_IDH_MocA	Pfam	0.45	kegg_decoder+literature	producer	Oxidoreductase	Glucose-fructose oxidoreductase family; diverse oxidoreductions including xenobiotics
+2.1.1.1	Decomposing wastes or polluting substances	AMP-binding	Pfam	0.45	kegg_decoder+literature	producer	Fatty acid/xenobiotic activation	AMP-binding acyl-CoA synthetase; activates fatty acids and aromatic acids for degradation
+2.3.5.1	Controlling the chemical quality of freshwater	TonB_dep_Rec	Pfam	0.60	kegg_decoder+literature	transformer	Iron acquisition/cycling	TonB-dependent receptor; siderophore/Fe/B12 import; central to aquatic Fe cycling
+2.3.5.1	Controlling the chemical quality of freshwater	Aminotran_1_2	Pfam	0.50	kegg_decoder+literature	transformer	Nitrogen cycling	Aminotransferase class I/II; transamination central to N cycling
+2.3.5.1	Controlling the chemical quality of freshwater	CHU_C	Pfam	0.45	kegg_decoder+literature	transformer	Polysaccharide utilization	Carbohydrate-binding CHU_C domain; polysaccharide degradation; organic C processing in water
+2.3.4.2	Ensuring the organic matter in our soils is maintained	Epimerase	Pfam	0.45	kegg_decoder+literature	transformer	Sugar interconversion/EPS	NAD-dependent epimerase/dehydratase; sugar metabolism for EPS/biofilm production
+2.3.4.2	Ensuring the organic matter in our soils is maintained	Glycos_transf_2	Pfam	0.45	kegg_decoder+literature	producer	EPS/exopolysaccharide biosynthesis	Glycosyltransferase family 2; builds polysaccharides for biofilm matrix
+2.3.4.2	Ensuring the organic matter in our soils is maintained	Glycos_transf_1	Pfam	0.45	kegg_decoder+literature	producer	EPS/exopolysaccharide biosynthesis	Glycosyltransferase family 1; polysaccharide biosynthesis for biofilm
+2.1.1.2	Filtering wastes or sequestering pollutants	MFS_1	Pfam	0.45	kegg_decoder+literature	producer	Xenobiotic efflux	Major facilitator superfamily; drug/xenobiotic efflux transport
+2.3.3.2	Controlling disease	Phage_integrase	Pfam	0.55	kegg_decoder+literature	inhibitor	Horizontal gene transfer	Phage integrase; prophage integration and HGT; ARG mobilization facilitator
+2.3.3.2	Controlling disease	rve	Pfam	0.50	kegg_decoder+literature	inhibitor	Transposase/integrase	Integrase core domain; IS element and retroviral-type transposition; ARG mobilization
