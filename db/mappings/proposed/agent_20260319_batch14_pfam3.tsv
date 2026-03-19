@@ -1,0 +1,20 @@
+es_code	es_name	gene_id	gene_id_type	confidence	evidence_source	functional_role	pathway_context	notes
+2.3.3.2	Controlling disease	Beta-lactamase	Pfam	0.70	kegg_decoder+literature	inhibitor	Beta-lactam antibiotic resistance	Class A/C/D serine beta-lactamase; degrades penicillins/cephalosporins; major AMR indicator
+2.1.1.1	Decomposing wastes or polluting substances	ADH_zinc_N	Pfam	0.55	kegg_decoder+literature	producer	Alcohol/aldehyde oxidation	Zinc-binding alcohol dehydrogenase; oxidizes alcohols from xenobiotic degradation
+2.1.1.1	Decomposing wastes or polluting substances	ADH_N	Pfam	0.55	kegg_decoder+literature	producer	Alcohol/aldehyde oxidation	GroES-like ADH domain; co-occurs with ADH_zinc_N
+2.1.1.1	Decomposing wastes or polluting substances	Glyoxalase	Pfam	0.55	kegg_decoder+literature	producer	Methylglyoxal/xenobiotic detox	Glyoxalase/bleomycin resistance; detoxifies reactive carbonyls
+2.1.1.1	Decomposing wastes or polluting substances	4HBT	Pfam	0.55	kegg_decoder+literature	producer	Aromatic CoA thioesterase	4-hydroxybenzoyl-CoA thioesterase; aromatic compound degradation via CoA intermediates
+2.3.6.1	Regulating our global climate	Rieske	Pfam	0.55	kegg_decoder+literature	producer	Aromatic hydroxylation / photosynthesis	Rieske 2Fe-2S; in aromatic ring-hydroxylating dioxygenases AND photosynthetic b6f complex
+2.1.1.1	Decomposing wastes or polluting substances	Peptidase_S9	Pfam	0.50	kegg_decoder+literature	producer	Esterase/lipase activity	S9 prolyl oligopeptidase family; includes esterases for xenobiotic hydrolysis
+2.1.1.1	Decomposing wastes or polluting substances	FAD_binding_4	Pfam	0.50	kegg_decoder+literature	producer	FAD-dependent oxidation	Vanillyl-alcohol oxidase family; aromatic compound oxidation
+2.1.1.1	Decomposing wastes or polluting substances	Aldo_ket_red	Pfam	0.50	kegg_decoder+literature	producer	Carbonyl reduction/detox	Aldo-keto reductase; reduces toxic aldehydes/ketones from xenobiotic breakdown
+2.3.5.1	Controlling the chemical quality of freshwater	Exo_endo_phos	Pfam	0.50	kegg_decoder+literature	producer	Phosphorus cycling	Exo/endo phosphatase; hydrolyzes phosphoester bonds; organic P mineralization
+2.3.3.2	Controlling disease	HTH_Tnp_1	Pfam	0.50	kegg_decoder+literature	inhibitor	Transposase HTH	Transposase DNA-binding; IS element mobilization; ARG dissemination
+2.3.4.2	Ensuring the organic matter in our soils is maintained	Peptidase_S8	Pfam	0.45	kegg_decoder+literature	transformer	Extracellular protein degradation	Subtilase family; secreted protease; protein turnover in soil/sediment
+2.3.3.2	Controlling disease	Transpeptidase	Pfam	0.45	kegg_decoder+literature	inhibitor	PBP / beta-lactam target	Transpeptidase/PBP; target of beta-lactam antibiotics; PBP mutations confer resistance
+2.1.1.2	Filtering wastes or sequestering pollutants	HlyD_D23	Pfam	0.45	kegg_decoder+literature	producer	Type I secretion/efflux	HlyD membrane fusion protein; efflux adaptor for metals and drugs
+2.1.1.2	Filtering wastes or sequestering pollutants	HlyD_3	Pfam	0.45	kegg_decoder+literature	producer	Type I secretion/efflux	HlyD variant; efflux adaptor protein for xenobiotic export
+2.1.1.1	Decomposing wastes or polluting substances	Acyltransferase	Pfam	0.45	kegg_decoder+literature	producer	Acyl group transfer	Acyltransferase family; lipid/xenobiotic acylation and deacylation
+2.1.1.1	Decomposing wastes or polluting substances	FGE-sulfatase	Pfam	0.45	kegg_decoder+literature	producer	Sulfatase activation	Sulfatase-modifying factor; post-translational activation of sulfatases
+2.3.5.1	Controlling the chemical quality of freshwater	Fer2	Pfam	0.45	kegg_decoder+literature	transformer	Electron transfer / iron cycling	2Fe-2S ferredoxin; electron carrier in N/S/Fe cycling and photosynthesis
+2.3.3.2	Controlling disease	Resolvase	Pfam	0.45	kegg_decoder+literature	inhibitor	Site-specific recombinase	Resolvase/invertase; resolves transposon cointegrates; ARG mobilization
