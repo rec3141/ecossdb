@@ -13,16 +13,23 @@ es_code	es_name	gene_id	gene_id_type	confidence	evidence_source	functional_role	
 2.1.1.1	Decomposing wastes or polluting substances	K00450	KO	0.6	foam	producer	08_Hydrocarbon degradation / Aromatic carboxylic acid degradation	E1.13.11.4
 2.1.1.1	Decomposing wastes or polluting substances	K00451	KO	0.6	foam	producer	08_Hydrocarbon degradation / Aromatic carboxylic acid degradation	HGD, hmgA
 2.1.1.1	Decomposing wastes or polluting substances	K00452	KO	0.6	foam	producer	08_Hydrocarbon degradation / Nitoaromatics degradation	HAAO
+2.1.1.1	Decomposing wastes or polluting substances	K00462	KO	0.80	literature:PMID:28258138	producer	Aromatic ring cleavage	protocatechuate 3,4-dioxygenase; aromatic ring opening via ortho-cleavage
+2.1.1.1	Decomposing wastes or polluting substances	K00463	KO	0.80	literature:PMID:28258138	producer	Aromatic ring cleavage	tryptophan 2,3-dioxygenase; indole ring cleavage
 2.1.1.1	Decomposing wastes or polluting substances	K00465	KO	0.6	foam	producer	08_Hydrocarbon degradation / Polycyclic aromatic hydrocarbon degradation	CCD1
-2.1.1.1	Decomposing wastes or polluting substances	K00480	KO	0.6	foam	producer	08_Hydrocarbon degradation / Polycyclic aromatic hydrocarbon degradation	E1.14.13.1
+2.1.1.1	Decomposing wastes or polluting substances	K00480	KO	0.75	literature:PMID:28258138	producer	4-Nitrophenol degradation	4-nitrophenol 4-monooxygenase; nitroaromatic degradation; Wang et al 2017
 2.1.1.1	Decomposing wastes or polluting substances	K00481	KO	0.6	foam	producer	08_Hydrocarbon degradation / Aromatic carboxylic acid degradation	pobA
+2.1.1.1	Decomposing wastes or polluting substances	K00488	KO	0.75	literature:PMID:33280938	producer	Xenobiotic oxidation	naphthalene 1,2-dioxygenase; PAH initial oxidation; Sphingopyxis bioremediation
 2.1.1.1	Decomposing wastes or polluting substances	K00492	KO	0.6	foam	producer	08_Hydrocarbon degradation / Nitoaromatics degradation	tmuM
 2.1.1.1	Decomposing wastes or polluting substances	K00517	KO	0.70	literature:PMID:26441948	producer	Xenobiotic oxidation	cytochrome P450 monooxygenase; broad xenobiotic oxidation; Tan et al 2015
 2.1.1.1	Decomposing wastes or polluting substances	K00599	KO	0.6	foam	producer	08_Hydrocarbon degradation / Polycyclic aromatic hydrocarbon degradation	METTL6
+2.1.1.1	Decomposing wastes or polluting substances	K01061	KO	0.75	literature:PMID:33280938	producer	Ester bond hydrolysis	carboxylesterase; broad-spectrum xenobiotic ester hydrolysis
+2.1.1.1	Decomposing wastes or polluting substances	K01255	KO	0.70	literature:PMID:33280938	producer	Xenobiotic peptide hydrolysis	aminopeptidase; broad xenobiotic peptide bond cleavage
 2.1.1.1	Decomposing wastes or polluting substances	K01473	KO	0.6	foam	producer	08_Hydrocarbon degradation / BTEX and related aromatics degradation	hyuA
 2.1.1.1	Decomposing wastes or polluting substances	K01501	KO	0.6	foam	producer	08_Hydrocarbon degradation / Other aromatics degradation	E3.5.5.1
 2.1.1.1	Decomposing wastes or polluting substances	K01555	KO	0.6	foam	producer	08_Hydrocarbon degradation / Aromatic carboxylic acid degradation	FAH, fahA
 2.1.1.1	Decomposing wastes or polluting substances	K01557	KO	0.6	foam	producer	08_Hydrocarbon degradation / Aromatic carboxylic acid degradation	FAHD1
+2.1.1.1	Decomposing wastes or polluting substances	K01560	KO	0.80	literature:PMID:28258138	producer	Haloacid degradation	haloacid dehalogenase; cleaves C-halogen bonds; Wang et al 2017
+2.1.1.1	Decomposing wastes or polluting substances	K01563	KO	0.80	literature:PMID:28258138	producer	Haloalkane degradation	haloalkane dehalogenase; dehalogenates chlorinated solvents
 2.1.1.1	Decomposing wastes or polluting substances	K01572	KO	0.6	foam	producer	08_Hydrocarbon degradation / Aromatic carboxylic acid degradation	
 2.1.1.1	Decomposing wastes or polluting substances	K01576	KO	0.6	foam	producer	08_Hydrocarbon degradation / Aromatic carboxylic acid degradation	mdlC
 2.1.1.1	Decomposing wastes or polluting substances	K01586	KO	0.6	foam	producer	08_Hydrocarbon degradation / Aromatic carboxylic acid degradation	lysA
@@ -40,6 +47,7 @@ es_code	es_name	gene_id	gene_id_type	confidence	evidence_source	functional_role	
 2.1.1.1	Decomposing wastes or polluting substances	K03464	KO	0.8	kegg_decoder	producer	Catechol ortho-cleavage (xenobiotic degradation)	Catechol ortho-cleavage (M00568)
 2.1.1.1	Decomposing wastes or polluting substances	K04098	KO	0.6	foam	producer	08_Hydrocarbon degradation / Nitoaromatics degradation	chqB
 2.1.1.1	Decomposing wastes or polluting substances	K04099	KO	0.6	foam	producer	08_Hydrocarbon degradation / Polycyclic aromatics degradation	desB, galA
+2.1.1.1	Decomposing wastes or polluting substances	K04100	KO	0.75	literature:PMID:28258138	producer	Aromatic ring cleavage	biphenyl 2,3-dioxygenase; PCB degradation initial step
 2.1.1.1	Decomposing wastes or polluting substances	K04102	KO	0.6	foam	producer	08_Hydrocarbon degradation / Aromatic carboxylic acid degradation	pht5
 2.1.1.1	Decomposing wastes or polluting substances	K04110	KO	0.6	foam	producer	08_Hydrocarbon degradation / Aromatic carboxylic acid degradation	badA
 2.1.1.1	Decomposing wastes or polluting substances	K05549	KO	0.6	foam	producer	08_Hydrocarbon degradation / Aromatic carboxylic acid degradation	benA-xylX
@@ -55,6 +63,10 @@ es_code	es_name	gene_id	gene_id_type	confidence	evidence_source	functional_role	
 2.1.1.1	Decomposing wastes or polluting substances	K07824	KO	0.6	foam	producer	08_Hydrocarbon degradation / Aromatic carboxylic acid degradation	CYP53A1
 2.1.1.1	Decomposing wastes or polluting substances	K08689	KO	0.6	foam	producer	08_Hydrocarbon degradation / Polycyclic aromatics degradation	bphAa, bphA1, bphA
 2.1.1.1	Decomposing wastes or polluting substances	K10217	KO	0.6	foam	producer	08_Hydrocarbon degradation / BTEX and related aromatics degradation	dmpC, xylG, praB
+2.1.1.1	Decomposing wastes or polluting substances	K10219	KO	0.70	literature:PMID:33280938	producer	Atrazine degradation	atzA atrazine chlorohydrolase; herbicide degradation
+2.1.1.1	Decomposing wastes or polluting substances	K10220	KO	0.70	literature:PMID:33280938	producer	Atrazine degradation	atzB hydroxyatrazine ethylaminohydrolase; herbicide degradation
+2.1.1.1	Decomposing wastes or polluting substances	K10221	KO	0.70	literature:PMID:33280938	producer	Atrazine degradation	atzC N-isopropylammelide isopropylaminohydrolase
+2.1.1.1	Decomposing wastes or polluting substances	K10222	KO	0.75	literature:PMID:33280938	producer	Organophosphate degradation	organophosphorus hydrolase (opd); pesticide detoxification; Sharma et al 2020
 2.1.1.1	Decomposing wastes or polluting substances	K10676	KO	0.6	foam	producer	08_Hydrocarbon degradation / Heterocyclic aromatics degradation	tfdB
 2.1.1.1	Decomposing wastes or polluting substances	K11066	KO	0.6	foam	producer	08_Hydrocarbon degradation / Other aromatics degradation	E3.5.1.28D, amiD
 2.1.1.1	Decomposing wastes or polluting substances	K11943	KO	0.6	foam	producer	08_Hydrocarbon degradation / Polycyclic aromatic hydrocarbon degradation	nidA
@@ -89,12 +101,14 @@ es_code	es_name	gene_id	gene_id_type	confidence	evidence_source	functional_role	
 2.1.1.1	Decomposing wastes or polluting substances	K22622	KO	0.75	kegg_decoder	transformer	Thiosulfate oxidation (Sox pathway)	Thiosulfate oxidation Sox (M00595)
 2.1.1.2	Filtering wastes or sequestering pollutants	K00221	KO	0.80	literature:PMID:37441819	producer	Mercury detoxification	merB alkylmercury lyase; organomercury → Hg2+ for merA reduction
 2.1.1.2	Filtering wastes or sequestering pollutants	K00520	KO	0.85	literature:PMID:37441819	producer	Mercury detoxification	merA mercuric reductase; Hg2+ → Hg0 volatilization; Ren et al 2023 Mar Environ Res
+2.1.1.2	Filtering wastes or sequestering pollutants	K00529	KO	0.75	literature:PMID:33280938	producer	Nickel detoxification	nickel-cobalt efflux; Ni/Co resistance
 2.1.1.2	Filtering wastes or sequestering pollutants	K00531	KO	0.75	literature:PMID:37441819	producer	Selenium detoxification	selenate reductase; Se reduction and sequestration
 2.1.1.2	Filtering wastes or sequestering pollutants	K00537	KO	0.80	literature:PMID:36002692	producer	Arsenic detoxification	arsC arsenate reductase; As5+ → As3+ for efflux; Xiao et al 2022
 2.1.1.2	Filtering wastes or sequestering pollutants	K03325	KO	0.80	literature:PMID:36002692	producer	Arsenic detoxification	arsB arsenite efflux pump; removes As3+ from cell
 2.1.1.2	Filtering wastes or sequestering pollutants	K07233	KO	0.70	literature:PMID:36002692	producer	Lead/zinc resistance	pbrA lead efflux P-type ATPase; Pb resistance
 2.1.1.2	Filtering wastes or sequestering pollutants	K07240	KO	0.75	literature:PMID:36002692	producer	Chromium detoxification	chrA chromate efflux transporter; Cr6+ resistance
 2.1.1.2	Filtering wastes or sequestering pollutants	K07667	KO	0.70	literature:PMID:36002692	transformer	Metal-responsive regulation	cusR two-component copper response regulator
+2.1.1.2	Filtering wastes or sequestering pollutants	K07787	KO	0.70	literature:PMID:36002692	producer	Metal efflux regulation	cueR Cu-sensing transcriptional activator; copper homeostasis
 2.1.1.2	Filtering wastes or sequestering pollutants	K08363	KO	0.75	literature:PMID:37441819	transformer	Mercury transport	merT mercury transport protein; Hg2+ uptake for detoxification
 2.1.1.2	Filtering wastes or sequestering pollutants	K16264	KO	0.75	literature:PMID:36002692	producer	Cobalt/zinc/cadmium efflux	czcA RND heavy metal efflux; Co/Zn/Cd resistance
 2.1.1.2	Filtering wastes or sequestering pollutants	K17686	KO	0.75	literature:PMID:36002692	producer	Copper detoxification	copA copper-exporting P-type ATPase; Cu efflux
@@ -114,6 +128,10 @@ es_code	es_name	gene_id	gene_id_type	confidence	evidence_source	functional_role	
 2.3.3.2	Controlling disease	K18519	KO	0.80	literature:PMID:41202544	inhibitor	Antimicrobial resistance	vanA D-alanine--D-lactate ligase; vancomycin resistance indicator
 2.3.3.2	Controlling disease	K18590	KO	0.75	literature:PMID:38924952	inhibitor	Antimicrobial resistance	tetM tetracycline resistance ribosomal protection; Lu et al 2024 Water Res
 2.3.3.2	Controlling disease	K18843	KO	0.75	literature:PMID:38924952	inhibitor	Antimicrobial resistance	tetW tetracycline resistance ribosomal protection
+2.3.3.2	Controlling disease	K19689	KO	0.90	literature:PMID:26999203	producer	Microcystin degradation	mlrA microcystinase; linearizes cyclic microcystins; key MC degradation enzyme; Dziga et al 2016
+2.3.3.2	Controlling disease	K19690	KO	0.85	literature:PMID:26999203	producer	Microcystin degradation	mlrB serine protease; cleaves linearized MC to tetrapeptide; Dziga et al 2016
+2.3.3.2	Controlling disease	K19691	KO	0.85	literature:PMID:41003510	producer	Microcystin degradation	mlrC metallopeptidase; further degrades MC intermediates to Adda; Ding et al 2025
+2.3.3.2	Controlling disease	K19692	KO	0.80	literature:PMID:39842765	producer	Microcystin degradation	mlrD MC transport protein; PTR2 family; imports MC for degradation; Li et al 2025
 2.3.3.2	Controlling disease	K21304	KO	0.80	literature:PMID:39772868	inhibitor	Cyanotoxin biosynthesis	sxtA saxitoxin synthetase; paralytic shellfish toxin producer
 2.3.3.2	Controlling disease	K21636	KO	0.80	literature:PMID:39772868	inhibitor	Cyanotoxin biosynthesis	cyrA cylindrospermopsin synthetase; freshwater cyanotoxin; Hart et al 2025
 2.3.3.2	Controlling disease	K21637	KO	0.80	literature:PMID:39772868	inhibitor	Cyanotoxin biosynthesis	cyrB cylindrospermopsin amidinotransferase
@@ -236,6 +254,10 @@ es_code	es_name	gene_id	gene_id_type	confidence	evidence_source	functional_role	
 2.3.5.1	Controlling the chemical quality of freshwater	K15879	KO	0.55	foam	transformer	11_Nitrogen cycle / Nitrogenated compounds Reduction	narC
 2.3.5.1	Controlling the chemical quality of freshwater	K15905	KO	0.55	foam	transformer	11_Nitrogen cycle / Nitrification	
 2.3.5.1	Controlling the chemical quality of freshwater	K15906	KO	0.55	foam	transformer	11_Nitrogen cycle / Nitrification	
+2.3.5.1	Controlling the chemical quality of freshwater	K16953	KO	0.70	literature:PMID:25462716	inhibitor	Geosmin biosynthesis	geoA geosmin synthase; produces taste-and-odor compound; indicator of cyanobacterial source
+2.3.5.1	Controlling the chemical quality of freshwater	K19689	KO	0.85	literature:PMID:26999203	producer	Microcystin degradation (water quality)	mlrA microcystinase; removes hepatotoxins from freshwater
+2.3.5.1	Controlling the chemical quality of freshwater	K19690	KO	0.80	literature:PMID:26999203	producer	Microcystin degradation (water quality)	mlrB MC peptidase; freshwater toxin removal
+2.3.5.1	Controlling the chemical quality of freshwater	K19691	KO	0.80	literature:PMID:41003510	producer	Microcystin degradation (water quality)	mlrC MC metallopeptidase; freshwater toxin removal
 2.3.5.1	Controlling the chemical quality of freshwater	K20932	KO	0.85	kegg_decoder	producer	Anammox (NH4+NO2→N2)	Anammox (M00804)
 2.3.5.1	Controlling the chemical quality of freshwater	K20933	KO	0.85	kegg_decoder	producer	Anammox (NH4+NO2→N2)	Anammox (M00804)
 2.3.5.1	Controlling the chemical quality of freshwater	K20934	KO	0.85	kegg_decoder	producer	Anammox (NH4+NO2→N2)	Anammox (M00804)
@@ -262,9 +284,12 @@ es_code	es_name	gene_id	gene_id_type	confidence	evidence_source	functional_role	
 2.3.5.2	Controlling the chemical quality of salt water	K10946	KO	0.80	kegg_decoder+literature	transformer	Nitrification (NH3→NO3)	amoC ammonia monooxygenase subunit C
 2.3.5.2	Controlling the chemical quality of salt water	K11180	KO	0.75	kegg_decoder+literature	transformer	Dissimilatory sulfate reduction	dsrA dissimilatory sulfite reductase; marine S cycling
 2.3.5.2	Controlling the chemical quality of salt water	K15864	KO	0.85	kegg_decoder+literature	producer	Denitrification (NO3→N2)	nirS cytochrome cd1 nitrite reductase
+2.3.5.2	Controlling the chemical quality of salt water	K16068	KO	0.80	literature:PMID:39772868	inhibitor	Cyanotoxin biosynthesis (marine)	mcyA microcystin synthetase; marine/estuarine HAB toxin indicator
+2.3.5.2	Controlling the chemical quality of salt water	K16070	KO	0.80	literature:PMID:39772868	inhibitor	Cyanotoxin biosynthesis (marine)	mcyE microcystin synthetase; marine/estuarine HAB toxin indicator
 2.3.5.2	Controlling the chemical quality of salt water	K17222	KO	0.75	kegg_decoder+literature	transformer	Thiosulfate oxidation (Sox)	soxA thiosulfate oxidation; marine S cycling
 2.3.5.2	Controlling the chemical quality of salt water	K20932	KO	0.85	kegg_decoder+literature	producer	Anammox (NH4+NO2→N2)	hzsA hydrazine synthase; marine anammox
 2.3.5.2	Controlling the chemical quality of salt water	K20935	KO	0.85	kegg_decoder	producer	Anammox (NH4+NO2→N2)	hdh hydrazine dehydrogenase; marine anammox
+2.3.5.2	Controlling the chemical quality of salt water	K21304	KO	0.80	literature:PMID:39772868	inhibitor	Cyanotoxin biosynthesis (marine)	sxtA saxitoxin synthetase; paralytic shellfish toxin; Hart et al 2025
 2.3.6.1	Regulating our global climate	K00018	KO	0.7	kegg_decoder	producer	Formaldehyde assimilation (methylotrophy)	Formaldehyde assimilation serine (M00346)
 2.3.6.1	Regulating our global climate	K00024	KO	0.5	foam	producer	15_Methylotrophy / Serine pathway for formaldehyde fixation	mdh
 2.3.6.1	Regulating our global climate	K00050	KO	0.5	foam	producer	15_Methylotrophy / Serine pathway for formaldehyde fixation	

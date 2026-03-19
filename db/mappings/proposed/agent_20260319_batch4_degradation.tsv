@@ -1,0 +1,27 @@
+es_code	es_name	gene_id	gene_id_type	confidence	evidence_source	functional_role	pathway_context	notes
+2.3.3.2	Controlling disease	K19689	KO	0.90	literature:PMID:26999203	producer	Microcystin degradation	mlrA microcystinase; linearizes cyclic microcystins; key MC degradation enzyme; Dziga et al 2016
+2.3.3.2	Controlling disease	K19690	KO	0.85	literature:PMID:26999203	producer	Microcystin degradation	mlrB serine protease; cleaves linearized MC to tetrapeptide; Dziga et al 2016
+2.3.3.2	Controlling disease	K19691	KO	0.85	literature:PMID:41003510	producer	Microcystin degradation	mlrC metallopeptidase; further degrades MC intermediates to Adda; Ding et al 2025
+2.3.3.2	Controlling disease	K19692	KO	0.80	literature:PMID:39842765	producer	Microcystin degradation	mlrD MC transport protein; PTR2 family; imports MC for degradation; Li et al 2025
+2.3.5.1	Controlling the chemical quality of freshwater	K19689	KO	0.85	literature:PMID:26999203	producer	Microcystin degradation (water quality)	mlrA microcystinase; removes hepatotoxins from freshwater
+2.3.5.1	Controlling the chemical quality of freshwater	K19690	KO	0.80	literature:PMID:26999203	producer	Microcystin degradation (water quality)	mlrB MC peptidase; freshwater toxin removal
+2.3.5.1	Controlling the chemical quality of freshwater	K19691	KO	0.80	literature:PMID:41003510	producer	Microcystin degradation (water quality)	mlrC MC metallopeptidase; freshwater toxin removal
+2.1.1.1	Decomposing wastes or polluting substances	K01560	KO	0.80	literature:PMID:28258138	producer	Haloacid degradation	haloacid dehalogenase; cleaves C-halogen bonds; Wang et al 2017
+2.1.1.1	Decomposing wastes or polluting substances	K01563	KO	0.80	literature:PMID:28258138	producer	Haloalkane degradation	haloalkane dehalogenase; dehalogenates chlorinated solvents
+2.1.1.1	Decomposing wastes or polluting substances	K00463	KO	0.80	literature:PMID:28258138	producer	Aromatic ring cleavage	tryptophan 2,3-dioxygenase; indole ring cleavage
+2.1.1.1	Decomposing wastes or polluting substances	K10222	KO	0.75	literature:PMID:33280938	producer	Organophosphate degradation	organophosphorus hydrolase (opd); pesticide detoxification; Sharma et al 2020
+2.1.1.1	Decomposing wastes or polluting substances	K01061	KO	0.75	literature:PMID:33280938	producer	Ester bond hydrolysis	carboxylesterase; broad-spectrum xenobiotic ester hydrolysis
+2.1.1.1	Decomposing wastes or polluting substances	K00488	KO	0.75	literature:PMID:33280938	producer	Xenobiotic oxidation	naphthalene 1,2-dioxygenase; PAH initial oxidation; Sphingopyxis bioremediation
+2.1.1.1	Decomposing wastes or polluting substances	K00462	KO	0.80	literature:PMID:28258138	producer	Aromatic ring cleavage	protocatechuate 3,4-dioxygenase; aromatic ring opening via ortho-cleavage
+2.1.1.1	Decomposing wastes or polluting substances	K04100	KO	0.75	literature:PMID:28258138	producer	Aromatic ring cleavage	biphenyl 2,3-dioxygenase; PCB degradation initial step
+2.1.1.1	Decomposing wastes or polluting substances	K10219	KO	0.70	literature:PMID:33280938	producer	Atrazine degradation	atzA atrazine chlorohydrolase; herbicide degradation
+2.1.1.1	Decomposing wastes or polluting substances	K10220	KO	0.70	literature:PMID:33280938	producer	Atrazine degradation	atzB hydroxyatrazine ethylaminohydrolase; herbicide degradation
+2.1.1.1	Decomposing wastes or polluting substances	K10221	KO	0.70	literature:PMID:33280938	producer	Atrazine degradation	atzC N-isopropylammelide isopropylaminohydrolase
+2.1.1.1	Decomposing wastes or polluting substances	K01255	KO	0.70	literature:PMID:33280938	producer	Xenobiotic peptide hydrolysis	aminopeptidase; broad xenobiotic peptide bond cleavage
+2.1.1.1	Decomposing wastes or polluting substances	K00480	KO	0.75	literature:PMID:28258138	producer	4-Nitrophenol degradation	4-nitrophenol 4-monooxygenase; nitroaromatic degradation; Wang et al 2017
+2.1.1.2	Filtering wastes or sequestering pollutants	K00529	KO	0.75	literature:PMID:33280938	producer	Nickel detoxification	nickel-cobalt efflux; Ni/Co resistance
+2.1.1.2	Filtering wastes or sequestering pollutants	K07787	KO	0.70	literature:PMID:36002692	producer	Metal efflux regulation	cueR Cu-sensing transcriptional activator; copper homeostasis
+2.3.5.1	Controlling the chemical quality of freshwater	K16953	KO	0.70	literature:PMID:25462716	inhibitor	Geosmin biosynthesis	geoA geosmin synthase; produces taste-and-odor compound; indicator of cyanobacterial source
+2.3.5.2	Controlling the chemical quality of salt water	K16068	KO	0.80	literature:PMID:39772868	inhibitor	Cyanotoxin biosynthesis (marine)	mcyA microcystin synthetase; marine/estuarine HAB toxin indicator
+2.3.5.2	Controlling the chemical quality of salt water	K16070	KO	0.80	literature:PMID:39772868	inhibitor	Cyanotoxin biosynthesis (marine)	mcyE microcystin synthetase; marine/estuarine HAB toxin indicator
+2.3.5.2	Controlling the chemical quality of salt water	K21304	KO	0.80	literature:PMID:39772868	inhibitor	Cyanotoxin biosynthesis (marine)	sxtA saxitoxin synthetase; paralytic shellfish toxin; Hart et al 2025
