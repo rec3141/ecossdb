@@ -1,0 +1,15 @@
+es_code	es_name	gene_id	gene_id_type	confidence	evidence_source	functional_role	pathway_context	notes
+2.3.5.1	Controlling the chemical quality of freshwater	Glu_synthase	Pfam	0.50	kegg_decoder+literature	transformer	GS-GOGAT ammonium assimilation	Glutamate synthase GOGAT; central N assimilation; ammonium incorporation into amino acids
+2.1.1.1	Decomposing wastes or polluting substances	Ald_Xan_dh_C	Pfam	0.50	kegg_decoder+literature	producer	Aldehyde/xanthine oxidase C	Mo-containing aldehyde/xanthine DH C-terminal; co-occurs with Ald_Xan_dh_C2
+2.3.4.2	Ensuring the organic matter in our soils is maintained	CHB_HEX_C_1	Pfam	0.50	kegg_decoder+literature	transformer	GH20 beta-hexosaminidase	N-acetylhexosaminidase; chitin and glycoprotein degradation; OM processing
+2.3.4.2	Ensuring the organic matter in our soils is maintained	Glyco_trans_4_4	Pfam	0.45	kegg_decoder+literature	producer	GT4 glycosyltransferase variant	Glycosyltransferase family 4 variant; EPS/polysaccharide biosynthesis
+2.3.4.2	Ensuring the organic matter in our soils is maintained	Glyco_tranf_2_3	Pfam	0.45	kegg_decoder+literature	producer	GT2 glycosyltransferase variant	Glycosyltransferase family 2 variant; EPS biosynthesis
+2.3.5.1	Controlling the chemical quality of freshwater	MotA_ExbB	Pfam	0.45	kegg_decoder+literature	transformer	TonB system proton channel	MotA/ExbB proton channel; powers TonB-dependent iron acquisition
+2.3.6.1	Regulating our global climate	Biotin_carb_C	Pfam	0.45	kegg_decoder+literature	producer	Biotin carboxylase C-terminal	Acetyl-CoA carboxylase component; fatty acid biosynthesis / C fixation adjacent
+2.3.6.1	Regulating our global climate	Biotin_carb_N	Pfam	0.45	kegg_decoder+literature	producer	Biotin carboxylase N-terminal	Co-occurs with Biotin_carb_C
+2.3.3.2	Controlling disease	PBP_dimer	Pfam	0.45	kegg_decoder+literature	inhibitor	Penicillin-binding protein dimer	PBP dimerization domain; beta-lactam target; PBP mutations = AMR
+2.1.1.1	Decomposing wastes or polluting substances	CoA_binding_3	Pfam	0.45	kegg_decoder+literature	producer	CoA-binding (acyltransferase)	CoA-binding domain in acyltransferases; lipid/xenobiotic acyl metabolism
+2.3.5.1	Controlling the chemical quality of freshwater	STAS	Pfam	0.45	kegg_decoder+literature	transformer	Sulfate transporter anti-sigma	STAS domain; sulfate/bicarbonate transporter sensing; S/C cycling
+2.3.5.1	Controlling the chemical quality of freshwater	DNA_photolyase	Pfam	0.45	kegg_decoder+literature	producer	UV DNA damage repair	Photolyase/cryptochrome; UV repair; indicator of UV-exposed aquatic environments
+2.3.3.2	Controlling disease	PA14	Pfam	0.45	kegg_decoder+literature	inhibitor	Adhesin lectin domain	PA14/GLEYA carbohydrate-binding; bacterial adhesion; virulence-associated
+2.3.3.2	Controlling disease	MAM	Pfam	0.45	kegg_decoder+literature	inhibitor	Multivalent adhesion molecule	MAM/Mam7; multivalent host cell attachment; virulence factor
