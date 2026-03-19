@@ -1,0 +1,17 @@
+es_code	es_name	gene_id	gene_id_type	confidence	evidence_source	functional_role	pathway_context	notes
+2.3.3.2	Controlling disease	Lactamase_B	Pfam	0.65	kegg_decoder+literature	inhibitor	Beta-lactamase	Metallo-beta-lactamase fold; B1/B2/B3 carbapenemases; broad antibiotic resistance indicator
+2.3.3.2	Controlling disease	ACR_tran	Pfam	0.60	kegg_decoder+literature	inhibitor	RND multidrug efflux	AcrB/AcrD/AcrF RND transporter; primary multidrug efflux in Gram-negatives; AMR mechanism
+2.3.3.2	Controlling disease	DDE_Tnp_1	Pfam	0.50	kegg_decoder+literature	inhibitor	Transposase DDE domain	DDE transposase; IS element mobilization; facilitates ARG dissemination
+2.3.3.2	Controlling disease	HemolysinCabind	Pfam	0.50	kegg_decoder+literature	inhibitor	Hemolysin/RTX cytotoxin	Hemolysin Ca-binding repeat; RTX toxin family; bacterial virulence factor
+2.1.1.1	Decomposing wastes or polluting substances	Amino_oxidase	Pfam	0.55	kegg_decoder+literature	producer	Amine oxidation	Flavin amine oxidase; oxidizes xenobiotic amines; monoamine oxidase-like activity
+2.1.1.1	Decomposing wastes or polluting substances	Metallophos	Pfam	0.50	kegg_decoder+literature	producer	Phosphoester hydrolysis	Calcineurin-like phosphoesterase; hydrolyzes phosphoesters including organophosphate pollutants
+2.1.1.1	Decomposing wastes or polluting substances	DAO	Pfam	0.50	kegg_decoder+literature	producer	D-amino acid/amine oxidation	FAD-dependent oxidoreductase; D-amino acid oxidase-like; oxidizes diverse amines
+2.1.1.1	Decomposing wastes or polluting substances	Peptidase_M20	Pfam	0.45	kegg_decoder+literature	producer	Peptide/xenobiotic hydrolysis	M20 metallopeptidase; hydrolyzes peptide bonds; some cleave quorum-sensing AHLs
+2.1.1.1	Decomposing wastes or polluting substances	M20_dimer	Pfam	0.45	kegg_decoder+literature	producer	Peptide/xenobiotic hydrolysis	M20 dimer interface domain; co-occurs with Peptidase_M20
+2.1.1.1	Decomposing wastes or polluting substances	NUDIX	Pfam	0.45	kegg_decoder+literature	producer	Nucleotide/xenobiotic hydrolysis	NUDIX hydrolase; cleaves NDP-X bonds; degrades oxidized nucleotides and some xenobiotics
+2.3.5.1	Controlling the chemical quality of freshwater	Rhodanese	Pfam	0.55	kegg_decoder+literature	producer	Sulfur/cyanide detoxification	Rhodanese sulfurtransferase; thiosulfate:cyanide sulfurtransferase; detoxifies H2S and cyanide
+2.3.5.1	Controlling the chemical quality of freshwater	Aminotran_3	Pfam	0.50	kegg_decoder+literature	transformer	Nitrogen cycling	Class III aminotransferase; ornithine/GABA aminotransferases; N compound interconversion
+2.3.5.1	Controlling the chemical quality of freshwater	Cytochrom_C	Pfam	0.50	kegg_decoder+literature	transformer	Electron transfer/metal cycling	Cytochrome c family; electron transfer in Fe/Mn/S redox cycling; multiheme variants in DIET
+2.3.5.1	Controlling the chemical quality of freshwater	AhpC-TSA	Pfam	0.50	kegg_decoder+literature	producer	Peroxide detoxification	Alkyl hydroperoxide reductase; detoxifies H2O2 and organic peroxides in freshwater
+2.3.5.1	Controlling the chemical quality of freshwater	Aminotran_5	Pfam	0.45	kegg_decoder+literature	transformer	Nitrogen cycling	Class V aminotransferase; amino acid transformations; N cycling
+2.3.4.2	Ensuring the organic matter in our soils is maintained	DegT_DnrJ_EryC1	Pfam	0.45	kegg_decoder+literature	transformer	Aminosugar processing	DegT/DnrJ aminotransferase; aminosugar/deoxysugar biosynthesis for EPS and secondary metabolites
