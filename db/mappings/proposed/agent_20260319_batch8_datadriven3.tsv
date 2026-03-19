@@ -1,0 +1,12 @@
+es_code	es_name	gene_id	gene_id_type	confidence	evidence_source	functional_role	pathway_context	notes
+2.1.1.1	Decomposing wastes or polluting substances	K01130	KO	0.60	kegg_decoder+literature	producer	Sulfate ester hydrolysis	arylsulfatase; hydrolyzes sulfate esters from pollutants; xenobiotic S processing
+2.1.1.1	Decomposing wastes or polluting substances	K01692	KO	0.55	kegg_decoder+literature	producer	Fatty acid/xenobiotic beta-oxidation	enoyl-CoA hydratase echA; beta-oxidation of fatty acids and xenobiotic acyl chains
+2.1.1.1	Decomposing wastes or polluting substances	K00632	KO	0.55	kegg_decoder+literature	producer	Fatty acid beta-oxidation	fadA acetyl-CoA acyltransferase; thiolase; final step of lipid/hydrocarbon beta-oxidation
+2.1.1.1	Decomposing wastes or polluting substances	K00135	KO	0.50	kegg_decoder+literature	producer	Aldehyde degradation	gabD succinate-semialdehyde dehydrogenase; GABA and xenobiotic aldehyde oxidation
+2.1.1.1	Decomposing wastes or polluting substances	K07516	KO	0.55	kegg_decoder+literature	producer	Fatty acid beta-oxidation	fadB/fadJ 3-hydroxyacyl-CoA dehydrogenase; beta-oxidation of xenobiotic acyl chains
+2.3.5.1	Controlling the chemical quality of freshwater	K01092	KO	0.50	kegg_decoder+literature	transformer	Phosphorus cycling	myo-inositol-1-phosphatase; releases Pi from inositol phosphates; organic P mineralization
+2.3.5.1	Controlling the chemical quality of freshwater	K01091	KO	0.55	kegg_decoder+literature	producer	Phosphorus mineralization	phoN acid phosphatase; releases Pi from organic P compounds; P cycling
+2.3.5.1	Controlling the chemical quality of freshwater	K02050	KO	0.50	kegg_decoder+literature	consumer	Sulfate uptake	sulfate ABC transporter permease; imports sulfate for assimilatory reduction
+2.3.3.2	Controlling disease	K17680	KO	0.65	kegg_decoder+literature	inhibitor	Multidrug efflux	AcrB/MexB RND efflux pump; confers intrinsic multidrug resistance; core AMR mechanism
+2.3.3.2	Controlling disease	K06158	KO	0.60	kegg_decoder+literature	inhibitor	Multidrug efflux outer membrane channel	TolC outer membrane channel; AcrAB-TolC efflux system; core AMR component
+2.3.6.1	Regulating our global climate	K01673	KO	0.55	kegg_decoder+literature	transformer	CO2/bicarbonate equilibrium	carbonic anhydrase; interconverts CO2 and HCO3-; regulates dissolved inorganic carbon pool

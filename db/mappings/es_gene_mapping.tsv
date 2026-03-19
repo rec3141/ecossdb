@@ -5,6 +5,7 @@ es_code	es_name	gene_id	gene_id_type	confidence	evidence_source	functional_role	
 2.1.1.1	Decomposing wastes or polluting substances	K00120	KO	0.6	foam	producer	08_Hydrocarbon degradation / Polycyclic aromatic hydrocarbon degradation	fgd2
 2.1.1.1	Decomposing wastes or polluting substances	K00128	KO	0.65	kegg_decoder+literature	producer	Aldehyde detoxification	ALDH aldehyde dehydrogenase NAD+; oxidizes toxic aldehydes from pollutant breakdown
 2.1.1.1	Decomposing wastes or polluting substances	K00132	KO	0.6	foam	producer	08_Hydrocarbon degradation / Polycyclic aromatic hydrocarbon degradation	E1.2.1.10
+2.1.1.1	Decomposing wastes or polluting substances	K00135	KO	0.50	kegg_decoder+literature	producer	Aldehyde degradation	gabD succinate-semialdehyde dehydrogenase; GABA and xenobiotic aldehyde oxidation
 2.1.1.1	Decomposing wastes or polluting substances	K00141	KO	0.6	foam	producer	08_Hydrocarbon degradation / Other aromatics degradation	xylC
 2.1.1.1	Decomposing wastes or polluting substances	K00155	KO	0.6	foam	producer	08_Hydrocarbon degradation / Polycyclic aromatic hydrocarbon degradation	LNAA, LNBA
 2.1.1.1	Decomposing wastes or polluting substances	K00224	KO	0.6	foam	producer	08_Hydrocarbon degradation / Polycyclic aromatic hydrocarbon degradation	CEQORH
@@ -26,9 +27,11 @@ es_code	es_name	gene_id	gene_id_type	confidence	evidence_source	functional_role	
 2.1.1.1	Decomposing wastes or polluting substances	K00492	KO	0.6	foam	producer	08_Hydrocarbon degradation / Nitoaromatics degradation	tmuM
 2.1.1.1	Decomposing wastes or polluting substances	K00517	KO	0.70	literature:PMID:26441948	producer	Xenobiotic oxidation	cytochrome P450 monooxygenase; broad xenobiotic oxidation; Tan et al 2015
 2.1.1.1	Decomposing wastes or polluting substances	K00599	KO	0.6	foam	producer	08_Hydrocarbon degradation / Polycyclic aromatic hydrocarbon degradation	METTL6
+2.1.1.1	Decomposing wastes or polluting substances	K00632	KO	0.55	kegg_decoder+literature	producer	Fatty acid beta-oxidation	fadA acetyl-CoA acyltransferase; thiolase; final step of lipid/hydrocarbon beta-oxidation
 2.1.1.1	Decomposing wastes or polluting substances	K00681	KO	0.60	kegg_decoder+literature	producer	Glutathione-xenobiotic conjugate processing	ggt gamma-glutamyltranspeptidase; mercapturic acid pathway for xenobiotic elimination
 2.1.1.1	Decomposing wastes or polluting substances	K00799	KO	0.70	kegg_decoder+literature	producer	Xenobiotic conjugation/detoxification	GST glutathione S-transferase; conjugates xenobiotics for detox; broad substrate (pesticides, metals, organics)
 2.1.1.1	Decomposing wastes or polluting substances	K01061	KO	0.75	literature:PMID:33280938	producer	Ester bond hydrolysis	carboxylesterase; broad-spectrum xenobiotic ester hydrolysis
+2.1.1.1	Decomposing wastes or polluting substances	K01130	KO	0.60	kegg_decoder+literature	producer	Sulfate ester hydrolysis	arylsulfatase; hydrolyzes sulfate esters from pollutants; xenobiotic S processing
 2.1.1.1	Decomposing wastes or polluting substances	K01255	KO	0.70	literature:PMID:33280938	producer	Xenobiotic peptide hydrolysis	aminopeptidase; broad xenobiotic peptide bond cleavage
 2.1.1.1	Decomposing wastes or polluting substances	K01426	KO	0.60	kegg_decoder+literature	producer	Amide bond hydrolysis	amiE amidase; hydrolyzes amide bonds in xenobiotics (acrylamide, herbicide amides)
 2.1.1.1	Decomposing wastes or polluting substances	K01473	KO	0.6	foam	producer	08_Hydrocarbon degradation / BTEX and related aromatics degradation	hyuA
@@ -45,6 +48,7 @@ es_code	es_name	gene_id	gene_id_type	confidence	evidence_source	functional_role	
 2.1.1.1	Decomposing wastes or polluting substances	K01619	KO	0.6	foam	producer	08_Hydrocarbon degradation / Polycyclic aromatic hydrocarbon degradation	deoC, DERA
 2.1.1.1	Decomposing wastes or polluting substances	K01666	KO	0.8	kegg_decoder	producer	Catechol meta-cleavage (xenobiotic degradation)	Catechol meta-cleavage (M00569)
 2.1.1.1	Decomposing wastes or polluting substances	K01669	KO	0.65	kegg_decoder+literature	producer	Aromatic compound degradation	hppD 4-hydroxyphenylpyruvate dioxygenase; aromatic ring cleavage; tyrosine/xenobiotic degradation
+2.1.1.1	Decomposing wastes or polluting substances	K01692	KO	0.55	kegg_decoder+literature	producer	Fatty acid/xenobiotic beta-oxidation	enoyl-CoA hydratase echA; beta-oxidation of fatty acids and xenobiotic acyl chains
 2.1.1.1	Decomposing wastes or polluting substances	K01781	KO	0.6	foam	producer	08_Hydrocarbon degradation / Aromatic carboxylic acid degradation	mdlA
 2.1.1.1	Decomposing wastes or polluting substances	K01800	KO	0.6	foam	producer	08_Hydrocarbon degradation / Aromatic carboxylic acid degradation	maiA, GSTZ1
 2.1.1.1	Decomposing wastes or polluting substances	K01856	KO	0.9	kegg_decoder+foam	producer	Catechol ortho-cleavage (xenobiotic degradation)	Catechol ortho-cleavage (M00568); catB
@@ -68,6 +72,7 @@ es_code	es_name	gene_id	gene_id_type	confidence	evidence_source	functional_role	
 2.1.1.1	Decomposing wastes or polluting substances	K05823	KO	0.6	foam	producer	08_Hydrocarbon degradation / BTEX and related aromatics degradation	dapL
 2.1.1.1	Decomposing wastes or polluting substances	K06912	KO	0.6	foam	producer	08_Hydrocarbon degradation / Chlorinated aromatics degradation	tfdA
 2.1.1.1	Decomposing wastes or polluting substances	K07104	KO	0.8	kegg_decoder	producer	Catechol meta-cleavage (xenobiotic degradation)	Catechol meta-cleavage (M00569)
+2.1.1.1	Decomposing wastes or polluting substances	K07516	KO	0.55	kegg_decoder+literature	producer	Fatty acid beta-oxidation	fadB/fadJ 3-hydroxyacyl-CoA dehydrogenase; beta-oxidation of xenobiotic acyl chains
 2.1.1.1	Decomposing wastes or polluting substances	K07519	KO	0.6	foam	producer	08_Hydrocarbon degradation / Polycyclic aromatic hydrocarbon degradation	
 2.1.1.1	Decomposing wastes or polluting substances	K07824	KO	0.6	foam	producer	08_Hydrocarbon degradation / Aromatic carboxylic acid degradation	CYP53A1
 2.1.1.1	Decomposing wastes or polluting substances	K08689	KO	0.6	foam	producer	08_Hydrocarbon degradation / Polycyclic aromatics degradation	bphAa, bphA1, bphA
@@ -129,6 +134,7 @@ es_code	es_name	gene_id	gene_id_type	confidence	evidence_source	functional_role	
 2.3.3.2	Controlling disease	K01152	KO	0.80	literature:PMID:39203545	inhibitor	Antimicrobial resistance indicator	intI1 class 1 integron integrase; primary indicator of anthropogenic ARG pollution in water
 2.3.3.2	Controlling disease	K02547	KO	0.75	literature:PMID:36002692	inhibitor	Antimicrobial resistance	mexB RND multidrug efflux pump; metal-ARG co-selection; Xiao et al 2022
 2.3.3.2	Controlling disease	K05595	KO	0.80	literature:PMID:41202544	inhibitor	Antimicrobial resistance	mecA PBP2a; methicillin resistance indicator in water
+2.3.3.2	Controlling disease	K06158	KO	0.60	kegg_decoder+literature	inhibitor	Multidrug efflux outer membrane channel	TolC outer membrane channel; AcrAB-TolC efflux system; core AMR component
 2.3.3.2	Controlling disease	K07552	KO	0.75	literature:PMID:41202544	inhibitor	Antimicrobial resistance	qnrS pentapeptide repeat quinolone resistance
 2.3.3.2	Controlling disease	K11927	KO	0.55	kegg_decoder+literature	inhibitor	Bacterial virulence/competition	VgrG T6SS spike protein; effector delivery; pathogenicity and bacterial warfare indicator
 2.3.3.2	Controlling disease	K12132	KO	0.60	kegg_decoder+literature	inhibitor	Horizontal gene transfer	virB4 type IV secretion system ATPase; conjugative DNA transfer; ARG dissemination facilitator
@@ -137,6 +143,7 @@ es_code	es_name	gene_id	gene_id_type	confidence	evidence_source	functional_role	
 2.3.3.2	Controlling disease	K16070	KO	0.85	literature:PMID:39947845	inhibitor	Cyanotoxin biosynthesis	mcyE microcystin synthetase; key marker for MC-producing cyanobacteria; Jeon et al 2025
 2.3.3.2	Controlling disease	K16071	KO	0.80	literature:PMID:35438519	inhibitor	Cyanotoxin biosynthesis	mcyD microcystin synthetase polyketide synthase
 2.3.3.2	Controlling disease	K16072	KO	0.80	literature:PMID:35438519	inhibitor	Cyanotoxin biosynthesis	mcyG microcystin synthetase starter unit
+2.3.3.2	Controlling disease	K17680	KO	0.65	kegg_decoder+literature	inhibitor	Multidrug efflux	AcrB/MexB RND efflux pump; confers intrinsic multidrug resistance; core AMR mechanism
 2.3.3.2	Controlling disease	K17836	KO	0.80	literature:PMID:41202544	inhibitor	Antimicrobial resistance	blaTEM class A beta-lactamase; major ARG in freshwater; Zhang et al 2025
 2.3.3.2	Controlling disease	K18220	KO	0.80	literature:PMID:26441948	inhibitor	Antimicrobial resistance	sul1 sulfonamide resistance dihydropteroate synthase; widespread ARG indicator; Tan et al 2015
 2.3.3.2	Controlling disease	K18221	KO	0.80	literature:PMID:26441948	inhibitor	Antimicrobial resistance	sul2 sulfonamide resistance dihydropteroate synthase; mobile ARG
@@ -205,6 +212,8 @@ es_code	es_name	gene_id	gene_id_type	confidence	evidence_source	functional_role	
 2.3.5.1	Controlling the chemical quality of freshwater	K00959	KO	0.5	foam	transformer	18_Sulfur compounds metabolism / Sulfur compounds cycle	
 2.3.5.1	Controlling the chemical quality of freshwater	K01011	KO	0.5	foam	transformer	18_Sulfur compounds metabolism / Sulfur compounds cycle	TST, MPST, sseA
 2.3.5.1	Controlling the chemical quality of freshwater	K01077	KO	0.80	literature:PMID:29569048	producer	Phosphorus mineralization	phoA alkaline phosphatase; organic P → PO4; LeBrun et al 2018 Microb Ecol
+2.3.5.1	Controlling the chemical quality of freshwater	K01091	KO	0.55	kegg_decoder+literature	producer	Phosphorus mineralization	phoN acid phosphatase; releases Pi from organic P compounds; P cycling
+2.3.5.1	Controlling the chemical quality of freshwater	K01092	KO	0.50	kegg_decoder+literature	transformer	Phosphorus cycling	myo-inositol-1-phosphatase; releases Pi from inositol phosphates; organic P mineralization
 2.3.5.1	Controlling the chemical quality of freshwater	K01093	KO	0.80	literature:PMID:36181699	producer	Phosphorus mineralization	phoD alkaline phosphatase; dominant P mineralization gene in wetlands; Hu et al 2022 Glob Chang Biol
 2.3.5.1	Controlling the chemical quality of freshwater	K01113	KO	0.70	literature:PMID:36181699	producer	Phosphorus mineralization	phoB two-component response regulator; P-starvation regulon; Hu et al 2022
 2.3.5.1	Controlling the chemical quality of freshwater	K01126	KO	0.55	kegg_decoder+literature	transformer	Phosphorus cycling	phospholipase C; releases phosphate from phospholipids; organic P mineralization
@@ -225,6 +234,7 @@ es_code	es_name	gene_id	gene_id_type	confidence	evidence_source	functional_role	
 2.3.5.1	Controlling the chemical quality of freshwater	K02038	KO	0.70	literature:PMID:38844031	consumer	Phosphate transport	pstC phosphate ABC transporter permease
 2.3.5.1	Controlling the chemical quality of freshwater	K02040	KO	0.70	literature:PMID:38844031	consumer	Phosphate transport	pstS phosphate ABC transporter substrate-binding; high-affinity PO4 uptake; Zhuo et al 2024
 2.3.5.1	Controlling the chemical quality of freshwater	K02044	KO	0.65	literature:PMID:38844031	consumer	Phosphonate transport	phnC phosphonate ABC transporter ATP-binding; phosphonate uptake
+2.3.5.1	Controlling the chemical quality of freshwater	K02050	KO	0.50	kegg_decoder+literature	consumer	Sulfate uptake	sulfate ABC transporter permease; imports sulfate for assimilatory reduction
 2.3.5.1	Controlling the chemical quality of freshwater	K02225	KO	0.6	kegg_decoder	producer	Cobalamin (B12) biosynthesis	Cobalamin B12 biosynthesis (M00120)
 2.3.5.1	Controlling the chemical quality of freshwater	K02227	KO	0.6	kegg_decoder	producer	Cobalamin (B12) biosynthesis	Cobalamin B12 biosynthesis (M00120)
 2.3.5.1	Controlling the chemical quality of freshwater	K02228	KO	0.6	kegg_decoder	producer	Cobalamin (B12) biosynthesis	Cobalamin B12 biosynthesis (M00120)
@@ -411,6 +421,7 @@ es_code	es_name	gene_id	gene_id_type	confidence	evidence_source	functional_role	
 2.3.6.1	Regulating our global climate	K01623	KO	0.85	kegg_decoder	producer	Calvin cycle (CO2 fixation)	Calvin cycle (M00165)
 2.3.6.1	Regulating our global climate	K01624	KO	0.85	kegg_decoder	producer	Calvin cycle (CO2 fixation)	Calvin cycle (M00165)
 2.3.6.1	Regulating our global climate	K01648	KO	0.8	kegg_decoder	producer	Reductive TCA cycle (CO2 fixation)	rTCA (M00173)
+2.3.6.1	Regulating our global climate	K01673	KO	0.55	kegg_decoder+literature	transformer	CO2/bicarbonate equilibrium	carbonic anhydrase; interconverts CO2 and HCO3-; regulates dissolved inorganic carbon pool
 2.3.6.1	Regulating our global climate	K01689	KO	0.7	kegg_decoder	producer	Formaldehyde assimilation (methylotrophy)	Formaldehyde assimilation serine (M00346)
 2.3.6.1	Regulating our global climate	K01807	KO	0.85	kegg_decoder	producer	Calvin cycle (CO2 fixation)	Calvin cycle (M00165)
 2.3.6.1	Regulating our global climate	K01808	KO	0.85	kegg_decoder	producer	Calvin cycle (CO2 fixation)	Calvin cycle (M00165)
