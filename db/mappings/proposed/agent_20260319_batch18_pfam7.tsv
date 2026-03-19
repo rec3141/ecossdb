@@ -1,0 +1,22 @@
+es_code	es_name	gene_id	gene_id_type	confidence	evidence_source	functional_role	pathway_context	notes
+2.1.1.1	Decomposing wastes or polluting substances	Amidase	Pfam	0.55	kegg_decoder+literature	producer	Amidase (Ami signature family)	Signature amidase; broad amide bond hydrolysis; xenobiotic amide/nitrile degradation
+2.1.1.1	Decomposing wastes or polluting substances	FA_hydroxylase	Pfam	0.55	kegg_decoder+literature	producer	Fatty acid hydroxylase	FA hydroxylase; omega-hydroxylation of fatty acids; alkane/lipid degradation pathway
+2.3.6.1	Regulating our global climate	ChlI	Pfam	0.55	kegg_decoder+literature	producer	Chlorophyll biosynthesis (Mg-chelatase)	ChlI Mg-chelatase subunit; chlorophyll/bacteriochlorophyll biosynthesis; enables photosynthesis
+2.3.3.2	Controlling disease	Autotransporter	Pfam	0.50	kegg_decoder+literature	inhibitor	Type Va autotransporter secretion	Autotransporter barrel; secretes adhesins, proteases, toxins; bacterial virulence
+2.1.1.1	Decomposing wastes or polluting substances	Abhydrolase_3	Pfam	0.50	kegg_decoder+literature	producer	Alpha/beta hydrolase variant	Abhydrolase_3; lipase/esterase/epoxide hydrolase; xenobiotic hydrolysis
+2.1.1.1	Decomposing wastes or polluting substances	Oxidored_FMN	Pfam	0.50	kegg_decoder+literature	producer	FMN oxidoreductase	FMN-dependent oxidoreductase; old yellow enzyme family; nitroester/nitroaromatic reduction
+2.3.5.1	Controlling the chemical quality of freshwater	PhoH	Pfam	0.50	kegg_decoder+literature	transformer	Phosphate starvation response	PhoH ATPase; P-starvation inducible; indicator of P-limited aquatic conditions
+2.1.1.1	Decomposing wastes or polluting substances	Patatin	Pfam	0.50	kegg_decoder+literature	producer	Patatin-like phospholipase	Patatin PLA2; lipid degradation; hydrolyzes fatty acid esters from membrane lipids
+2.3.5.1	Controlling the chemical quality of freshwater	DoxX	Pfam	0.50	kegg_decoder+literature	transformer	Thiosulfate oxidation	DoxX/SoxF-like; thiosulfate oxidation; sulfur compound cycling in freshwater
+2.3.3.2	Controlling disease	RVT_1	Pfam	0.45	kegg_decoder+literature	inhibitor	Reverse transcriptase / retroelement	Group II intron RT; retroelement; facilitates genetic mobility and HGT
+2.3.3.2	Controlling disease	Y1_Tnp	Pfam	0.45	kegg_decoder+literature	inhibitor	IS200/IS605 transposase	Y1 serine transposase; IS200/IS605 family mobilization; ARG dissemination
+2.3.3.2	Controlling disease	DDE_Tnp_IS66	Pfam	0.45	kegg_decoder+literature	inhibitor	IS66 transposase	IS66 DDE transposase; IS element mobility; facilitates ARG spread
+2.3.5.1	Controlling the chemical quality of freshwater	Phosphodiest	Pfam	0.45	kegg_decoder+literature	transformer	Phosphodiesterase	Phosphodiesterase; hydrolyzes phosphodiester bonds; organic P cycling
+2.3.5.1	Controlling the chemical quality of freshwater	PAP2	Pfam	0.45	kegg_decoder+literature	transformer	Phosphatidic acid phosphatase	PAP2 lipid phosphatase; P cycling and lipid phosphate turnover
+2.3.5.1	Controlling the chemical quality of freshwater	Molydop_binding	Pfam	0.45	kegg_decoder+literature	transformer	Molybdopterin cofactor binding	Molybdopterin dinucleotide binding; in NarGH, DMSOR, SO; enables N/S cycling
+2.1.1.1	Decomposing wastes or polluting substances	ETF	Pfam	0.45	kegg_decoder+literature	transformer	Electron transfer flavoprotein	ETF; electron acceptor from acyl-CoA DH and other dehydrogenases; beta-oxidation ETC link
+2.3.4.2	Ensuring the organic matter in our soils is maintained	Poly_export	Pfam	0.45	kegg_decoder+literature	producer	EPS/capsule export	Polysaccharide export; Wza/Wzc-like; capsule/EPS outer membrane translocation
+2.1.1.2	Filtering wastes or sequestering pollutants	MMPL	Pfam	0.45	kegg_decoder+literature	producer	MmpL lipid/drug efflux	MmpL RND transporter; lipid and drug efflux; xenobiotic export
+2.1.1.1	Decomposing wastes or polluting substances	Peptidase_M14	Pfam	0.45	kegg_decoder+literature	producer	Zn carboxypeptidase	M14 carboxypeptidase; protein C-terminal hydrolysis; peptide/xenobiotic degradation
+2.3.3.2	Controlling disease	LytTR	Pfam	0.45	kegg_decoder+literature	inhibitor	Virulence/biofilm regulator	LytTR response regulator; controls virulence, competence, biofilm in pathogens
+2.1.1.1	Decomposing wastes or polluting substances	SnoaL_2	Pfam	0.45	kegg_decoder+literature	producer	Polyketide cyclase	SnoaL-like cyclase; polyketide/aromatic secondary metabolite processing
