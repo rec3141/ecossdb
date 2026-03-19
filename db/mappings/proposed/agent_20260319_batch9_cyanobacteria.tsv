@@ -1,0 +1,20 @@
+es_code	es_name	gene_id	gene_id_type	confidence	evidence_source	functional_role	pathway_context	notes
+2.3.6.1	Regulating our global climate	K04038	KO	0.80	kegg_decoder+literature	producer	Oxygenic photosynthesis (Cyt b6f)	petB cytochrome b6; b6f complex; photosynthetic electron transport enables CO2 fixation
+2.3.6.1	Regulating our global climate	K04039	KO	0.80	kegg_decoder+literature	producer	Oxygenic photosynthesis (Cyt b6f)	petA cytochrome f; b6f complex; links PSII→PSI electron flow
+2.3.6.1	Regulating our global climate	K04037	KO	0.75	kegg_decoder+literature	producer	Oxygenic photosynthesis (Cyt b6f)	petC Rieske Fe-S protein; b6f complex; essential for photosynthetic ETC
+2.3.6.1	Regulating our global climate	K15578	KO	0.80	kegg_decoder+literature	producer	CO2 concentrating mechanism (CCM)	sbtA Na-dependent bicarbonate transporter; key CCM component; imports HCO3- for cyanobacterial C fixation
+2.3.6.1	Regulating our global climate	K02634	KO	0.70	kegg_decoder+literature	producer	NDH-1 CO2 concentrating mechanism	ndhC; cyanobacterial NDH-1 complex; drives CCM for efficient carbon fixation
+2.3.6.1	Regulating our global climate	K05577	KO	0.70	kegg_decoder+literature	producer	NDH-1 CO2 concentrating mechanism	ndhB; major cyanobacterial NDH-1 subunit; powers CO2 uptake via CCM
+2.3.6.1	Regulating our global climate	K05575	KO	0.65	kegg_decoder+literature	producer	NDH-1 CO2 concentrating mechanism	ndhE; cyanobacterial NDH-1 subunit; part of CO2 concentrating mechanism
+2.3.6.1	Regulating our global climate	K02635	KO	0.65	kegg_decoder+literature	producer	NDH-1 CO2 concentrating mechanism	ndhJ; cyanobacterial NDH-1 subunit; CO2 concentrating mechanism
+2.3.6.1	Regulating our global climate	K02637	KO	0.65	kegg_decoder+literature	producer	NDH-1 CO2 concentrating mechanism	ndhH; cyanobacterial NDH-1 complex; CO2 concentrating mechanism
+2.3.6.1	Regulating our global climate	K02639	KO	0.60	kegg_decoder+literature	producer	NDH-1 CO2 concentrating mechanism	ndhI; cyanobacterial NDH-1 complex; CO2 concentrating mechanism
+2.3.6.1	Regulating our global climate	K01007	KO	0.55	kegg_decoder+literature	producer	C4-like carbon concentration	ppdK/ppsA PEP synthetase; C4-like CO2 concentration in cyanobacteria
+2.3.6.1	Regulating our global climate	K03737	KO	0.55	kegg_decoder+literature	producer	Photosynthetic electron transfer	fldA flavodoxin; replaces ferredoxin in Fe-limited photosynthetic electron transfer
+2.3.6.1	Regulating our global climate	K19159	KO	0.50	kegg_decoder+literature	producer	Photoprotection	hliA/hliB high-light inducible protein; protects photosynthetic apparatus; cyanobacteria-specific
+2.3.3.2	Controlling disease	K28279	KO	0.60	kegg_decoder+literature	inhibitor	Gas vesicle-mediated bloom formation	gvpA/gvpB gas vesicle structural protein; enables cyanobacterial surface bloom and toxin exposure
+2.3.3.2	Controlling disease	K19092	KO	0.55	kegg_decoder+literature	inhibitor	Gas vesicle-mediated bloom formation	gvpC gas vesicle reinforcement; stabilizes vesicles for bloom buoyancy
+2.3.3.2	Controlling disease	K00986	KO	0.55	kegg_decoder+literature	producer	Cyanophage-mediated biocontrol	cyanophage RNA-dependent RNA polymerase; phage lysis of toxigenic cyanobacteria; natural bloom biocontrol
+2.3.3.2	Controlling disease	K18828	KO	0.50	kegg_decoder+literature	producer	CRISPR antiphage defense	cas10/csm1 type III CRISPR effector; defense against cyanophages; community stability
+2.3.3.2	Controlling disease	K18831	KO	0.50	kegg_decoder+literature	producer	CRISPR antiphage defense	csm3/cmr4 CRISPR RNA-targeting; antiphage defense in cyanobacteria
+2.3.4.2	Ensuring the organic matter in our soils is maintained	K01214	KO	0.55	kegg_decoder+literature	transformer	Pectin degradation	polygalacturonase/pectinase; plant pectin decomposition; organic matter processing

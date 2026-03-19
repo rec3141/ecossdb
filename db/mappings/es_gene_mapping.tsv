@@ -131,6 +131,7 @@ es_code	es_name	gene_id	gene_id_type	confidence	evidence_source	functional_role	
 2.1.1.2	Filtering wastes or sequestering pollutants	K16264	KO	0.75	literature:PMID:36002692	producer	Cobalt/zinc/cadmium efflux	czcA RND heavy metal efflux; Co/Zn/Cd resistance
 2.1.1.2	Filtering wastes or sequestering pollutants	K17686	KO	0.75	literature:PMID:36002692	producer	Copper detoxification	copA copper-exporting P-type ATPase; Cu efflux
 2.1.1.2	Filtering wastes or sequestering pollutants	K19592	KO	0.80	literature:PMID:36002692	producer	Zinc/cadmium detoxification	zntA Zn2+/Cd2+ efflux P-type ATPase; heavy metal export
+2.3.3.2	Controlling disease	K00986	KO	0.55	kegg_decoder+literature	producer	Cyanophage-mediated biocontrol	cyanophage RNA-dependent RNA polymerase; phage lysis of toxigenic cyanobacteria; natural bloom biocontrol
 2.3.3.2	Controlling disease	K01152	KO	0.80	literature:PMID:39203545	inhibitor	Antimicrobial resistance indicator	intI1 class 1 integron integrase; primary indicator of anthropogenic ARG pollution in water
 2.3.3.2	Controlling disease	K02547	KO	0.75	literature:PMID:36002692	inhibitor	Antimicrobial resistance	mexB RND multidrug efflux pump; metal-ARG co-selection; Xiao et al 2022
 2.3.3.2	Controlling disease	K05595	KO	0.80	literature:PMID:41202544	inhibitor	Antimicrobial resistance	mecA PBP2a; methicillin resistance indicator in water
@@ -149,7 +150,10 @@ es_code	es_name	gene_id	gene_id_type	confidence	evidence_source	functional_role	
 2.3.3.2	Controlling disease	K18221	KO	0.80	literature:PMID:26441948	inhibitor	Antimicrobial resistance	sul2 sulfonamide resistance dihydropteroate synthase; mobile ARG
 2.3.3.2	Controlling disease	K18519	KO	0.80	literature:PMID:41202544	inhibitor	Antimicrobial resistance	vanA D-alanine--D-lactate ligase; vancomycin resistance indicator
 2.3.3.2	Controlling disease	K18590	KO	0.75	literature:PMID:38924952	inhibitor	Antimicrobial resistance	tetM tetracycline resistance ribosomal protection; Lu et al 2024 Water Res
+2.3.3.2	Controlling disease	K18828	KO	0.50	kegg_decoder+literature	producer	CRISPR antiphage defense	cas10/csm1 type III CRISPR effector; defense against cyanophages; community stability
+2.3.3.2	Controlling disease	K18831	KO	0.50	kegg_decoder+literature	producer	CRISPR antiphage defense	csm3/cmr4 CRISPR RNA-targeting; antiphage defense in cyanobacteria
 2.3.3.2	Controlling disease	K18843	KO	0.75	literature:PMID:38924952	inhibitor	Antimicrobial resistance	tetW tetracycline resistance ribosomal protection
+2.3.3.2	Controlling disease	K19092	KO	0.55	kegg_decoder+literature	inhibitor	Gas vesicle-mediated bloom formation	gvpC gas vesicle reinforcement; stabilizes vesicles for bloom buoyancy
 2.3.3.2	Controlling disease	K19689	KO	0.90	literature:PMID:26999203	producer	Microcystin degradation	mlrA microcystinase; linearizes cyclic microcystins; key MC degradation enzyme; Dziga et al 2016
 2.3.3.2	Controlling disease	K19690	KO	0.85	literature:PMID:26999203	producer	Microcystin degradation	mlrB serine protease; cleaves linearized MC to tetrapeptide; Dziga et al 2016
 2.3.3.2	Controlling disease	K19691	KO	0.85	literature:PMID:41003510	producer	Microcystin degradation	mlrC metallopeptidase; further degrades MC intermediates to Adda; Ding et al 2025
@@ -157,6 +161,7 @@ es_code	es_name	gene_id	gene_id_type	confidence	evidence_source	functional_role	
 2.3.3.2	Controlling disease	K21304	KO	0.80	literature:PMID:39772868	inhibitor	Cyanotoxin biosynthesis	sxtA saxitoxin synthetase; paralytic shellfish toxin producer
 2.3.3.2	Controlling disease	K21636	KO	0.80	literature:PMID:39772868	inhibitor	Cyanotoxin biosynthesis	cyrA cylindrospermopsin synthetase; freshwater cyanotoxin; Hart et al 2025
 2.3.3.2	Controlling disease	K21637	KO	0.80	literature:PMID:39772868	inhibitor	Cyanotoxin biosynthesis	cyrB cylindrospermopsin amidinotransferase
+2.3.3.2	Controlling disease	K28279	KO	0.60	kegg_decoder+literature	inhibitor	Gas vesicle-mediated bloom formation	gvpA/gvpB gas vesicle structural protein; enables cyanobacterial surface bloom and toxin exposure
 2.3.4.2	Ensuring the organic matter in our soils is maintained	K00012	KO	0.55	kegg_decoder+literature	producer	EPS/biofilm matrix production	ugd UDPglucose 6-dehydrogenase; UDP-glucuronate for EPS; biofilm matrix stabilizes soil
 2.3.4.2	Ensuring the organic matter in our soils is maintained	K00422	KO	0.65	literature:PMID:38278240	transformer	Lignin degradation	laccase (AA1 family); lignin oxidation; Wang et al 2024
 2.3.4.2	Ensuring the organic matter in our soils is maintained	K00430	KO	0.65	literature:PMID:38278240	transformer	Lignin degradation	peroxidase (AA2 family); lignin and Mn peroxidase
@@ -165,6 +170,7 @@ es_code	es_name	gene_id	gene_id_type	confidence	evidence_source	functional_role	
 2.3.4.2	Ensuring the organic matter in our soils is maintained	K01185	KO	0.65	literature:PMID:37594978	transformer	Peptidoglycan degradation	lysozyme; GH23 bacterial residue decomposition; Paul et al 2023 PLoS ONE
 2.3.4.2	Ensuring the organic matter in our soils is maintained	K01188	KO	0.65	literature:PMID:38278240	transformer	Cellulose degradation	bglB beta-glucosidase; cellobiose hydrolysis to glucose
 2.3.4.2	Ensuring the organic matter in our soils is maintained	K01198	KO	0.65	literature:PMID:38278240	transformer	Hemicellulose degradation	xynB xylan 1,4-beta-xylosidase; hemicellulose terminal hydrolysis
+2.3.4.2	Ensuring the organic matter in our soils is maintained	K01214	KO	0.55	kegg_decoder+literature	transformer	Pectin degradation	polygalacturonase/pectinase; plant pectin decomposition; organic matter processing
 2.3.4.2	Ensuring the organic matter in our soils is maintained	K01218	KO	0.65	literature:PMID:38278240	transformer	Hemicellulose degradation	xynA endo-1,4-beta-xylanase; hemicellulose decomposition correlated with SOC
 2.3.4.2	Ensuring the organic matter in our soils is maintained	K01225	KO	0.65	literature:PMID:38278240	transformer	Cellulose degradation	cbhA cellobiohydrolase; GH6/GH7 crystalline cellulose degradation
 2.3.4.2	Ensuring the organic matter in our soils is maintained	K01784	KO	0.55	kegg_decoder+literature	producer	EPS/biofilm matrix production	galE UDP-glucose 4-epimerase; produces UDP-galactose for EPS; biofilm contributes to soil aggregate stability
@@ -411,6 +417,7 @@ es_code	es_name	gene_id	gene_id_type	confidence	evidence_source	functional_role	
 2.3.6.1	Regulating our global climate	K00855	KO	0.85	kegg_decoder	producer	Calvin cycle (CO2 fixation)	Calvin cycle (M00165)
 2.3.6.1	Regulating our global climate	K00925	KO	0.55	foam	inhibitor	14_Methanogenesis / From acetate	ackA
 2.3.6.1	Regulating our global climate	K00927	KO	0.85	kegg_decoder	producer	Calvin cycle (CO2 fixation)	Calvin cycle (M00165)
+2.3.6.1	Regulating our global climate	K01007	KO	0.55	kegg_decoder+literature	producer	C4-like carbon concentration	ppdK/ppsA PEP synthetase; C4-like CO2 concentration in cyanobacteria
 2.3.6.1	Regulating our global climate	K01057	KO	0.5	foam	producer	15_Methylotrophy / RuMP pathway for formaldehyde fixation (first two steps are common to both RuMP pathway variants)	PGLS, pgl, devB
 2.3.6.1	Regulating our global climate	K01070	KO	0.5	foam	producer	15_Methylotrophy / Formaldehyde oxidation (glutathione-dependent)	frmB, ESD, fghA
 2.3.6.1	Regulating our global climate	K01491	KO	0.9	kegg_decoder+foam	producer	Wood-Ljungdahl pathway (CO2 fixation)	Wood-Ljungdahl (M00377); folD
@@ -433,7 +440,11 @@ es_code	es_name	gene_id	gene_id_type	confidence	evidence_source	functional_role	
 2.3.6.1	Regulating our global climate	K01962	KO	0.75	kegg_decoder	producer	3-Hydroxypropionate bi-cycle (CO2 fixation)	3-HP (M00376)
 2.3.6.1	Regulating our global climate	K01964	KO	0.75	kegg_decoder	producer	3-Hydroxypropionate bi-cycle (CO2 fixation)	3-HP (M00376)
 2.3.6.1	Regulating our global climate	K02305	KO	0.85	kegg_decoder	inhibitor	N2O production	norC nitric oxide reductase subunit C; N2O production
+2.3.6.1	Regulating our global climate	K02634	KO	0.70	kegg_decoder+literature	producer	NDH-1 CO2 concentrating mechanism	ndhC; cyanobacterial NDH-1 complex; drives CCM for efficient carbon fixation
+2.3.6.1	Regulating our global climate	K02635	KO	0.65	kegg_decoder+literature	producer	NDH-1 CO2 concentrating mechanism	ndhJ; cyanobacterial NDH-1 subunit; CO2 concentrating mechanism
 2.3.6.1	Regulating our global climate	K02636	KO	0.5	foam	transformer	13_Hydrogen metabolism / Hydrogen production VII (chlorophyta, cyanobacteria)	petC
+2.3.6.1	Regulating our global climate	K02637	KO	0.65	kegg_decoder+literature	producer	NDH-1 CO2 concentrating mechanism	ndhH; cyanobacterial NDH-1 complex; CO2 concentrating mechanism
+2.3.6.1	Regulating our global climate	K02639	KO	0.60	kegg_decoder+literature	producer	NDH-1 CO2 concentrating mechanism	ndhI; cyanobacterial NDH-1 complex; CO2 concentrating mechanism
 2.3.6.1	Regulating our global climate	K02689	KO	0.85	kegg_decoder	producer	Photosystem I (oxygenic photosynthesis)	PSI (M00163)
 2.3.6.1	Regulating our global climate	K02690	KO	0.85	kegg_decoder	producer	Photosystem I (oxygenic photosynthesis)	PSI (M00163)
 2.3.6.1	Regulating our global climate	K02694	KO	0.85	kegg_decoder	producer	Photosystem I (oxygenic photosynthesis)	PSI (M00163)
@@ -448,9 +459,15 @@ es_code	es_name	gene_id	gene_id_type	confidence	evidence_source	functional_role	
 2.3.6.1	Regulating our global climate	K03518	KO	0.5	foam	transformer	13_Hydrogen metabolism / Hydrogen production	coxS
 2.3.6.1	Regulating our global climate	K03519	KO	0.5	foam	transformer	13_Hydrogen metabolism / Hydrogen production	coxM, cutM
 2.3.6.1	Regulating our global climate	K03520	KO	0.5	foam	transformer	13_Hydrogen metabolism / Hydrogen production	coxL, cutL
+2.3.6.1	Regulating our global climate	K03737	KO	0.55	kegg_decoder+literature	producer	Photosynthetic electron transfer	fldA flavodoxin; replaces ferredoxin in Fe-limited photosynthetic electron transfer
 2.3.6.1	Regulating our global climate	K03841	KO	0.85	kegg_decoder	producer	Calvin cycle (CO2 fixation)	Calvin cycle (M00165)
+2.3.6.1	Regulating our global climate	K04037	KO	0.75	kegg_decoder+literature	producer	Oxygenic photosynthesis (Cyt b6f)	petC Rieske Fe-S protein; b6f complex; essential for photosynthetic ETC
+2.3.6.1	Regulating our global climate	K04038	KO	0.80	kegg_decoder+literature	producer	Oxygenic photosynthesis (Cyt b6f)	petB cytochrome b6; b6f complex; photosynthetic electron transport enables CO2 fixation
+2.3.6.1	Regulating our global climate	K04039	KO	0.80	kegg_decoder+literature	producer	Oxygenic photosynthesis (Cyt b6f)	petA cytochrome f; b6f complex; links PSII→PSI electron flow
 2.3.6.1	Regulating our global climate	K04480	KO	0.55	foam	inhibitor	14_Methanogenesis / From methanol	mtaB
 2.3.6.1	Regulating our global climate	K04561	KO	0.85	kegg_decoder	inhibitor	N2O production	norB nitric oxide reductase; produces N2O greenhouse gas from NO
+2.3.6.1	Regulating our global climate	K05575	KO	0.65	kegg_decoder+literature	producer	NDH-1 CO2 concentrating mechanism	ndhE; cyanobacterial NDH-1 subunit; part of CO2 concentrating mechanism
+2.3.6.1	Regulating our global climate	K05577	KO	0.70	kegg_decoder+literature	producer	NDH-1 CO2 concentrating mechanism	ndhB; major cyanobacterial NDH-1 subunit; powers CO2 uptake via CCM
 2.3.6.1	Regulating our global climate	K06281	KO	0.7	kegg_decoder+foam	transformer	H2 uptake hydrogenase	NiFe hydrogenase (M00627); hyaB, hybC
 2.3.6.1	Regulating our global climate	K06282	KO	0.7	kegg_decoder+foam	transformer	H2 uptake hydrogenase	NiFe hydrogenase (M00627); hyaA, hybO
 2.3.6.1	Regulating our global climate	K06441	KO	0.5	foam	transformer	13_Hydrogen metabolism / Hydrogen production VII (chlorophyta, cyanobacteria)	E1.12.7.2G
@@ -490,6 +507,7 @@ es_code	es_name	gene_id	gene_id_type	confidence	evidence_source	functional_role	
 2.3.6.1	Regulating our global climate	K15229	KO	0.5	foam	producer	15_Methylotrophy / Methylamine to formaldehyde	mauB
 2.3.6.1	Regulating our global climate	K15230	KO	0.8	kegg_decoder	producer	Reductive TCA cycle (CO2 fixation)	rTCA (M00173)
 2.3.6.1	Regulating our global climate	K15231	KO	0.8	kegg_decoder	producer	Reductive TCA cycle (CO2 fixation)	rTCA (M00173)
+2.3.6.1	Regulating our global climate	K15578	KO	0.80	kegg_decoder+literature	producer	CO2 concentrating mechanism (CCM)	sbtA Na-dependent bicarbonate transporter; key CCM component; imports HCO3- for cyanobacterial C fixation
 2.3.6.1	Regulating our global climate	K16154	KO	0.5	foam	producer	15_Methylotrophy / Methane oxidation to cO2	
 2.3.6.1	Regulating our global climate	K16155	KO	0.5	foam	producer	15_Methylotrophy / Methane oxidation to cO2	
 2.3.6.1	Regulating our global climate	K16156	KO	0.5	foam	producer	15_Methylotrophy / Methane oxidation to cO2	
@@ -510,6 +528,7 @@ es_code	es_name	gene_id	gene_id_type	confidence	evidence_source	functional_role	
 2.3.6.1	Regulating our global climate	K16258	KO	0.5	foam	producer	15_Methylotrophy / Methanol oxidation to formaldehyde	mxaK
 2.3.6.1	Regulating our global climate	K16259	KO	0.5	foam	producer	15_Methylotrophy / Methanol oxidation to formaldehyde	mxaL
 2.3.6.1	Regulating our global climate	K16260	KO	0.5	foam	producer	15_Methylotrophy / Methanol oxidation to formaldehyde	mxaD
+2.3.6.1	Regulating our global climate	K19159	KO	0.50	kegg_decoder+literature	producer	Photoprotection	hliA/hliB high-light inducible protein; protects photosynthetic apparatus; cyanobacteria-specific
 2.3.6.1	Regulating our global climate	K22622	KO	0.75	kegg_decoder	transformer	Thiosulfate oxidation (Sox)	soxY thiosulfate oxidation; S-compound cycling affects ocean climate
 2.3.6.2	Regulating the physical quality of air for people	K00108	KO	0.60	kegg_decoder+literature	transformer	Choline → glycine betaine pathway	betA choline dehydrogenase; choline/betaine metabolism linked to DMS production in marine systems
 2.3.6.2	Regulating the physical quality of air for people	K16953	KO	0.80	literature:PMID:34693622	producer	DMSP cleavage to DMS	dddP DMSP lyase; produces DMS (climate-active gas); Sun et al 2021 Environ Microbiol
