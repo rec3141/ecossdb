@@ -148,38 +148,45 @@ def main():
                     f"{mean:.4f}",
                 ]) + '\n')
 
-    # Build viz JSON
+    # Build viz JSON — aggregated (not per-entity, to keep file small)
+    agg_goals = defaultdict(lambda: {'score': 0, 'n_entities': 0, 'goal_name': ''})
+    for entity in goal_scores:
+        for goal, entry in goal_scores[entity].items():
+            agg_goals[goal]['score'] += entry['score']
+            agg_goals[goal]['n_entities'] += 1
+            agg_goals[goal]['goal_name'] = entry['goal_name']
+
+    agg_targets = defaultdict(lambda: {'score': 0, 'n_entities': 0,
+                                        'goal_name': '', 'target_desc': '',
+                                        'contributing_es': defaultdict(float)})
+    for entity in sdg_target_scores:
+        for target, entry in sdg_target_scores[entity].items():
+            agg_targets[target]['score'] += entry['score']
+            agg_targets[target]['n_entities'] += 1
+            agg_targets[target]['goal_name'] = entry['goal_name']
+            agg_targets[target]['target_desc'] = entry['target_desc']
+            for e in entry['contributing_es']:
+                agg_targets[target]['contributing_es'][e['es_code']] += \
+                    e['es_score'] * e['link_strength']
+
     viz = {
-        'targets': [],
-        'goals': [],
-        'entity_ids': sorted(sdg_target_scores.keys()),
+        'goals': [
+            {'sdg_goal': int(g), 'goal_name': info['goal_name'],
+             'score': round(info['score'], 2), 'n_entities': info['n_entities']}
+            for g, info in sorted(agg_goals.items(), key=lambda x: int(x[0]))
+        ],
+        'targets': [
+            {'sdg_target': t,
+             'sdg_goal': int(t.split('.')[0]) if t[0].isdigit() else t,
+             'goal_name': info['goal_name'],
+             'target_description': info['target_desc'],
+             'score': round(info['score'], 2),
+             'n_entities': info['n_entities'],
+             'contributing_es': {k: round(v, 2) for k, v in info['contributing_es'].items()}}
+            for t, info in sorted(agg_targets.items())
+        ],
+        'n_entities': len(sdg_target_scores),
     }
-
-    for entity in sorted(sdg_target_scores):
-        for target in sorted(sdg_target_scores[entity]):
-            entry = sdg_target_scores[entity][target]
-            viz['targets'].append({
-                'entity_id': entity,
-                'sdg_target': target,
-                'sdg_goal': target.split('.')[0],
-                'goal_name': entry['goal_name'],
-                'score': round(entry['score'], 4),
-                'contributing_es': [
-                    {'es_code': e['es_code'], 'mesh_es': e['mesh_es'],
-                     'contribution': round(e['es_score'] * e['link_strength'], 4)}
-                    for e in entry['contributing_es']
-                ],
-            })
-
-    for entity in sorted(goal_scores):
-        for goal in sorted(goal_scores[entity], key=int):
-            entry = goal_scores[entity][goal]
-            viz['goals'].append({
-                'entity_id': entity,
-                'sdg_goal': int(goal),
-                'goal_name': entry['goal_name'],
-                'score': round(entry['score'], 4),
-            })
 
     with open(args.output_json, 'w') as f:
         json.dump(viz, f, indent=2)
