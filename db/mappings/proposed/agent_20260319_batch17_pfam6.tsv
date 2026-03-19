@@ -1,0 +1,20 @@
+es_code	es_name	gene_id	gene_id_type	confidence	evidence_source	functional_role	pathway_context	notes
+2.1.1.1	Decomposing wastes or polluting substances	p450	Pfam	0.60	kegg_decoder+literature	producer	Cytochrome P450 monooxygenase	CYP450; broad xenobiotic oxidation; hydroxylates PAHs, pharmaceuticals, steroids, alkanes
+2.3.3.2	Controlling disease	Lactamase_B_2	Pfam	0.60	kegg_decoder+literature	inhibitor	Metallo-beta-lactamase variant	MBL superfamily variant; some confer carbapenem resistance; AMR indicator
+2.1.1.1	Decomposing wastes or polluting substances	Nitroreductase	Pfam	0.55	kegg_decoder+literature	producer	Nitroaromatic reduction	Nitroreductase; reduces nitroaromatic pollutants (TNT, nitrofurans); xenobiotic detoxification
+2.1.1.1	Decomposing wastes or polluting substances	Sulfotransfer_3	Pfam	0.50	kegg_decoder+literature	producer	Xenobiotic sulfonation	Sulfotransferase; conjugates sulfonate to xenobiotics for detox/excretion
+2.1.1.1	Decomposing wastes or polluting substances	Amidohydro_2	Pfam	0.50	kegg_decoder+literature	producer	Cyclic amide hydrolysis	Dihydropyrimidinase-like amidohydrolase; cyclic amide/xenobiotic ring opening
+2.1.1.1	Decomposing wastes or polluting substances	Thiolase_N	Pfam	0.50	kegg_decoder+literature	producer	Beta-oxidation (thiolase N)	Thiolase N-terminal; beta-ketothiolase; terminal step fatty acid/hydrocarbon beta-oxidation
+2.1.1.1	Decomposing wastes or polluting substances	Thiolase_C	Pfam	0.50	kegg_decoder+literature	producer	Beta-oxidation (thiolase C)	Thiolase C-terminal; co-occurs with Thiolase_N
+2.1.1.2	Filtering wastes or sequestering pollutants	E1-E2_ATPase	Pfam	0.50	kegg_decoder+literature	producer	P-type ATPase metal efflux	P-type ATPase; includes CopA Cu, ZntA Zn/Cd, CadA Pb efflux pumps; heavy metal resistance
+2.3.4.2	Ensuring the organic matter in our soils is maintained	Polysacc_synt	Pfam	0.50	kegg_decoder+literature	producer	EPS/capsule biosynthesis	Polysaccharide synthase; capsule/EPS polymerization; biofilm matrix production
+2.3.4.2	Ensuring the organic matter in our soils is maintained	Beta_helix	Pfam	0.50	kegg_decoder+literature	transformer	Pectate/pectin lyase	Right-handed beta-helix; pectate lyase; plant polysaccharide degradation
+2.1.1.1	Decomposing wastes or polluting substances	Amidohydro_3	Pfam	0.45	kegg_decoder+literature	producer	Metal-dependent C-N hydrolysis	Amidohydrolase 3; diverse metal-dependent hydrolysis of C-N bonds in xenobiotics
+2.3.4.2	Ensuring the organic matter in our soils is maintained	Polysacc_synt_C	Pfam	0.45	kegg_decoder+literature	producer	EPS biosynthesis C-terminal	Polysaccharide synthase C-terminal; co-occurs with Polysacc_synt
+2.3.6.1	Regulating our global climate	COX1	Pfam	0.45	kegg_decoder+literature	transformer	Aerobic terminal oxidase	CoxI heme-copper oxidase subunit I; terminal O2 consumption; respiration/photosynthesis balance
+2.3.3.2	Controlling disease	T2SSE	Pfam	0.45	kegg_decoder+literature	inhibitor	Type II secretion system	T2SS pseudopilus; secretes toxins and hydrolases; virulence-associated
+2.3.3.2	Controlling disease	DDE_3	Pfam	0.45	kegg_decoder+literature	inhibitor	DDE transposase	DDE-3 transposase; IS element mobilization; ARG dissemination
+2.3.3.2	Controlling disease	Transposase_20	Pfam	0.45	kegg_decoder+literature	inhibitor	Transposase	Transposase family 20; IS element mobilization; facilitates HGT and ARG spread
+2.3.5.1	Controlling the chemical quality of freshwater	Glutaredoxin	Pfam	0.45	kegg_decoder+literature	producer	Oxidative stress defense	Glutaredoxin; thiol-disulfide oxidoreductase; ROS defense in freshwater
+2.3.5.1	Controlling the chemical quality of freshwater	Cytochrom_C_asm	Pfam	0.45	kegg_decoder+literature	transformer	Cytochrome c maturation	CcmF/CcmH assembly; enables functional c-type cytochromes for Fe/Mn/S redox cycling
+2.1.1.2	Filtering wastes or sequestering pollutants	CorC_HlyC	Pfam	0.45	kegg_decoder+literature	producer	Metal ion efflux	CorC/HlyC transporter; Mg2+/Co2+ efflux; metal homeostasis and resistance
