@@ -1,0 +1,32 @@
+es_code	es_name	gene_id	gene_id_type	confidence	evidence_source	functional_role	pathway_context	notes
+2.3.5.1	Controlling the chemical quality of freshwater	K17218	KO	0.80	literature:PMID:22586992	inhibitor	Geosmin biosynthesis	geoA geosmin synthase; produces earthy taste-odor in drinking water; Zhang et al 2012
+2.3.5.1	Controlling the chemical quality of freshwater	K21785	KO	0.80	literature:PMID:25462716	inhibitor	2-MIB biosynthesis	MIB synthase; 2-methylisoborneol production; musty taste-odor; Suurnakki et al 2015
+2.3.5.1	Controlling the chemical quality of freshwater	K16068	KO	0.85	literature:PMID:35438519	inhibitor	Cyanotoxin biosynthesis	mcyA microcystin synthetase; hepatotoxin production threatens freshwater quality
+2.3.5.1	Controlling the chemical quality of freshwater	K16070	KO	0.85	literature:PMID:39947845	inhibitor	Cyanotoxin biosynthesis	mcyE microcystin synthetase; key marker for toxigenic cyanobacteria
+2.3.5.1	Controlling the chemical quality of freshwater	K21636	KO	0.80	literature:PMID:39772868	inhibitor	Cyanotoxin biosynthesis	cyrA cylindrospermopsin synthetase; freshwater cyanotoxin
+2.3.5.1	Controlling the chemical quality of freshwater	K21304	KO	0.80	literature:PMID:39772868	inhibitor	Cyanotoxin biosynthesis	sxtA saxitoxin synthetase; paralytic shellfish toxin
+2.3.6.1	Regulating our global climate	K00200	KO	0.85	kegg_decoder	inhibitor	Methanogenesis (CO2→CH4)	fwdA formylmethanofuran dehydrogenase; CH4 production step 1
+2.3.6.1	Regulating our global climate	K00672	KO	0.85	kegg_decoder	inhibitor	Methanogenesis (CO2→CH4)	ftr formylmethanofuran-THmethanopterin formyltransferase
+2.3.6.1	Regulating our global climate	K01499	KO	0.85	kegg_decoder	inhibitor	Methanogenesis (CO2→CH4)	mch methenyl-H4MPT cyclohydrolase
+2.3.5.1	Controlling the chemical quality of freshwater	K00264	KO	0.70	kegg_decoder+literature	inhibitor	Ammonium production	glutamate synthase NADH; glutamate→2-oxoglutarate+NH4 releases ammonium
+2.3.5.1	Controlling the chemical quality of freshwater	K00262	KO	0.70	kegg_decoder+literature	inhibitor	Ammonium production	glutamate dehydrogenase NAD; amino acid deamination releases NH4
+2.3.5.1	Controlling the chemical quality of freshwater	K01428	KO	0.80	kegg_decoder+literature	inhibitor	Urea hydrolysis	ureC urease alpha subunit; urea→NH4+CO2; ammonia release to freshwater
+2.3.5.1	Controlling the chemical quality of freshwater	K01429	KO	0.80	kegg_decoder+literature	inhibitor	Urea hydrolysis	ureB urease beta subunit
+2.3.5.1	Controlling the chemical quality of freshwater	K01430	KO	0.80	kegg_decoder+literature	inhibitor	Urea hydrolysis	ureA urease gamma subunit
+2.3.5.1	Controlling the chemical quality of freshwater	K17224	KO	0.80	kegg_decoder	producer	Thiosulfate oxidation (Sox)	soxB sulfur oxidation; removes toxic sulfide from freshwater
+2.3.5.1	Controlling the chemical quality of freshwater	K17225	KO	0.75	kegg_decoder	producer	Thiosulfate oxidation (Sox)	soxC sulfur dehydrogenase; sulfide detoxification
+2.3.5.1	Controlling the chemical quality of freshwater	K17226	KO	0.75	kegg_decoder	producer	Thiosulfate oxidation (Sox)	soxY sulfur carrier; sulfide detoxification
+2.3.5.1	Controlling the chemical quality of freshwater	K17229	KO	0.80	kegg_decoder+literature	producer	Sulfide oxidation	sqr sulfide:quinone oxidoreductase; detoxifies H2S in freshwater
+2.3.5.1	Controlling the chemical quality of freshwater	K17230	KO	0.75	kegg_decoder+literature	producer	Sulfide oxidation	fccA flavocytochrome c sulfide dehydrogenase; H2S oxidation
+2.3.5.1	Controlling the chemical quality of freshwater	K17231	KO	0.75	kegg_decoder+literature	producer	Sulfide oxidation	fccB flavocytochrome c sulfide dehydrogenase small subunit
+2.3.5.1	Controlling the chemical quality of freshwater	K00394	KO	0.70	kegg_decoder	inhibitor	H2S production via sulfate reduction	aprA APS reductase; dissimilatory sulfate reduction produces toxic H2S
+2.3.5.1	Controlling the chemical quality of freshwater	K11180	KO	0.70	kegg_decoder	inhibitor	H2S production via sulfate reduction	dsrA dissimilatory sulfite reductase; terminal H2S production
+2.3.6.1	Regulating our global climate	K04561	KO	0.85	kegg_decoder	inhibitor	N2O production	norB nitric oxide reductase; produces N2O greenhouse gas from NO
+2.3.6.1	Regulating our global climate	K02305	KO	0.85	kegg_decoder	inhibitor	N2O production	norC nitric oxide reductase subunit C; N2O production
+2.3.6.1	Regulating our global climate	K00376	KO	0.90	kegg_decoder+literature	producer	N2O consumption	nosZ nitrous oxide reductase; N2O→N2; only known biological N2O sink
+2.3.5.2	Controlling the chemical quality of salt water	K17229	KO	0.75	kegg_decoder+literature	producer	Sulfide oxidation	sqr sulfide:quinone oxidoreductase; detoxifies H2S in marine systems
+2.3.5.2	Controlling the chemical quality of salt water	K17230	KO	0.70	kegg_decoder+literature	producer	Sulfide oxidation	fccA flavocytochrome c sulfide dehydrogenase; marine H2S detox
+2.3.5.2	Controlling the chemical quality of salt water	K01428	KO	0.75	kegg_decoder+literature	inhibitor	Urea hydrolysis	ureC urease alpha subunit; NH4 release contributes to marine eutrophication
+2.1.1.1	Decomposing wastes or polluting substances	K18364	KO	0.80	literature:PMID:28258138	producer	2,4-D degradation	tfdA 2,4-D dioxygenase; herbicide degradation; Wang et al 2017
+2.1.1.1	Decomposing wastes or polluting substances	K18248	KO	0.75	literature:PMID:33280938	producer	Phenol degradation	pheA/dmpN phenol hydroxylase large subunit; phenol detoxification
+2.1.1.1	Decomposing wastes or polluting substances	K00249	KO	0.70	kegg_decoder+literature	producer	Fatty acid degradation	acyl-CoA dehydrogenase; lipid contaminant breakdown (oils/fats)

@@ -6,6 +6,7 @@ es_code	es_name	gene_id	gene_id_type	confidence	evidence_source	functional_role	
 2.1.1.1	Decomposing wastes or polluting substances	K00141	KO	0.6	foam	producer	08_Hydrocarbon degradation / Other aromatics degradation	xylC
 2.1.1.1	Decomposing wastes or polluting substances	K00155	KO	0.6	foam	producer	08_Hydrocarbon degradation / Polycyclic aromatic hydrocarbon degradation	LNAA, LNBA
 2.1.1.1	Decomposing wastes or polluting substances	K00224	KO	0.6	foam	producer	08_Hydrocarbon degradation / Polycyclic aromatic hydrocarbon degradation	CEQORH
+2.1.1.1	Decomposing wastes or polluting substances	K00249	KO	0.70	kegg_decoder+literature	producer	Fatty acid degradation	acyl-CoA dehydrogenase; lipid contaminant breakdown (oils/fats)
 2.1.1.1	Decomposing wastes or polluting substances	K00252	KO	0.6	foam	producer	08_Hydrocarbon degradation / Aromatic carboxylic acid degradation	GCDH, gcdH
 2.1.1.1	Decomposing wastes or polluting substances	K00446	KO	0.9	kegg_decoder+foam	producer	Catechol meta-cleavage (xenobiotic degradation)	Catechol meta-cleavage (M00569); dmpB, xylE
 2.1.1.1	Decomposing wastes or polluting substances	K00448	KO	0.6	foam	producer	08_Hydrocarbon degradation / Other aromatics degradation	pcaG
@@ -98,6 +99,8 @@ es_code	es_name	gene_id	gene_id_type	confidence	evidence_source	functional_role	
 2.1.1.1	Decomposing wastes or polluting substances	K17224	KO	0.75	kegg_decoder	transformer	Thiosulfate oxidation (Sox pathway)	Thiosulfate oxidation Sox (M00595)
 2.1.1.1	Decomposing wastes or polluting substances	K17225	KO	0.75	kegg_decoder	transformer	Thiosulfate oxidation (Sox pathway)	Thiosulfate oxidation Sox (M00595)
 2.1.1.1	Decomposing wastes or polluting substances	K17226	KO	0.75	kegg_decoder	transformer	Thiosulfate oxidation (Sox pathway)	Thiosulfate oxidation Sox (M00595)
+2.1.1.1	Decomposing wastes or polluting substances	K18248	KO	0.75	literature:PMID:33280938	producer	Phenol degradation	pheA/dmpN phenol hydroxylase large subunit; phenol detoxification
+2.1.1.1	Decomposing wastes or polluting substances	K18364	KO	0.80	literature:PMID:28258138	producer	2,4-D degradation	tfdA 2,4-D dioxygenase; herbicide degradation; Wang et al 2017
 2.1.1.1	Decomposing wastes or polluting substances	K22622	KO	0.75	kegg_decoder	transformer	Thiosulfate oxidation (Sox pathway)	Thiosulfate oxidation Sox (M00595)
 2.1.1.2	Filtering wastes or sequestering pollutants	K00221	KO	0.80	literature:PMID:37441819	producer	Mercury detoxification	merB alkylmercury lyase; organomercury → Hg2+ for merA reduction
 2.1.1.2	Filtering wastes or sequestering pollutants	K00520	KO	0.85	literature:PMID:37441819	producer	Mercury detoxification	merA mercuric reductase; Hg2+ → Hg0 volatilization; Ren et al 2023 Mar Environ Res
@@ -189,6 +192,9 @@ es_code	es_name	gene_id	gene_id_type	confidence	evidence_source	functional_role	
 2.3.5.1	Controlling the chemical quality of freshwater	K01093	KO	0.80	literature:PMID:36181699	producer	Phosphorus mineralization	phoD alkaline phosphatase; dominant P mineralization gene in wetlands; Hu et al 2022 Glob Chang Biol
 2.3.5.1	Controlling the chemical quality of freshwater	K01113	KO	0.70	literature:PMID:36181699	producer	Phosphorus mineralization	phoB two-component response regulator; P-starvation regulon; Hu et al 2022
 2.3.5.1	Controlling the chemical quality of freshwater	K01425	KO	0.55	foam	transformer	11_Nitrogen cycle / Ammonia assimilation	glsA, GLS
+2.3.5.1	Controlling the chemical quality of freshwater	K01428	KO	0.80	kegg_decoder+literature	inhibitor	Urea hydrolysis	ureC urease alpha subunit; urea→NH4+CO2; ammonia release to freshwater
+2.3.5.1	Controlling the chemical quality of freshwater	K01429	KO	0.80	kegg_decoder+literature	inhibitor	Urea hydrolysis	ureB urease beta subunit
+2.3.5.1	Controlling the chemical quality of freshwater	K01430	KO	0.80	kegg_decoder+literature	inhibitor	Urea hydrolysis	ureA urease gamma subunit
 2.3.5.1	Controlling the chemical quality of freshwater	K01497	KO	0.55	kegg_decoder	producer	Riboflavin biosynthesis	Riboflavin biosynthesis (M00125)
 2.3.5.1	Controlling the chemical quality of freshwater	K01514	KO	0.75	literature:PMID:39962698	producer	Polyphosphate metabolism	ppx exopolyphosphatase; polyphosphate degradation releases PO4
 2.3.5.1	Controlling the chemical quality of freshwater	K01841	KO	0.65	literature:PMID:36181699	transformer	Phosphorus mineralization	ugpQ glycerophosphoryl diester phosphodiesterase; organic P mineralization
@@ -254,7 +260,16 @@ es_code	es_name	gene_id	gene_id_type	confidence	evidence_source	functional_role	
 2.3.5.1	Controlling the chemical quality of freshwater	K15879	KO	0.55	foam	transformer	11_Nitrogen cycle / Nitrogenated compounds Reduction	narC
 2.3.5.1	Controlling the chemical quality of freshwater	K15905	KO	0.55	foam	transformer	11_Nitrogen cycle / Nitrification	
 2.3.5.1	Controlling the chemical quality of freshwater	K15906	KO	0.55	foam	transformer	11_Nitrogen cycle / Nitrification	
+2.3.5.1	Controlling the chemical quality of freshwater	K16068	KO	0.85	literature:PMID:35438519	inhibitor	Cyanotoxin biosynthesis	mcyA microcystin synthetase; hepatotoxin production threatens freshwater quality
+2.3.5.1	Controlling the chemical quality of freshwater	K16070	KO	0.85	literature:PMID:39947845	inhibitor	Cyanotoxin biosynthesis	mcyE microcystin synthetase; key marker for toxigenic cyanobacteria
 2.3.5.1	Controlling the chemical quality of freshwater	K16953	KO	0.70	literature:PMID:25462716	inhibitor	Geosmin biosynthesis	geoA geosmin synthase; produces taste-and-odor compound; indicator of cyanobacterial source
+2.3.5.1	Controlling the chemical quality of freshwater	K17218	KO	0.80	literature:PMID:22586992	inhibitor	Geosmin biosynthesis	geoA geosmin synthase; produces earthy taste-odor in drinking water; Zhang et al 2012
+2.3.5.1	Controlling the chemical quality of freshwater	K17224	KO	0.80	kegg_decoder	producer	Thiosulfate oxidation (Sox)	soxB sulfur oxidation; removes toxic sulfide from freshwater
+2.3.5.1	Controlling the chemical quality of freshwater	K17225	KO	0.75	kegg_decoder	producer	Thiosulfate oxidation (Sox)	soxC sulfur dehydrogenase; sulfide detoxification
+2.3.5.1	Controlling the chemical quality of freshwater	K17226	KO	0.75	kegg_decoder	producer	Thiosulfate oxidation (Sox)	soxY sulfur carrier; sulfide detoxification
+2.3.5.1	Controlling the chemical quality of freshwater	K17229	KO	0.80	kegg_decoder+literature	producer	Sulfide oxidation	sqr sulfide:quinone oxidoreductase; detoxifies H2S in freshwater
+2.3.5.1	Controlling the chemical quality of freshwater	K17230	KO	0.75	kegg_decoder+literature	producer	Sulfide oxidation	fccA flavocytochrome c sulfide dehydrogenase; H2S oxidation
+2.3.5.1	Controlling the chemical quality of freshwater	K17231	KO	0.75	kegg_decoder+literature	producer	Sulfide oxidation	fccB flavocytochrome c sulfide dehydrogenase small subunit
 2.3.5.1	Controlling the chemical quality of freshwater	K19689	KO	0.85	literature:PMID:26999203	producer	Microcystin degradation (water quality)	mlrA microcystinase; removes hepatotoxins from freshwater
 2.3.5.1	Controlling the chemical quality of freshwater	K19690	KO	0.80	literature:PMID:26999203	producer	Microcystin degradation (water quality)	mlrB MC peptidase; freshwater toxin removal
 2.3.5.1	Controlling the chemical quality of freshwater	K19691	KO	0.80	literature:PMID:41003510	producer	Microcystin degradation (water quality)	mlrC MC metallopeptidase; freshwater toxin removal
@@ -262,9 +277,12 @@ es_code	es_name	gene_id	gene_id_type	confidence	evidence_source	functional_role	
 2.3.5.1	Controlling the chemical quality of freshwater	K20933	KO	0.85	kegg_decoder	producer	Anammox (NH4+NO2→N2)	Anammox (M00804)
 2.3.5.1	Controlling the chemical quality of freshwater	K20934	KO	0.85	kegg_decoder	producer	Anammox (NH4+NO2→N2)	Anammox (M00804)
 2.3.5.1	Controlling the chemical quality of freshwater	K20935	KO	0.85	kegg_decoder	producer	Anammox (NH4+NO2→N2)	Anammox (M00804)
+2.3.5.1	Controlling the chemical quality of freshwater	K21304	KO	0.80	literature:PMID:39772868	inhibitor	Cyanotoxin biosynthesis	sxtA saxitoxin synthetase; paralytic shellfish toxin
 2.3.5.1	Controlling the chemical quality of freshwater	K21572	KO	0.80	literature:PMID:32082281	transformer	Dissimilatory iron reduction	mtrA decaheme cytochrome c; Fe3+ → Fe2+ in sediments; Garber et al 2020 FeGenie
 2.3.5.1	Controlling the chemical quality of freshwater	K21573	KO	0.80	literature:PMID:32082281	transformer	Dissimilatory iron reduction	mtrB outer membrane beta-barrel; iron reduction electron conduit
 2.3.5.1	Controlling the chemical quality of freshwater	K21574	KO	0.80	literature:PMID:32082281	transformer	Dissimilatory iron reduction	mtrC outer membrane decaheme cytochrome; terminal Fe3+ reductase
+2.3.5.1	Controlling the chemical quality of freshwater	K21636	KO	0.80	literature:PMID:39772868	inhibitor	Cyanotoxin biosynthesis	cyrA cylindrospermopsin synthetase; freshwater cyanotoxin
+2.3.5.1	Controlling the chemical quality of freshwater	K21785	KO	0.80	literature:PMID:25462716	inhibitor	2-MIB biosynthesis	MIB synthase; 2-methylisoborneol production; musty taste-odor; Suurnakki et al 2015
 2.3.5.1	Controlling the chemical quality of freshwater	K22468	KO	0.75	literature:PMID:39962698	transformer	Polyphosphate metabolism	ppk2 polyphosphate kinase 2; polyphosphate synthesis/degradation
 2.3.5.2	Controlling the chemical quality of salt water	K00368	KO	0.85	kegg_decoder+literature	producer	Denitrification (NO3→N2)	nirK Cu-containing nitrite reductase
 2.3.5.2	Controlling the chemical quality of salt water	K00370	KO	0.85	kegg_decoder+literature	producer	Denitrification (NO3→N2)	narG nitrate reductase; marine N removal
@@ -274,6 +292,7 @@ es_code	es_name	gene_id	gene_id_type	confidence	evidence_source	functional_role	
 2.3.5.2	Controlling the chemical quality of salt water	K00958	KO	0.70	kegg_decoder	transformer	Sulfate activation	sat sulfate adenylyltransferase; first step dissimilatory sulfate reduction
 2.3.5.2	Controlling the chemical quality of salt water	K01077	KO	0.75	literature:PMID:29569048	producer	Phosphorus mineralization	phoA alkaline phosphatase; marine P cycling
 2.3.5.2	Controlling the chemical quality of salt water	K01093	KO	0.75	literature:PMID:36181699	producer	Phosphorus mineralization	phoD alkaline phosphatase; marine P cycling
+2.3.5.2	Controlling the chemical quality of salt water	K01428	KO	0.75	kegg_decoder+literature	inhibitor	Urea hydrolysis	ureC urease alpha subunit; NH4 release contributes to marine eutrophication
 2.3.5.2	Controlling the chemical quality of salt water	K02567	KO	0.85	kegg_decoder+literature	producer	Denitrification (NO3→N2)	napA periplasmic nitrate reductase
 2.3.5.2	Controlling the chemical quality of salt water	K02586	KO	0.85	kegg_decoder+literature	producer	Nitrogen fixation (N2→NH4)	nifD nitrogenase Mo-Fe alpha
 2.3.5.2	Controlling the chemical quality of salt water	K02588	KO	0.85	kegg_decoder+literature	producer	Nitrogen fixation (N2→NH4)	nifH nitrogenase reductase; marine N fixation
@@ -287,6 +306,8 @@ es_code	es_name	gene_id	gene_id_type	confidence	evidence_source	functional_role	
 2.3.5.2	Controlling the chemical quality of salt water	K16068	KO	0.80	literature:PMID:39772868	inhibitor	Cyanotoxin biosynthesis (marine)	mcyA microcystin synthetase; marine/estuarine HAB toxin indicator
 2.3.5.2	Controlling the chemical quality of salt water	K16070	KO	0.80	literature:PMID:39772868	inhibitor	Cyanotoxin biosynthesis (marine)	mcyE microcystin synthetase; marine/estuarine HAB toxin indicator
 2.3.5.2	Controlling the chemical quality of salt water	K17222	KO	0.75	kegg_decoder+literature	transformer	Thiosulfate oxidation (Sox)	soxA thiosulfate oxidation; marine S cycling
+2.3.5.2	Controlling the chemical quality of salt water	K17229	KO	0.75	kegg_decoder+literature	producer	Sulfide oxidation	sqr sulfide:quinone oxidoreductase; detoxifies H2S in marine systems
+2.3.5.2	Controlling the chemical quality of salt water	K17230	KO	0.70	kegg_decoder+literature	producer	Sulfide oxidation	fccA flavocytochrome c sulfide dehydrogenase; marine H2S detox
 2.3.5.2	Controlling the chemical quality of salt water	K20932	KO	0.85	kegg_decoder+literature	producer	Anammox (NH4+NO2→N2)	hzsA hydrazine synthase; marine anammox
 2.3.5.2	Controlling the chemical quality of salt water	K20935	KO	0.85	kegg_decoder	producer	Anammox (NH4+NO2→N2)	hdh hydrazine dehydrogenase; marine anammox
 2.3.5.2	Controlling the chemical quality of salt water	K21304	KO	0.80	literature:PMID:39772868	inhibitor	Cyanotoxin biosynthesis (marine)	sxtA saxitoxin synthetase; paralytic shellfish toxin; Hart et al 2025
@@ -328,6 +349,7 @@ es_code	es_name	gene_id	gene_id_type	confidence	evidence_source	functional_role	
 2.3.6.1	Regulating our global climate	K00319	KO	0.95	kegg_decoder+foam	inhibitor	Methanogenesis (CO2→CH4)	Methanogenesis (M00567); mtd
 2.3.6.1	Regulating our global climate	K00320	KO	0.95	kegg_decoder+foam	inhibitor	Methanogenesis (CO2→CH4)	Methanogenesis (M00567); mer
 2.3.6.1	Regulating our global climate	K00355	KO	0.5	foam	transformer	13_Hydrogen metabolism / Hydrogen production VII (chlorophyta, cyanobacteria)	NQO1
+2.3.6.1	Regulating our global climate	K00376	KO	0.90	kegg_decoder+literature	producer	N2O consumption	nosZ nitrous oxide reductase; N2O→N2; only known biological N2O sink
 2.3.6.1	Regulating our global climate	K00399	KO	0.95	kegg_decoder+foam	inhibitor	Methanogenesis (CO2→CH4)	Methanogenesis (M00567); mcrA
 2.3.6.1	Regulating our global climate	K00401	KO	0.95	kegg_decoder+foam	inhibitor	Methanogenesis (CO2→CH4)	Methanogenesis (M00567); mcrB
 2.3.6.1	Regulating our global climate	K00402	KO	0.95	kegg_decoder+foam	inhibitor	Methanogenesis (CO2→CH4)	Methanogenesis (M00567); mcrG
@@ -374,6 +396,7 @@ es_code	es_name	gene_id	gene_id_type	confidence	evidence_source	functional_role	
 2.3.6.1	Regulating our global climate	K01961	KO	0.75	kegg_decoder	producer	3-Hydroxypropionate bi-cycle (CO2 fixation)	3-HP (M00376)
 2.3.6.1	Regulating our global climate	K01962	KO	0.75	kegg_decoder	producer	3-Hydroxypropionate bi-cycle (CO2 fixation)	3-HP (M00376)
 2.3.6.1	Regulating our global climate	K01964	KO	0.75	kegg_decoder	producer	3-Hydroxypropionate bi-cycle (CO2 fixation)	3-HP (M00376)
+2.3.6.1	Regulating our global climate	K02305	KO	0.85	kegg_decoder	inhibitor	N2O production	norC nitric oxide reductase subunit C; N2O production
 2.3.6.1	Regulating our global climate	K02636	KO	0.5	foam	transformer	13_Hydrogen metabolism / Hydrogen production VII (chlorophyta, cyanobacteria)	petC
 2.3.6.1	Regulating our global climate	K02689	KO	0.85	kegg_decoder	producer	Photosystem I (oxygenic photosynthesis)	PSI (M00163)
 2.3.6.1	Regulating our global climate	K02690	KO	0.85	kegg_decoder	producer	Photosystem I (oxygenic photosynthesis)	PSI (M00163)
@@ -391,6 +414,7 @@ es_code	es_name	gene_id	gene_id_type	confidence	evidence_source	functional_role	
 2.3.6.1	Regulating our global climate	K03520	KO	0.5	foam	transformer	13_Hydrogen metabolism / Hydrogen production	coxL, cutL
 2.3.6.1	Regulating our global climate	K03841	KO	0.85	kegg_decoder	producer	Calvin cycle (CO2 fixation)	Calvin cycle (M00165)
 2.3.6.1	Regulating our global climate	K04480	KO	0.55	foam	inhibitor	14_Methanogenesis / From methanol	mtaB
+2.3.6.1	Regulating our global climate	K04561	KO	0.85	kegg_decoder	inhibitor	N2O production	norB nitric oxide reductase; produces N2O greenhouse gas from NO
 2.3.6.1	Regulating our global climate	K06281	KO	0.7	kegg_decoder+foam	transformer	H2 uptake hydrogenase	NiFe hydrogenase (M00627); hyaB, hybC
 2.3.6.1	Regulating our global climate	K06282	KO	0.7	kegg_decoder+foam	transformer	H2 uptake hydrogenase	NiFe hydrogenase (M00627); hyaA, hybO
 2.3.6.1	Regulating our global climate	K06441	KO	0.5	foam	transformer	13_Hydrogen metabolism / Hydrogen production VII (chlorophyta, cyanobacteria)	E1.12.7.2G
