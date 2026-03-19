@@ -1,0 +1,13 @@
+es_code	es_name	gene_id	gene_id_type	confidence	evidence_source	functional_role	pathway_context	notes
+2.3.5.1	Controlling the chemical quality of freshwater	K02014	KO	0.65	kegg_decoder+literature	transformer	Iron acquisition/cycling	TonB-dependent iron siderophore receptor; mediates Fe cycling; Fe availability affects water quality
+2.3.5.1	Controlling the chemical quality of freshwater	K04763	KO	0.60	kegg_decoder+literature	transformer	Iron homeostasis regulation	fur ferric uptake regulator; master regulator of Fe homeostasis
+2.3.5.1	Controlling the chemical quality of freshwater	K02004	KO	0.55	kegg_decoder+literature	transformer	Trace metal cycling (Co/Ni)	cbiM cobalt/nickel transporter permease; Co import for B12 biosynthesis
+2.3.5.1	Controlling the chemical quality of freshwater	K02003	KO	0.55	kegg_decoder+literature	transformer	Trace metal cycling (Co/Ni)	cbiO cobalt/nickel transporter ATPase; B12 precursor acquisition
+2.3.5.1	Controlling the chemical quality of freshwater	K03321	KO	0.70	kegg_decoder+literature	consumer	Ammonium uptake	amtB ammonium transporter; removes dissolved NH4 from freshwater; N cycling
+2.1.1.1	Decomposing wastes or polluting substances	K00799	KO	0.70	kegg_decoder+literature	producer	Xenobiotic conjugation/detoxification	GST glutathione S-transferase; conjugates xenobiotics for detox; broad substrate (pesticides, metals, organics)
+2.1.1.1	Decomposing wastes or polluting substances	K00128	KO	0.65	kegg_decoder+literature	producer	Aldehyde detoxification	ALDH aldehyde dehydrogenase NAD+; oxidizes toxic aldehydes from pollutant breakdown
+2.1.1.1	Decomposing wastes or polluting substances	K01897	KO	0.60	kegg_decoder+literature	producer	Lipid/oil degradation	fadD long-chain acyl-CoA synthetase; activates fatty acids for beta-oxidation; hydrocarbon/oil remediation
+2.1.1.1	Decomposing wastes or polluting substances	K20276	KO	0.60	kegg_decoder+literature	producer	Lipid/oil degradation	fadL long-chain fatty acid transporter; imports hydrophobic pollutants for degradation
+2.3.4.2	Ensuring the organic matter in our soils is maintained	K01784	KO	0.55	kegg_decoder+literature	producer	EPS/biofilm matrix production	galE UDP-glucose 4-epimerase; produces UDP-galactose for EPS; biofilm contributes to soil aggregate stability
+2.3.4.2	Ensuring the organic matter in our soils is maintained	K00012	KO	0.55	kegg_decoder+literature	producer	EPS/biofilm matrix production	ugd UDPglucose 6-dehydrogenase; UDP-glucuronate for EPS; biofilm matrix stabilizes soil
+2.3.3.2	Controlling disease	K12132	KO	0.60	kegg_decoder+literature	inhibitor	Horizontal gene transfer	virB4 type IV secretion system ATPase; conjugative DNA transfer; ARG dissemination facilitator

@@ -1,0 +1,68 @@
+ko	description	reason
+K07497	putative transposase	Mobile genetic element
+K03088	RNA polymerase sigma-70 factor rpoD	Core transcription
+K04078	molecular chaperone GroEL	Protein folding
+K07483	transposase IS3/IS911 family	Mobile genetic element
+K00525	ribonucleoside-diphosphate reductase alpha nrdA	DNA synthesis
+K07090	uncharacterized protein	Unknown function
+K06909	uncharacterized protein	Unknown function
+K07126	uncharacterized protein	Unknown function
+K06919	uncharacterized protein	Unknown function
+K03657	DNA replication helicase DnaB	DNA replication
+K02335	DNA polymerase III alpha subunit dnaE	DNA replication
+K21449	putative transposase	Mobile genetic element
+K04077	molecular chaperone GroES	Protein folding
+K01153	type I restriction enzyme hsdR	DNA defense
+K11688	type I restriction enzyme hsdM	DNA defense
+K11689	type I restriction enzyme hsdS	DNA defense
+K03496	chromosome partitioning protein ParB	Cell division
+K02337	DNA polymerase III beta subunit dnaN	DNA replication
+K02342	DNA polymerase III tau/gamma subunit dnaX	DNA replication
+K03043	RNA polymerase II subunit rpoB	Core transcription
+K03046	RNA polymerase II subunit rpoC	Core transcription
+K07498	putative transposase	Mobile genetic element
+K03497	chromosome partitioning protein ParA	Cell division
+K03701	excinuclease ABC subunit A uvrA	DNA repair
+K07491	putative transposase	Mobile genetic element
+K01802	peptidylprolyl isomerase ppiA	Protein folding
+K03704	cold shock protein cspA	Stress response (generic)
+K03671	thioredoxin trxA	Redox homeostasis (generic)
+K03559	cell division protein FtsZ	Cell division
+K01338	ATP-dependent Lon protease	Protein quality control
+K02314	DnaA replication initiation factor	DNA replication
+K01768	adenylate cyclase cyaA	Signal transduction (generic)
+K03797	carboxyl-terminal processing protease CtpA	Protein processing
+K03654	RecQ DNA helicase	DNA repair
+K07484	transposase IS200/IS605	Mobile genetic element
+K06889	uncharacterized protein	Unknown function
+K01870	isoleucyl-tRNA synthetase ileS	Translation
+K00384	thioredoxin reductase trxB	Redox homeostasis (generic)
+K00059	3-oxoacyl-ACP reductase FabG	Fatty acid biosynthesis
+K00058	3-hydroxyisobutyrate dehydrogenase	Central metabolism
+K00382	dihydrolipoamide dehydrogenase lpdA	Central metabolism
+K03427	MoxR-like ATPase	Molecular chaperone
+K07795	two-component sensor histidine kinase	Signal transduction (too generic)
+K01990	ABC transporter ATP-binding protein	Transport (too generic)
+K01992	ABC-2 type transporter	Transport (too generic)
+K01991	ABC-2 type transport system permease	Transport (too generic)
+K02035	peptide/nickel ABC transporter permease dppC	Peptide transport (too generic)
+K02034	peptide/nickel ABC transporter permease dppB	Peptide transport (too generic)
+K02033	peptide/nickel ABC transporter SBP dppA	Peptide transport (too generic)
+K02031	putrescine ABC transporter permease potH	Polyamine transport
+K00558	DNA cytosine-5 methyltransferase	Epigenetic modification
+K01652	acetolactate synthase ilvB	Amino acid biosynthesis
+K00826	branched-chain aminotransferase ilvE	Amino acid biosynthesis
+K01999	branched-chain amino acid transporter permease	Amino acid transport
+K01998	branched-chain amino acid transporter SBP	Amino acid transport
+K01997	branched-chain amino acid transporter livM	Amino acid transport
+K01995	branched-chain amino acid transporter permease	Amino acid transport
+K01996	branched-chain amino acid transporter livH	Amino acid transport
+K00626	acetyl-CoA C-acetyltransferase atoB	Central metabolism (thiolase)
+K01955	carbamoyl-phosphate synthase large subunit carB	Pyrimidine biosynthesis
+K01465	dihydroorotase pyrC	Pyrimidine biosynthesis
+K00973	glucose-1-phosphate thymidylyltransferase rfbA	LPS biosynthesis
+K01710	dTDP-glucose 4,6-dehydratase rfbB	LPS biosynthesis
+K01711	dTDP-glucose 4,6-dehydratase	LPS biosynthesis
+K00067	UDP-N-acetylglucosamine oxidoreductase	Peptidoglycan/LPS precursor
+K13464	type IV pili twitching motility PilT	Motility (broadly distributed)
+K07114	uncharacterized protein putative Fe-S	Unknown function

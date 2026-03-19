@@ -2,6 +2,7 @@ es_code	es_name	gene_id	gene_id_type	confidence	evidence_source	functional_role	
 2.1.1.1	Decomposing wastes or polluting substances	K00023	KO	0.6	foam	producer	08_Hydrocarbon degradation / Aromatic carboxylic acid degradation	phbB
 2.1.1.1	Decomposing wastes or polluting substances	K00055	KO	0.6	foam	producer	08_Hydrocarbon degradation / Other aromatics degradation	E1.1.1.90
 2.1.1.1	Decomposing wastes or polluting substances	K00120	KO	0.6	foam	producer	08_Hydrocarbon degradation / Polycyclic aromatic hydrocarbon degradation	fgd2
+2.1.1.1	Decomposing wastes or polluting substances	K00128	KO	0.65	kegg_decoder+literature	producer	Aldehyde detoxification	ALDH aldehyde dehydrogenase NAD+; oxidizes toxic aldehydes from pollutant breakdown
 2.1.1.1	Decomposing wastes or polluting substances	K00132	KO	0.6	foam	producer	08_Hydrocarbon degradation / Polycyclic aromatic hydrocarbon degradation	E1.2.1.10
 2.1.1.1	Decomposing wastes or polluting substances	K00141	KO	0.6	foam	producer	08_Hydrocarbon degradation / Other aromatics degradation	xylC
 2.1.1.1	Decomposing wastes or polluting substances	K00155	KO	0.6	foam	producer	08_Hydrocarbon degradation / Polycyclic aromatic hydrocarbon degradation	LNAA, LNBA
@@ -23,6 +24,7 @@ es_code	es_name	gene_id	gene_id_type	confidence	evidence_source	functional_role	
 2.1.1.1	Decomposing wastes or polluting substances	K00492	KO	0.6	foam	producer	08_Hydrocarbon degradation / Nitoaromatics degradation	tmuM
 2.1.1.1	Decomposing wastes or polluting substances	K00517	KO	0.70	literature:PMID:26441948	producer	Xenobiotic oxidation	cytochrome P450 monooxygenase; broad xenobiotic oxidation; Tan et al 2015
 2.1.1.1	Decomposing wastes or polluting substances	K00599	KO	0.6	foam	producer	08_Hydrocarbon degradation / Polycyclic aromatic hydrocarbon degradation	METTL6
+2.1.1.1	Decomposing wastes or polluting substances	K00799	KO	0.70	kegg_decoder+literature	producer	Xenobiotic conjugation/detoxification	GST glutathione S-transferase; conjugates xenobiotics for detox; broad substrate (pesticides, metals, organics)
 2.1.1.1	Decomposing wastes or polluting substances	K01061	KO	0.75	literature:PMID:33280938	producer	Ester bond hydrolysis	carboxylesterase; broad-spectrum xenobiotic ester hydrolysis
 2.1.1.1	Decomposing wastes or polluting substances	K01255	KO	0.70	literature:PMID:33280938	producer	Xenobiotic peptide hydrolysis	aminopeptidase; broad xenobiotic peptide bond cleavage
 2.1.1.1	Decomposing wastes or polluting substances	K01473	KO	0.6	foam	producer	08_Hydrocarbon degradation / BTEX and related aromatics degradation	hyuA
@@ -41,6 +43,7 @@ es_code	es_name	gene_id	gene_id_type	confidence	evidence_source	functional_role	
 2.1.1.1	Decomposing wastes or polluting substances	K01781	KO	0.6	foam	producer	08_Hydrocarbon degradation / Aromatic carboxylic acid degradation	mdlA
 2.1.1.1	Decomposing wastes or polluting substances	K01800	KO	0.6	foam	producer	08_Hydrocarbon degradation / Aromatic carboxylic acid degradation	maiA, GSTZ1
 2.1.1.1	Decomposing wastes or polluting substances	K01856	KO	0.9	kegg_decoder+foam	producer	Catechol ortho-cleavage (xenobiotic degradation)	Catechol ortho-cleavage (M00568); catB
+2.1.1.1	Decomposing wastes or polluting substances	K01897	KO	0.60	kegg_decoder+literature	producer	Lipid/oil degradation	fadD long-chain acyl-CoA synthetase; activates fatty acids for beta-oxidation; hydrocarbon/oil remediation
 2.1.1.1	Decomposing wastes or polluting substances	K03379	KO	0.6	foam	producer	08_Hydrocarbon degradation / Hydrocarbon degradation	chnB
 2.1.1.1	Decomposing wastes or polluting substances	K03380	KO	0.6	foam	producer	08_Hydrocarbon degradation / Other aromatics degradation	E1.14.13.7
 2.1.1.1	Decomposing wastes or polluting substances	K03381	KO	0.9	kegg_decoder+foam	producer	Catechol ortho-cleavage (xenobiotic degradation)	Catechol ortho-cleavage (M00568); catA
@@ -101,6 +104,7 @@ es_code	es_name	gene_id	gene_id_type	confidence	evidence_source	functional_role	
 2.1.1.1	Decomposing wastes or polluting substances	K17226	KO	0.75	kegg_decoder	transformer	Thiosulfate oxidation (Sox pathway)	Thiosulfate oxidation Sox (M00595)
 2.1.1.1	Decomposing wastes or polluting substances	K18248	KO	0.75	literature:PMID:33280938	producer	Phenol degradation	pheA/dmpN phenol hydroxylase large subunit; phenol detoxification
 2.1.1.1	Decomposing wastes or polluting substances	K18364	KO	0.80	literature:PMID:28258138	producer	2,4-D degradation	tfdA 2,4-D dioxygenase; herbicide degradation; Wang et al 2017
+2.1.1.1	Decomposing wastes or polluting substances	K20276	KO	0.60	kegg_decoder+literature	producer	Lipid/oil degradation	fadL long-chain fatty acid transporter; imports hydrophobic pollutants for degradation
 2.1.1.1	Decomposing wastes or polluting substances	K22622	KO	0.75	kegg_decoder	transformer	Thiosulfate oxidation (Sox pathway)	Thiosulfate oxidation Sox (M00595)
 2.1.1.2	Filtering wastes or sequestering pollutants	K00221	KO	0.80	literature:PMID:37441819	producer	Mercury detoxification	merB alkylmercury lyase; organomercury → Hg2+ for merA reduction
 2.1.1.2	Filtering wastes or sequestering pollutants	K00520	KO	0.85	literature:PMID:37441819	producer	Mercury detoxification	merA mercuric reductase; Hg2+ → Hg0 volatilization; Ren et al 2023 Mar Environ Res
@@ -120,6 +124,7 @@ es_code	es_name	gene_id	gene_id_type	confidence	evidence_source	functional_role	
 2.3.3.2	Controlling disease	K02547	KO	0.75	literature:PMID:36002692	inhibitor	Antimicrobial resistance	mexB RND multidrug efflux pump; metal-ARG co-selection; Xiao et al 2022
 2.3.3.2	Controlling disease	K05595	KO	0.80	literature:PMID:41202544	inhibitor	Antimicrobial resistance	mecA PBP2a; methicillin resistance indicator in water
 2.3.3.2	Controlling disease	K07552	KO	0.75	literature:PMID:41202544	inhibitor	Antimicrobial resistance	qnrS pentapeptide repeat quinolone resistance
+2.3.3.2	Controlling disease	K12132	KO	0.60	kegg_decoder+literature	inhibitor	Horizontal gene transfer	virB4 type IV secretion system ATPase; conjugative DNA transfer; ARG dissemination facilitator
 2.3.3.2	Controlling disease	K16068	KO	0.85	literature:PMID:35438519	inhibitor	Cyanotoxin biosynthesis	mcyA microcystin synthetase; hepatotoxin production in freshwater; Yancey et al 2022
 2.3.3.2	Controlling disease	K16069	KO	0.85	literature:PMID:35438519	inhibitor	Cyanotoxin biosynthesis	mcyB microcystin synthetase; structural variant determination
 2.3.3.2	Controlling disease	K16070	KO	0.85	literature:PMID:39947845	inhibitor	Cyanotoxin biosynthesis	mcyE microcystin synthetase; key marker for MC-producing cyanobacteria; Jeon et al 2025
@@ -138,6 +143,7 @@ es_code	es_name	gene_id	gene_id_type	confidence	evidence_source	functional_role	
 2.3.3.2	Controlling disease	K21304	KO	0.80	literature:PMID:39772868	inhibitor	Cyanotoxin biosynthesis	sxtA saxitoxin synthetase; paralytic shellfish toxin producer
 2.3.3.2	Controlling disease	K21636	KO	0.80	literature:PMID:39772868	inhibitor	Cyanotoxin biosynthesis	cyrA cylindrospermopsin synthetase; freshwater cyanotoxin; Hart et al 2025
 2.3.3.2	Controlling disease	K21637	KO	0.80	literature:PMID:39772868	inhibitor	Cyanotoxin biosynthesis	cyrB cylindrospermopsin amidinotransferase
+2.3.4.2	Ensuring the organic matter in our soils is maintained	K00012	KO	0.55	kegg_decoder+literature	producer	EPS/biofilm matrix production	ugd UDPglucose 6-dehydrogenase; UDP-glucuronate for EPS; biofilm matrix stabilizes soil
 2.3.4.2	Ensuring the organic matter in our soils is maintained	K00422	KO	0.65	literature:PMID:38278240	transformer	Lignin degradation	laccase (AA1 family); lignin oxidation; Wang et al 2024
 2.3.4.2	Ensuring the organic matter in our soils is maintained	K00430	KO	0.65	literature:PMID:38278240	transformer	Lignin degradation	peroxidase (AA2 family); lignin and Mn peroxidase
 2.3.4.2	Ensuring the organic matter in our soils is maintained	K01179	KO	0.70	literature:PMID:38278240	transformer	Cellulose degradation	endoglucanase (cellulase); GH5/GH9 family; plant residue decomposition; Wang et al 2024
@@ -147,6 +153,7 @@ es_code	es_name	gene_id	gene_id_type	confidence	evidence_source	functional_role	
 2.3.4.2	Ensuring the organic matter in our soils is maintained	K01198	KO	0.65	literature:PMID:38278240	transformer	Hemicellulose degradation	xynB xylan 1,4-beta-xylosidase; hemicellulose terminal hydrolysis
 2.3.4.2	Ensuring the organic matter in our soils is maintained	K01218	KO	0.65	literature:PMID:38278240	transformer	Hemicellulose degradation	xynA endo-1,4-beta-xylanase; hemicellulose decomposition correlated with SOC
 2.3.4.2	Ensuring the organic matter in our soils is maintained	K01225	KO	0.65	literature:PMID:38278240	transformer	Cellulose degradation	cbhA cellobiohydrolase; GH6/GH7 crystalline cellulose degradation
+2.3.4.2	Ensuring the organic matter in our soils is maintained	K01784	KO	0.55	kegg_decoder+literature	producer	EPS/biofilm matrix production	galE UDP-glucose 4-epimerase; produces UDP-galactose for EPS; biofilm contributes to soil aggregate stability
 2.3.4.2	Ensuring the organic matter in our soils is maintained	K05349	KO	0.70	literature:PMID:38278240	transformer	Cellulose degradation	bglX beta-glucosidase; GH1/GH3 dominant in soil C cycling; Wang et al 2024
 2.3.4.2	Ensuring the organic matter in our soils is maintained	K19668	KO	0.65	literature:PMID:38278240	transformer	Lignin degradation	manganese peroxidase; AA2 family lignin oxidation
 2.3.5.1	Controlling the chemical quality of freshwater	K00260	KO	0.55	foam	transformer	11_Nitrogen cycle / Ammonia assimilation	gudB, rocG
@@ -200,6 +207,9 @@ es_code	es_name	gene_id	gene_id_type	confidence	evidence_source	functional_role	
 2.3.5.1	Controlling the chemical quality of freshwater	K01841	KO	0.65	literature:PMID:36181699	transformer	Phosphorus mineralization	ugpQ glycerophosphoryl diester phosphodiesterase; organic P mineralization
 2.3.5.1	Controlling the chemical quality of freshwater	K01915	KO	0.55	foam	transformer	11_Nitrogen cycle / Ammonia assimilation	glnA, GLUL
 2.3.5.1	Controlling the chemical quality of freshwater	K01953	KO	0.55	foam	transformer	11_Nitrogen cycle / Ammonia assimilation	asnB, ASNS
+2.3.5.1	Controlling the chemical quality of freshwater	K02003	KO	0.55	kegg_decoder+literature	transformer	Trace metal cycling (Co/Ni)	cbiO cobalt/nickel transporter ATPase; B12 precursor acquisition
+2.3.5.1	Controlling the chemical quality of freshwater	K02004	KO	0.55	kegg_decoder+literature	transformer	Trace metal cycling (Co/Ni)	cbiM cobalt/nickel transporter permease; Co import for B12 biosynthesis
+2.3.5.1	Controlling the chemical quality of freshwater	K02014	KO	0.65	kegg_decoder+literature	transformer	Iron acquisition/cycling	TonB-dependent iron siderophore receptor; mediates Fe cycling; Fe availability affects water quality
 2.3.5.1	Controlling the chemical quality of freshwater	K02036	KO	0.70	literature:PMID:38844031	consumer	Phosphate transport	pstB phosphate ABC transporter ATP-binding
 2.3.5.1	Controlling the chemical quality of freshwater	K02037	KO	0.70	literature:PMID:38844031	consumer	Phosphate transport	pstA phosphate ABC transporter permease
 2.3.5.1	Controlling the chemical quality of freshwater	K02038	KO	0.70	literature:PMID:38844031	consumer	Phosphate transport	pstC phosphate ABC transporter permease
@@ -220,6 +230,7 @@ es_code	es_name	gene_id	gene_id_type	confidence	evidence_source	functional_role	
 2.3.5.1	Controlling the chemical quality of freshwater	K02588	KO	0.95	kegg_decoder+foam	producer	Nitrogen fixation (N2→NH4)	Nitrogen fixation (M00175); nifH
 2.3.5.1	Controlling the chemical quality of freshwater	K02591	KO	0.95	kegg_decoder+foam	producer	Nitrogen fixation (N2→NH4)	Nitrogen fixation (M00175); nifK
 2.3.5.1	Controlling the chemical quality of freshwater	K02595	KO	0.55	foam	transformer	11_Nitrogen cycle / Nitrogen Fixation	nifW
+2.3.5.1	Controlling the chemical quality of freshwater	K03321	KO	0.70	kegg_decoder+literature	consumer	Ammonium uptake	amtB ammonium transporter; removes dissolved NH4 from freshwater; N cycling
 2.3.5.1	Controlling the chemical quality of freshwater	K03385	KO	0.85	kegg_decoder+foam	transformer	DNRA (NO3→NH4)	DNRA (M00530); nrfA
 2.3.5.1	Controlling the chemical quality of freshwater	K03852	KO	0.5	foam	transformer	18_Sulfur compounds metabolism / Sulfur compounds cycle	xsc
 2.3.5.1	Controlling the chemical quality of freshwater	K04013	KO	0.55	foam	transformer	11_Nitrogen cycle / Nitrogenated compounds Reduction	nrfB
@@ -228,6 +239,7 @@ es_code	es_name	gene_id	gene_id_type	confidence	evidence_source	functional_role	
 2.3.5.1	Controlling the chemical quality of freshwater	K04100	KO	0.5	foam	transformer	18_Sulfur compounds metabolism / Chemoautotrophic oxidation of sulfur compounds	ligA
 2.3.5.1	Controlling the chemical quality of freshwater	K04101	KO	0.5	foam	transformer	18_Sulfur compounds metabolism / Chemoautotrophic oxidation of sulfur compounds	ligB
 2.3.5.1	Controlling the chemical quality of freshwater	K04561	KO	0.95	kegg_decoder+foam	producer	Denitrification (NO3→N2)	Denitrification (M00529); norB
+2.3.5.1	Controlling the chemical quality of freshwater	K04763	KO	0.60	kegg_decoder+literature	transformer	Iron homeostasis regulation	fur ferric uptake regulator; master regulator of Fe homeostasis
 2.3.5.1	Controlling the chemical quality of freshwater	K05301	KO	0.5	foam	transformer	18_Sulfur compounds metabolism / Sulfur compounds cycle	sorA
 2.3.5.1	Controlling the chemical quality of freshwater	K05597	KO	0.55	foam	transformer	11_Nitrogen cycle / Ammonia assimilation	aspQ, ansB, ansA
 2.3.5.1	Controlling the chemical quality of freshwater	K05601	KO	0.55	foam	transformer	11_Nitrogen cycle / Nitrogenated compounds Reduction	hcp
