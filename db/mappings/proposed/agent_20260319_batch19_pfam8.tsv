@@ -1,0 +1,27 @@
+es_code	es_name	gene_id	gene_id_type	confidence	evidence_source	functional_role	pathway_context	notes
+2.1.1.1	Decomposing wastes or polluting substances	2OG-FeII_Oxy_3	Pfam	0.55	kegg_decoder+literature	producer	Fe(II)/2-oxoglutarate dioxygenase	2OG-Fe(II) oxygenase; diverse hydroxylation of xenobiotics; PhyH-related
+2.1.1.1	Decomposing wastes or polluting substances	Esterase	Pfam	0.55	kegg_decoder+literature	producer	Esterase	Carboxyl ester hydrolase; xenobiotic ester bond cleavage; lipid/pollutant processing
+2.1.1.1	Decomposing wastes or polluting substances	HpcH_HpaI	Pfam	0.55	kegg_decoder+literature	producer	HpcH/HpaI aldolase (meta-cleavage)	HpcH/HpaI aldolase; aromatic compound meta-cleavage pathway; 4-hydroxy-2-oxovalerate aldolase
+2.3.5.1	Controlling the chemical quality of freshwater	Arginase	Pfam	0.50	kegg_decoder+literature	transformer	Urea cycle / N cycling	Arginase/agmatinase; arginine → ornithine + urea; N compound interconversion
+2.3.5.1	Controlling the chemical quality of freshwater	FUR	Pfam	0.50	kegg_decoder+literature	transformer	Iron uptake regulator	Fur/Zur/Mur; Fe/Zn/Mn-responsive transcription regulator; controls siderophore genes
+2.1.1.2	Filtering wastes or sequestering pollutants	MatE	Pfam	0.50	kegg_decoder+literature	producer	MATE efflux transporter	MATE multidrug/toxin efflux; Na+-driven xenobiotic export
+2.1.1.1	Decomposing wastes or polluting substances	MaoC_dehydratas	Pfam	0.50	kegg_decoder+literature	producer	MaoC enoyl-CoA hydratase	MaoC-like dehydratase; beta-oxidation and PHA metabolism
+2.1.1.1	Decomposing wastes or polluting substances	Ald_Xan_dh_C2	Pfam	0.50	kegg_decoder+literature	producer	Aldehyde/xanthine oxidase	Mo-containing aldehyde oxidase/xanthine DH; aldehyde and heterocyclic compound oxidation
+2.1.1.1	Decomposing wastes or polluting substances	F420_oxidored	Pfam	0.50	kegg_decoder+literature	producer	F420-dependent oxidoreductase	Coenzyme F420-dependent oxidoreductase; reduces nitro compounds; xenobiotic nitroreduction
+2.3.3.2	Controlling disease	Secretin	Pfam	0.50	kegg_decoder+literature	inhibitor	Type II/III secretion pore	Secretin outer membrane pore; T2SS/T3SS effector/toxin secretion; virulence
+2.1.1.1	Decomposing wastes or polluting substances	Flavin_Reduct	Pfam	0.50	kegg_decoder+literature	producer	Flavin reductase	Regenerates FMNH2 for monooxygenases; enables luciferase/P450 oxidation reactions
+2.1.1.1	Decomposing wastes or polluting substances	3HCDH	Pfam	0.50	kegg_decoder+literature	producer	3-hydroxyacyl-CoA dehydrogenase	Beta-oxidation step 3; fatty acid and xenobiotic acyl-chain degradation
+2.1.1.1	Decomposing wastes or polluting substances	3HCDH_N	Pfam	0.50	kegg_decoder+literature	producer	3-hydroxyacyl-CoA DH N-terminal	Co-occurs with 3HCDH; beta-oxidation
+2.3.5.1	Controlling the chemical quality of freshwater	OsmC	Pfam	0.50	kegg_decoder+literature	producer	Organic hydroperoxide resistance	OsmC/Ohr; organic hydroperoxide detoxification; oxidative stress defense
+2.1.1.2	Filtering wastes or sequestering pollutants	TerC	Pfam	0.50	kegg_decoder+literature	producer	Tellurium/metalloid resistance	TerC; tellurite resistance; metal and metalloid detoxification
+2.1.1.1	Decomposing wastes or polluting substances	ABM	Pfam	0.50	kegg_decoder+literature	producer	Antibiotic biosynthesis monooxygenase	FMN-dependent monooxygenase; diverse oxidations including xenobiotic hydroxylation
+2.3.5.1	Controlling the chemical quality of freshwater	PMSR	Pfam	0.45	kegg_decoder+literature	producer	Methionine sulfoxide reductase	MsrA/MsrB; repairs oxidized methionine; oxidative stress defense
+2.3.3.2	Controlling disease	Transposase_mut	Pfam	0.45	kegg_decoder+literature	inhibitor	Mutator transposase	Mutator-like transposase; IS element mobilization; ARG dissemination
+2.3.3.2	Controlling disease	DDE_Tnp_IS240	Pfam	0.45	kegg_decoder+literature	inhibitor	IS240 transposase	IS240 DDE transposase; IS element mobility; ARG spread
+2.1.1.1	Decomposing wastes or polluting substances	Peptidase_M3	Pfam	0.45	kegg_decoder+literature	producer	Thimet oligopeptidase	M3 metallopeptidase; peptide and xenobiotic peptide hydrolysis
+2.1.1.1	Decomposing wastes or polluting substances	Aldolase_II	Pfam	0.45	kegg_decoder+literature	producer	Class II Zn-dependent aldolase	Aromatic degradation pathway aldol cleavage; HpcH_HpaI-related
+2.1.1.1	Decomposing wastes or polluting substances	CoA_trans	Pfam	0.45	kegg_decoder+literature	producer	CoA transferase family I	Organic acid CoA transfer; acetoacetate/succinate metabolism
+2.1.1.1	Decomposing wastes or polluting substances	Flavoprotein	Pfam	0.45	kegg_decoder+literature	producer	Flavoprotein electron transfer	Electron transfer in diverse oxidoreductions; links to xenobiotic metabolism
+2.3.4.2	Ensuring the organic matter in our soils is maintained	Glycos_transf_3	Pfam	0.45	kegg_decoder+literature	producer	GT3 glycogen synthase	Glycosyltransferase family 3; glycogen/starch synthesis; polysaccharide production
+2.3.4.2	Ensuring the organic matter in our soils is maintained	Glycos_trans_3N	Pfam	0.45	kegg_decoder+literature	producer	GT3 N-terminal domain	Co-occurs with Glycos_transf_3
+2.1.1.1	Decomposing wastes or polluting substances	GSDH	Pfam	0.45	kegg_decoder+literature	producer	PQQ-dependent sugar dehydrogenase	Glucose/sorbosone DH; membrane oxidoreductase; organic acid production for P solubilization
