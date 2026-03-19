@@ -1,0 +1,35 @@
+es_code	es_name	gene_id	gene_id_type	confidence	evidence_source	functional_role	pathway_context	notes
+2.1.1.2	Filtering wastes or sequestering pollutants	HMA	Pfam	0.55	kegg_decoder+literature	producer	Heavy metal-associated domain	HMA Cu/Zn/Cd binding; metal chaperone; heavy metal homeostasis and resistance
+2.1.1.1	Decomposing wastes or polluting substances	DLH	Pfam	0.55	kegg_decoder+literature	producer	Dienelactone hydrolase	Chlorocatechol degradation; halogenated aromatic xenobiotic pathway
+2.1.1.1	Decomposing wastes or polluting substances	Abhydrolase_6	Pfam	0.50	kegg_decoder+literature	producer	Alpha/beta hydrolase 6	Hydrolase variant; lipase/esterase; xenobiotic hydrolysis
+2.1.1.2	Filtering wastes or sequestering pollutants	MacB_PCD	Pfam	0.50	kegg_decoder+literature	producer	MacB ABC efflux	MacB macrolide/drug efflux; ABC-type pump; xenobiotic export
+2.3.5.1	Controlling the chemical quality of freshwater	Redoxin	Pfam	0.50	kegg_decoder+literature	producer	Peroxiredoxin/redoxin	Thioredoxin-like redoxin; peroxiredoxin; ROS and peroxide defense
+2.1.1.1	Decomposing wastes or polluting substances	GST_N_3	Pfam	0.50	kegg_decoder+literature	producer	Glutathione S-transferase N3	GST N-terminal variant; xenobiotic conjugation
+2.1.1.1	Decomposing wastes or polluting substances	GST_C_2	Pfam	0.50	kegg_decoder+literature	producer	Glutathione S-transferase C2	GST C-terminal variant
+2.1.1.1	Decomposing wastes or polluting substances	GST_C	Pfam	0.50	kegg_decoder+literature	producer	Glutathione S-transferase C	GST C-terminal domain
+2.1.1.1	Decomposing wastes or polluting substances	GST_N	Pfam	0.50	kegg_decoder+literature	producer	Glutathione S-transferase N	GST N-terminal domain
+2.1.1.1	Decomposing wastes or polluting substances	GMC_oxred_C	Pfam	0.50	kegg_decoder+literature	producer	GMC oxidoreductase C-terminal	Glucose-methanol-choline oxidoreductase; alcohol/aldehyde oxidation
+2.1.1.1	Decomposing wastes or polluting substances	GMC_oxred_N	Pfam	0.50	kegg_decoder+literature	producer	GMC oxidoreductase N-terminal	GMC oxidoreductase N-term; co-occurs with GMC_oxred_C
+2.1.1.1	Decomposing wastes or polluting substances	FAD-oxidase_C	Pfam	0.50	kegg_decoder+literature	producer	FAD-dependent oxidase C-terminal	Vanillyl-alcohol oxidase family C-terminal; aromatic oxidation
+2.3.5.1	Controlling the chemical quality of freshwater	Molybdopterin	Pfam	0.50	kegg_decoder+literature	transformer	Molybdopterin oxidoreductase	Includes nitrate reductase, DMSO reductase; N and S cycling
+2.3.5.1	Controlling the chemical quality of freshwater	Sulfate_transp	Pfam	0.50	kegg_decoder+literature	consumer	Sulfate/bicarbonate transporter	SulP/BicA sulfate and anion transporter; S cycling
+2.3.5.1	Controlling the chemical quality of freshwater	TonB_C	Pfam	0.50	kegg_decoder+literature	transformer	TonB C-terminal	TonB C-terminal; co-occurs with TonB_dep_Rec; iron/siderophore system
+2.3.5.1	Controlling the chemical quality of freshwater	Inositol_P	Pfam	0.50	kegg_decoder+literature	transformer	Inositol monophosphatase	IMPase; organic P mineralization; P cycling
+2.1.1.1	Decomposing wastes or polluting substances	Ligase_CoA	Pfam	0.50	kegg_decoder+literature	producer	CoA ligase	Succinate/malate CoA ligase; organic acid metabolism
+2.1.1.1	Decomposing wastes or polluting substances	GFO_IDH_MocA_C	Pfam	0.45	kegg_decoder+literature	producer	GFO/IDH/MocA C-terminal	Oxidoreductase C-terminal; co-occurs with GFO_IDH_MocA
+2.1.1.1	Decomposing wastes or polluting substances	FAD_binding_6	Pfam	0.45	kegg_decoder+literature	producer	FAD-binding 6	FAD-linked oxidase; diverse substrate oxidation
+2.1.1.1	Decomposing wastes or polluting substances	FAD_binding_7	Pfam	0.45	kegg_decoder+literature	producer	FAD-binding 7 (BBE-like)	Berberine bridge enzyme-like; FAD-dependent oxidase
+2.1.1.1	Decomposing wastes or polluting substances	Metallophos_2	Pfam	0.45	kegg_decoder+literature	producer	Calcineurin-like phosphoesterase 2	Metallophos variant; phosphoester hydrolysis
+2.1.1.1	Decomposing wastes or polluting substances	MR_MLE_N	Pfam	0.45	kegg_decoder+literature	producer	Mandelate racemase / MLE N	MR/MLE N-terminal; aromatic compound metabolism
+2.1.1.1	Decomposing wastes or polluting substances	Hydrolase_3	Pfam	0.45	kegg_decoder+literature	producer	Alpha/beta hydrolase 3	Diverse ester/amide hydrolysis
+2.3.4.2	Ensuring the organic matter in our soils is maintained	Transgly	Pfam	0.45	kegg_decoder+literature	producer	Transglycosylase SLT	Peptidoglycan biosynthesis/recycling; cell wall → organic matter
+2.3.3.2	Controlling disease	DEDD_Tnp_IS110	Pfam	0.45	kegg_decoder+literature	inhibitor	IS110 DEDD transposase	IS110 family transposase; MGE mobility
+2.3.3.2	Controlling disease	RVT_2	Pfam	0.45	kegg_decoder+literature	inhibitor	Reverse transcriptase 2	Group II intron/retron RT; retroelement mobility
+2.3.3.2	Controlling disease	rve_3	Pfam	0.45	kegg_decoder+literature	inhibitor	Integrase rve variant 3	Integrase core variant; prophage/MGE integration
+2.3.3.2	Controlling disease	Phage_int_SAM_1	Pfam	0.45	kegg_decoder+literature	inhibitor	Phage integrase SAM-like	Phage/prophage integrase
+2.3.3.2	Controlling disease	Phage_int_SAM_5	Pfam	0.45	kegg_decoder+literature	inhibitor	Phage integrase SAM variant 5	Phage integrase variant
+2.1.1.2	Filtering wastes or sequestering pollutants	MFS_3	Pfam	0.45	kegg_decoder+literature	producer	MFS efflux 3	MFS drug/xenobiotic efflux variant
+2.3.5.1	Controlling the chemical quality of freshwater	B12-binding_2	Pfam	0.45	kegg_decoder+literature	transformer	B12-binding variant	Cobalamin-binding domain variant; B12-dependent enzyme indicator
+2.1.1.1	Decomposing wastes or polluting substances	ACAS_N	Pfam	0.45	kegg_decoder+literature	producer	AMP-binding N-terminal	Acyl-CoA synthetase N-terminal; fatty acid activation
+2.1.1.1	Decomposing wastes or polluting substances	Semialdhyde_dhC	Pfam	0.45	kegg_decoder+literature	producer	Semialdehyde DH C-terminal	Co-occurs with Semialdhyde_dh
+2.3.5.1	Controlling the chemical quality of freshwater	Fer2_4	Pfam	0.45	kegg_decoder+literature	transformer	2Fe-2S ferredoxin variant	Electron transfer in Fe/S/N redox cycling
