@@ -1,0 +1,13 @@
+es_code	es_name	gene_id	gene_id_type	confidence	evidence_source	functional_role	pathway_context	notes
+2.3.6.1	Regulating our global climate	K13821	KO	0.70	kegg_decoder+literature	producer	Photosynthetic light harvesting (phycobilisome)	cpcA phycocyanin alpha subunit; main light-harvesting pigment; captures light for CO2 fixation in cyanobacteria
+2.3.6.1	Regulating our global climate	K02660	KO	0.65	kegg_decoder+literature	producer	Photosynthetic light harvesting (phycobilisome)	cpeA phycoerythrin alpha; accessory photopigment; extends light harvesting spectrum for CO2 fixation
+2.3.6.1	Regulating our global climate	K15576	KO	0.75	kegg_decoder+literature	producer	CO2 concentrating mechanism (CCM)	bicA SulP-family bicarbonate transporter; low-affinity high-flux HCO3- uptake for cyanobacterial CCM
+2.3.6.1	Regulating our global climate	K19076	KO	0.50	kegg_decoder+literature	producer	Photosystem II assembly	psb27 PSII assembly factor; required for functional PSII; cyanobacteria-specific
+2.3.6.1	Regulating our global climate	K02652	KO	0.45	kegg_decoder+literature	producer	Photosynthetic light sensing	cph1 cyanobacterial phytochrome; light quality sensing for photosynthesis optimization
+2.3.6.1	Regulating our global climate	K10716	KO	0.45	kegg_decoder+literature	producer	Circadian regulation of photosynthesis	kaiA circadian clock activator; diel photosynthesis rhythm; cyanobacteria-specific
+2.3.5.1	Controlling the chemical quality of freshwater	K09001	KO	0.55	kegg_decoder+literature	producer	Reactive oxygen detoxification	sodB Fe-superoxide dismutase; detoxifies superoxide radicals; freshwater quality
+2.3.5.1	Controlling the chemical quality of freshwater	K19170	KO	0.60	kegg_decoder+literature	producer	Heterocyst N2 fixation regulation	hetR master regulator of heterocyst differentiation; enables N2 fixation; N input to freshwater
+2.3.5.1	Controlling the chemical quality of freshwater	K19171	KO	0.55	kegg_decoder+literature	producer	Heterocyst N2 fixation regulation	patS peptide; regulates heterocyst spacing for optimal N2 fixation in filamentous cyanobacteria
+2.3.5.1	Controlling the chemical quality of freshwater	K21498	KO	0.45	kegg_decoder+literature	transformer	C/N balance sensing	PII-like N regulatory protein; senses cellular C/N ratio; controls ammonium assimilation
+2.3.4.2	Ensuring the organic matter in our soils is maintained	K01191	KO	0.50	kegg_decoder+literature	transformer	Mannan degradation	alpha-mannosidase; cleaves mannose from glycoproteins and mannans; organic matter processing
+2.1.1.1	Decomposing wastes or polluting substances	K07259	KO	0.50	kegg_decoder+literature	producer	Phospholipid degradation	ompLA outer membrane phospholipase A; lipid turnover; organic pollutant processing

@@ -72,6 +72,7 @@ es_code	es_name	gene_id	gene_id_type	confidence	evidence_source	functional_role	
 2.1.1.1	Decomposing wastes or polluting substances	K05823	KO	0.6	foam	producer	08_Hydrocarbon degradation / BTEX and related aromatics degradation	dapL
 2.1.1.1	Decomposing wastes or polluting substances	K06912	KO	0.6	foam	producer	08_Hydrocarbon degradation / Chlorinated aromatics degradation	tfdA
 2.1.1.1	Decomposing wastes or polluting substances	K07104	KO	0.8	kegg_decoder	producer	Catechol meta-cleavage (xenobiotic degradation)	Catechol meta-cleavage (M00569)
+2.1.1.1	Decomposing wastes or polluting substances	K07259	KO	0.50	kegg_decoder+literature	producer	Phospholipid degradation	ompLA outer membrane phospholipase A; lipid turnover; organic pollutant processing
 2.1.1.1	Decomposing wastes or polluting substances	K07516	KO	0.55	kegg_decoder+literature	producer	Fatty acid beta-oxidation	fadB/fadJ 3-hydroxyacyl-CoA dehydrogenase; beta-oxidation of xenobiotic acyl chains
 2.1.1.1	Decomposing wastes or polluting substances	K07519	KO	0.6	foam	producer	08_Hydrocarbon degradation / Polycyclic aromatic hydrocarbon degradation	
 2.1.1.1	Decomposing wastes or polluting substances	K07824	KO	0.6	foam	producer	08_Hydrocarbon degradation / Aromatic carboxylic acid degradation	CYP53A1
@@ -169,6 +170,7 @@ es_code	es_name	gene_id	gene_id_type	confidence	evidence_source	functional_role	
 2.3.4.2	Ensuring the organic matter in our soils is maintained	K01183	KO	0.70	literature:PMID:38278240	transformer	Chitin degradation	chiA chitinase; GH18 fungal residue decomposition; dominant in deep soil
 2.3.4.2	Ensuring the organic matter in our soils is maintained	K01185	KO	0.65	literature:PMID:37594978	transformer	Peptidoglycan degradation	lysozyme; GH23 bacterial residue decomposition; Paul et al 2023 PLoS ONE
 2.3.4.2	Ensuring the organic matter in our soils is maintained	K01188	KO	0.65	literature:PMID:38278240	transformer	Cellulose degradation	bglB beta-glucosidase; cellobiose hydrolysis to glucose
+2.3.4.2	Ensuring the organic matter in our soils is maintained	K01191	KO	0.50	kegg_decoder+literature	transformer	Mannan degradation	alpha-mannosidase; cleaves mannose from glycoproteins and mannans; organic matter processing
 2.3.4.2	Ensuring the organic matter in our soils is maintained	K01198	KO	0.65	literature:PMID:38278240	transformer	Hemicellulose degradation	xynB xylan 1,4-beta-xylosidase; hemicellulose terminal hydrolysis
 2.3.4.2	Ensuring the organic matter in our soils is maintained	K01214	KO	0.55	kegg_decoder+literature	transformer	Pectin degradation	polygalacturonase/pectinase; plant pectin decomposition; organic matter processing
 2.3.4.2	Ensuring the organic matter in our soils is maintained	K01218	KO	0.65	literature:PMID:38278240	transformer	Hemicellulose degradation	xynA endo-1,4-beta-xylanase; hemicellulose decomposition correlated with SOC
@@ -279,6 +281,7 @@ es_code	es_name	gene_id	gene_id_type	confidence	evidence_source	functional_role	
 2.3.5.1	Controlling the chemical quality of freshwater	K08346	KO	0.55	foam	transformer	11_Nitrogen cycle / Nitrogenated compounds Reduction	
 2.3.5.1	Controlling the chemical quality of freshwater	K08347	KO	0.55	foam	transformer	11_Nitrogen cycle / Nitrogenated compounds Reduction	
 2.3.5.1	Controlling the chemical quality of freshwater	K08361	KO	0.55	foam	transformer	11_Nitrogen cycle / Nitrogenated compounds Reduction	
+2.3.5.1	Controlling the chemical quality of freshwater	K09001	KO	0.55	kegg_decoder+literature	producer	Reactive oxygen detoxification	sodB Fe-superoxide dismutase; detoxifies superoxide radicals; freshwater quality
 2.3.5.1	Controlling the chemical quality of freshwater	K10534	KO	0.75	kegg_decoder+foam	consumer	Assimilatory nitrate reduction (NO3→NH4)	Assimilatory nitrate reduction (M00531); NR
 2.3.5.1	Controlling the chemical quality of freshwater	K10535	KO	0.9	kegg_decoder+foam	transformer	Nitrification (NH3→NO3)	Nitrification (M00528); hao
 2.3.5.1	Controlling the chemical quality of freshwater	K10944	KO	0.9	kegg_decoder+foam	transformer	Nitrification (NH3→NO3)	Nitrification (M00528); pmoA-amoA
@@ -311,6 +314,8 @@ es_code	es_name	gene_id	gene_id_type	confidence	evidence_source	functional_role	
 2.3.5.1	Controlling the chemical quality of freshwater	K17229	KO	0.80	kegg_decoder+literature	producer	Sulfide oxidation	sqr sulfide:quinone oxidoreductase; detoxifies H2S in freshwater
 2.3.5.1	Controlling the chemical quality of freshwater	K17230	KO	0.75	kegg_decoder+literature	producer	Sulfide oxidation	fccA flavocytochrome c sulfide dehydrogenase; H2S oxidation
 2.3.5.1	Controlling the chemical quality of freshwater	K17231	KO	0.75	kegg_decoder+literature	producer	Sulfide oxidation	fccB flavocytochrome c sulfide dehydrogenase small subunit
+2.3.5.1	Controlling the chemical quality of freshwater	K19170	KO	0.60	kegg_decoder+literature	producer	Heterocyst N2 fixation regulation	hetR master regulator of heterocyst differentiation; enables N2 fixation; N input to freshwater
+2.3.5.1	Controlling the chemical quality of freshwater	K19171	KO	0.55	kegg_decoder+literature	producer	Heterocyst N2 fixation regulation	patS peptide; regulates heterocyst spacing for optimal N2 fixation in filamentous cyanobacteria
 2.3.5.1	Controlling the chemical quality of freshwater	K19689	KO	0.85	literature:PMID:26999203	producer	Microcystin degradation (water quality)	mlrA microcystinase; removes hepatotoxins from freshwater
 2.3.5.1	Controlling the chemical quality of freshwater	K19690	KO	0.80	literature:PMID:26999203	producer	Microcystin degradation (water quality)	mlrB MC peptidase; freshwater toxin removal
 2.3.5.1	Controlling the chemical quality of freshwater	K19691	KO	0.80	literature:PMID:41003510	producer	Microcystin degradation (water quality)	mlrC MC metallopeptidase; freshwater toxin removal
@@ -319,6 +324,7 @@ es_code	es_name	gene_id	gene_id_type	confidence	evidence_source	functional_role	
 2.3.5.1	Controlling the chemical quality of freshwater	K20934	KO	0.85	kegg_decoder	producer	Anammox (NH4+NO2→N2)	Anammox (M00804)
 2.3.5.1	Controlling the chemical quality of freshwater	K20935	KO	0.85	kegg_decoder	producer	Anammox (NH4+NO2→N2)	Anammox (M00804)
 2.3.5.1	Controlling the chemical quality of freshwater	K21304	KO	0.80	literature:PMID:39772868	inhibitor	Cyanotoxin biosynthesis	sxtA saxitoxin synthetase; paralytic shellfish toxin
+2.3.5.1	Controlling the chemical quality of freshwater	K21498	KO	0.45	kegg_decoder+literature	transformer	C/N balance sensing	PII-like N regulatory protein; senses cellular C/N ratio; controls ammonium assimilation
 2.3.5.1	Controlling the chemical quality of freshwater	K21572	KO	0.80	literature:PMID:32082281	transformer	Dissimilatory iron reduction	mtrA decaheme cytochrome c; Fe3+ → Fe2+ in sediments; Garber et al 2020 FeGenie
 2.3.5.1	Controlling the chemical quality of freshwater	K21573	KO	0.80	literature:PMID:32082281	transformer	Dissimilatory iron reduction	mtrB outer membrane beta-barrel; iron reduction electron conduit
 2.3.5.1	Controlling the chemical quality of freshwater	K21574	KO	0.80	literature:PMID:32082281	transformer	Dissimilatory iron reduction	mtrC outer membrane decaheme cytochrome; terminal Fe3+ reductase
@@ -445,6 +451,8 @@ es_code	es_name	gene_id	gene_id_type	confidence	evidence_source	functional_role	
 2.3.6.1	Regulating our global climate	K02636	KO	0.5	foam	transformer	13_Hydrogen metabolism / Hydrogen production VII (chlorophyta, cyanobacteria)	petC
 2.3.6.1	Regulating our global climate	K02637	KO	0.65	kegg_decoder+literature	producer	NDH-1 CO2 concentrating mechanism	ndhH; cyanobacterial NDH-1 complex; CO2 concentrating mechanism
 2.3.6.1	Regulating our global climate	K02639	KO	0.60	kegg_decoder+literature	producer	NDH-1 CO2 concentrating mechanism	ndhI; cyanobacterial NDH-1 complex; CO2 concentrating mechanism
+2.3.6.1	Regulating our global climate	K02652	KO	0.45	kegg_decoder+literature	producer	Photosynthetic light sensing	cph1 cyanobacterial phytochrome; light quality sensing for photosynthesis optimization
+2.3.6.1	Regulating our global climate	K02660	KO	0.65	kegg_decoder+literature	producer	Photosynthetic light harvesting (phycobilisome)	cpeA phycoerythrin alpha; accessory photopigment; extends light harvesting spectrum for CO2 fixation
 2.3.6.1	Regulating our global climate	K02689	KO	0.85	kegg_decoder	producer	Photosystem I (oxygenic photosynthesis)	PSI (M00163)
 2.3.6.1	Regulating our global climate	K02690	KO	0.85	kegg_decoder	producer	Photosystem I (oxygenic photosynthesis)	PSI (M00163)
 2.3.6.1	Regulating our global climate	K02694	KO	0.85	kegg_decoder	producer	Photosystem I (oxygenic photosynthesis)	PSI (M00163)
@@ -481,6 +489,7 @@ es_code	es_name	gene_id	gene_id_type	confidence	evidence_source	functional_role	
 2.3.6.1	Regulating our global climate	K09709	KO	0.75	kegg_decoder	producer	3-Hydroxypropionate bi-cycle (CO2 fixation)	3-HP (M00376)
 2.3.6.1	Regulating our global climate	K10713	KO	0.5	foam	producer	15_Methylotrophy / Formaldehyde oxidation (h4mpt pathway)	fae
 2.3.6.1	Regulating our global climate	K10714	KO	0.5	foam	producer	15_Methylotrophy / Formaldehyde oxidation (h4mpt pathway)	mtdB
+2.3.6.1	Regulating our global climate	K10716	KO	0.45	kegg_decoder+literature	producer	Circadian regulation of photosynthesis	kaiA circadian clock activator; diel photosynthesis rhythm; cyanobacteria-specific
 2.3.6.1	Regulating our global climate	K10944	KO	0.9	kegg_decoder	producer	Methane oxidation (CH4→CO2)	Methane oxidation (M00174)
 2.3.6.1	Regulating our global climate	K10945	KO	0.9	kegg_decoder	producer	Methane oxidation (CH4→CO2)	Methane oxidation (M00174)
 2.3.6.1	Regulating our global climate	K10946	KO	0.9	kegg_decoder	producer	Methane oxidation (CH4→CO2)	Methane oxidation (M00174)
@@ -489,6 +498,7 @@ es_code	es_name	gene_id	gene_id_type	confidence	evidence_source	functional_role	
 2.3.6.1	Regulating our global climate	K11532	KO	0.85	kegg_decoder	producer	Calvin cycle (CO2 fixation)	Calvin cycle (M00165)
 2.3.6.1	Regulating our global climate	K13402	KO	0.5	foam	producer	15_Methylotrophy / Formaldehyde oxidation (tetrahydrofolate pathway)	MTHFD1L
 2.3.6.1	Regulating our global climate	K13403	KO	0.5	foam	producer	15_Methylotrophy / Formaldehyde oxidation (tetrahydrofolate pathway)	MTHFD2
+2.3.6.1	Regulating our global climate	K13821	KO	0.70	kegg_decoder+literature	producer	Photosynthetic light harvesting (phycobilisome)	cpcA phycocyanin alpha subunit; main light-harvesting pigment; captures light for CO2 fixation in cyanobacteria
 2.3.6.1	Regulating our global climate	K13942	KO	0.55	foam	inhibitor	14_Methanogenesis / From CO2	hmd
 2.3.6.1	Regulating our global climate	K14028	KO	0.80	literature:PMID:36585489	producer	N2O reduction	nosZ clade II; N2O → N2; major N2O sink in wetlands; Zhang et al 2022
 2.3.6.1	Regulating our global climate	K14029	KO	0.5	foam	producer	15_Methylotrophy / Methanol oxidation to formaldehyde	mdh2, mxaI
@@ -507,6 +517,7 @@ es_code	es_name	gene_id	gene_id_type	confidence	evidence_source	functional_role	
 2.3.6.1	Regulating our global climate	K15229	KO	0.5	foam	producer	15_Methylotrophy / Methylamine to formaldehyde	mauB
 2.3.6.1	Regulating our global climate	K15230	KO	0.8	kegg_decoder	producer	Reductive TCA cycle (CO2 fixation)	rTCA (M00173)
 2.3.6.1	Regulating our global climate	K15231	KO	0.8	kegg_decoder	producer	Reductive TCA cycle (CO2 fixation)	rTCA (M00173)
+2.3.6.1	Regulating our global climate	K15576	KO	0.75	kegg_decoder+literature	producer	CO2 concentrating mechanism (CCM)	bicA SulP-family bicarbonate transporter; low-affinity high-flux HCO3- uptake for cyanobacterial CCM
 2.3.6.1	Regulating our global climate	K15578	KO	0.80	kegg_decoder+literature	producer	CO2 concentrating mechanism (CCM)	sbtA Na-dependent bicarbonate transporter; key CCM component; imports HCO3- for cyanobacterial C fixation
 2.3.6.1	Regulating our global climate	K16154	KO	0.5	foam	producer	15_Methylotrophy / Methane oxidation to cO2	
 2.3.6.1	Regulating our global climate	K16155	KO	0.5	foam	producer	15_Methylotrophy / Methane oxidation to cO2	
@@ -528,6 +539,7 @@ es_code	es_name	gene_id	gene_id_type	confidence	evidence_source	functional_role	
 2.3.6.1	Regulating our global climate	K16258	KO	0.5	foam	producer	15_Methylotrophy / Methanol oxidation to formaldehyde	mxaK
 2.3.6.1	Regulating our global climate	K16259	KO	0.5	foam	producer	15_Methylotrophy / Methanol oxidation to formaldehyde	mxaL
 2.3.6.1	Regulating our global climate	K16260	KO	0.5	foam	producer	15_Methylotrophy / Methanol oxidation to formaldehyde	mxaD
+2.3.6.1	Regulating our global climate	K19076	KO	0.50	kegg_decoder+literature	producer	Photosystem II assembly	psb27 PSII assembly factor; required for functional PSII; cyanobacteria-specific
 2.3.6.1	Regulating our global climate	K19159	KO	0.50	kegg_decoder+literature	producer	Photoprotection	hliA/hliB high-light inducible protein; protects photosynthetic apparatus; cyanobacteria-specific
 2.3.6.1	Regulating our global climate	K22622	KO	0.75	kegg_decoder	transformer	Thiosulfate oxidation (Sox)	soxY thiosulfate oxidation; S-compound cycling affects ocean climate
 2.3.6.2	Regulating the physical quality of air for people	K00108	KO	0.60	kegg_decoder+literature	transformer	Choline → glycine betaine pathway	betA choline dehydrogenase; choline/betaine metabolism linked to DMS production in marine systems
