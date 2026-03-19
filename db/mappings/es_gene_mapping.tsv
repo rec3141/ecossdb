@@ -1,5 +1,6 @@
 es_code	es_name	gene_id	gene_id_type	confidence	evidence_source	functional_role	pathway_context	notes
 2.1.1.1	Decomposing wastes or polluting substances	2OG-FeII_Oxy_3	Pfam	0.55	kegg_decoder+literature	producer	Fe(II)/2-oxoglutarate dioxygenase	2OG-Fe(II) oxygenase; diverse hydroxylation of xenobiotics; PhyH-related
+2.1.1.1	Decomposing wastes or polluting substances	2OG-FeII_Oxy_5	Pfam	0.50	kegg_decoder+literature	producer	Fe(II)/2OG dioxygenase family 5	Diverse hydroxylation reactions on xenobiotic and natural substrates
 2.1.1.1	Decomposing wastes or polluting substances	3HCDH	Pfam	0.50	kegg_decoder+literature	producer	3-hydroxyacyl-CoA dehydrogenase	Beta-oxidation step 3; fatty acid and xenobiotic acyl-chain degradation
 2.1.1.1	Decomposing wastes or polluting substances	3HCDH_N	Pfam	0.50	kegg_decoder+literature	producer	3-hydroxyacyl-CoA DH N-terminal	Co-occurs with 3HCDH; beta-oxidation
 2.1.1.1	Decomposing wastes or polluting substances	4HBT	Pfam	0.55	kegg_decoder+literature	producer	Aromatic CoA thioesterase	4-hydroxybenzoyl-CoA thioesterase; aromatic compound degradation via CoA intermediates
@@ -12,6 +13,7 @@ es_code	es_name	gene_id	gene_id_type	confidence	evidence_source	functional_role	
 2.1.1.1	Decomposing wastes or polluting substances	Acyl-CoA_dh_1	Pfam	0.55	kegg_decoder+literature	producer	Fatty acid/xenobiotic beta-oxidation	Acyl-CoA dehydrogenase middle domain
 2.1.1.1	Decomposing wastes or polluting substances	Acyl-CoA_dh_M	Pfam	0.55	kegg_decoder+literature	producer	Fatty acid/xenobiotic beta-oxidation	Acyl-CoA dehydrogenase C-terminal
 2.1.1.1	Decomposing wastes or polluting substances	Acyl-CoA_dh_N	Pfam	0.55	kegg_decoder+literature	producer	Fatty acid/xenobiotic beta-oxidation	Acyl-CoA dehydrogenase N-terminal; first step beta-oxidation; hydrocarbon degradation
+2.1.1.1	Decomposing wastes or polluting substances	Acyl_transf_1	Pfam	0.45	kegg_decoder+literature	producer	Acyltransferase family 1	Lipid acyltransferase; diverse acyl group transfer reactions
 2.1.1.1	Decomposing wastes or polluting substances	Acyl_transf_3	Pfam	0.45	kegg_decoder+literature	producer	Acyltransferase	Acyltransferase family 3; lipid modification and xenobiotic acylation
 2.1.1.1	Decomposing wastes or polluting substances	Acyltransferase	Pfam	0.45	kegg_decoder+literature	producer	Acyl group transfer	Acyltransferase family; lipid/xenobiotic acylation and deacylation
 2.1.1.1	Decomposing wastes or polluting substances	Ald_Xan_dh_C2	Pfam	0.50	kegg_decoder+literature	producer	Aldehyde/xanthine oxidase	Mo-containing aldehyde oxidase/xanthine DH; aldehyde and heterocyclic compound oxidation
@@ -45,6 +47,7 @@ es_code	es_name	gene_id	gene_id_type	confidence	evidence_source	functional_role	
 2.1.1.1	Decomposing wastes or polluting substances	Glyoxalase	Pfam	0.55	kegg_decoder+literature	producer	Methylglyoxal/xenobiotic detox	Glyoxalase/bleomycin resistance; detoxifies reactive carbonyls
 2.1.1.1	Decomposing wastes or polluting substances	HpcH_HpaI	Pfam	0.55	kegg_decoder+literature	producer	HpcH/HpaI aldolase (meta-cleavage)	HpcH/HpaI aldolase; aromatic compound meta-cleavage pathway; 4-hydroxy-2-oxovalerate aldolase
 2.1.1.1	Decomposing wastes or polluting substances	Hydrolase_4	Pfam	0.45	kegg_decoder+literature	producer	Haloacid dehalogenase-like	HAD superfamily; phosphoesterase and dehalogenase activities
+2.1.1.1	Decomposing wastes or polluting substances	Isochorismatase	Pfam	0.50	kegg_decoder+literature	producer	Isochorismatase	Hydrolyzes isochorismate; siderophore pathway and aromatic compound degradation
 2.1.1.1	Decomposing wastes or polluting substances	K00020	KO	0.65	kegg_decoder+literature	producer	Steroid/endocrine disruptor degradation	3-beta-hydroxysteroid dehydrogenase; degrades estrogens and other endocrine disruptors in water
 2.1.1.1	Decomposing wastes or polluting substances	K00023	KO	0.6	foam	producer	08_Hydrocarbon degradation / Aromatic carboxylic acid degradation	phbB
 2.1.1.1	Decomposing wastes or polluting substances	K00055	KO	0.6	foam	producer	08_Hydrocarbon degradation / Other aromatics degradation	E1.1.1.90
@@ -170,6 +173,7 @@ es_code	es_name	gene_id	gene_id_type	confidence	evidence_source	functional_role	
 2.1.1.1	Decomposing wastes or polluting substances	MR_MLE_C	Pfam	0.50	kegg_decoder+literature	producer	Muconate/mandelate metabolism	Mandelate racemase/muconate lactonizing enzyme; aromatic compound degradation
 2.1.1.1	Decomposing wastes or polluting substances	MaoC_dehydratas	Pfam	0.50	kegg_decoder+literature	producer	MaoC enoyl-CoA hydratase	MaoC-like dehydratase; beta-oxidation and PHA metabolism
 2.1.1.1	Decomposing wastes or polluting substances	Metallophos	Pfam	0.50	kegg_decoder+literature	producer	Phosphoester hydrolysis	Calcineurin-like phosphoesterase; hydrolyzes phosphoesters including organophosphate pollutants
+2.1.1.1	Decomposing wastes or polluting substances	NMO	Pfam	0.55	kegg_decoder+literature	producer	Nitronate monooxygenase	NMO; oxidizes nitronates; nitroalkane detoxification
 2.1.1.1	Decomposing wastes or polluting substances	NUDIX	Pfam	0.45	kegg_decoder+literature	producer	Nucleotide/xenobiotic hydrolysis	NUDIX hydrolase; cleaves NDP-X bonds; degrades oxidized nucleotides and some xenobiotics
 2.1.1.1	Decomposing wastes or polluting substances	Nitroreductase	Pfam	0.55	kegg_decoder+literature	producer	Nitroaromatic reduction	Nitroreductase; reduces nitroaromatic pollutants (TNT, nitrofurans); xenobiotic detoxification
 2.1.1.1	Decomposing wastes or polluting substances	Oxidored_FMN	Pfam	0.50	kegg_decoder+literature	producer	FMN oxidoreductase	FMN-dependent oxidoreductase; old yellow enzyme family; nitroester/nitroaromatic reduction
@@ -182,10 +186,14 @@ es_code	es_name	gene_id	gene_id_type	confidence	evidence_source	functional_role	
 2.1.1.1	Decomposing wastes or polluting substances	Peptidase_M3	Pfam	0.45	kegg_decoder+literature	producer	Thimet oligopeptidase	M3 metallopeptidase; peptide and xenobiotic peptide hydrolysis
 2.1.1.1	Decomposing wastes or polluting substances	Peptidase_S9	Pfam	0.50	kegg_decoder+literature	producer	Esterase/lipase activity	S9 prolyl oligopeptidase family; includes esterases for xenobiotic hydrolysis
 2.1.1.1	Decomposing wastes or polluting substances	PhyH	Pfam	0.50	kegg_decoder+literature	producer	Phytanoyl-CoA/Fe2OG dioxygenase	PhyH dioxygenase superfamily; phytanic acid degradation; branched-chain fatty acid oxidation
+2.1.1.1	Decomposing wastes or polluting substances	Pirin	Pfam	0.50	kegg_decoder+literature	producer	Quercetin dioxygenase	Pirin/quercetin 2,3-dioxygenase; aromatic flavonoid ring cleavage
+2.1.1.1	Decomposing wastes or polluting substances	Polyketide_cyc2	Pfam	0.45	kegg_decoder+literature	producer	Polyketide cyclase	Polyketide cyclase/dehydrase; aromatic polyketide processing
+2.1.1.1	Decomposing wastes or polluting substances	Sacchrp_dh_NADP	Pfam	0.45	kegg_decoder+literature	producer	Saccharopine/sugar DH	Sugar dehydrogenase NADP-dependent; sugar oxidation
 2.1.1.1	Decomposing wastes or polluting substances	Semialdhyde_dh	Pfam	0.50	kegg_decoder+literature	producer	Semialdehyde oxidation	Semialdehyde dehydrogenase; oxidizes succinic/glutamic semialdehydes; amino acid/xenobiotic catabolism
 2.1.1.1	Decomposing wastes or polluting substances	SnoaL_2	Pfam	0.45	kegg_decoder+literature	producer	Polyketide cyclase	SnoaL-like cyclase; polyketide/aromatic secondary metabolite processing
 2.1.1.1	Decomposing wastes or polluting substances	Sulfatase	Pfam	0.60	kegg_decoder+literature	producer	Sulfate ester hydrolysis	Arylsulfatase family; cleaves sulfate esters from xenobiotics and natural substrates
 2.1.1.1	Decomposing wastes or polluting substances	Sulfotransfer_3	Pfam	0.50	kegg_decoder+literature	producer	Xenobiotic sulfonation	Sulfotransferase; conjugates sulfonate to xenobiotics for detox/excretion
+2.1.1.1	Decomposing wastes or polluting substances	TauD	Pfam	0.55	kegg_decoder+literature	producer	Taurine dioxygenase	TauD Fe(II)/2OG dioxygenase; taurine degradation; organosulfur xenobiotic metabolism
 2.1.1.1	Decomposing wastes or polluting substances	Thiolase_C	Pfam	0.50	kegg_decoder+literature	producer	Beta-oxidation (thiolase C)	Thiolase C-terminal; co-occurs with Thiolase_N
 2.1.1.1	Decomposing wastes or polluting substances	Thiolase_N	Pfam	0.50	kegg_decoder+literature	producer	Beta-oxidation (thiolase N)	Thiolase N-terminal; beta-ketothiolase; terminal step fatty acid/hydrocarbon beta-oxidation
 2.1.1.1	Decomposing wastes or polluting substances	adh_short	Pfam	0.50	kegg_decoder+literature	producer	Xenobiotic reduction	Short-chain dehydrogenase/reductase SDR; diverse xenobiotic and steroid oxidoreduction
@@ -227,6 +235,8 @@ es_code	es_name	gene_id	gene_id_type	confidence	evidence_source	functional_role	
 2.3.3.2	Controlling disease	HNH	Pfam	0.45	kegg_decoder+literature	inhibitor	Endonuclease/MGE	HNH endonuclease; in colicins, homing endonucleases, and phage; MGE indicator
 2.3.3.2	Controlling disease	HTH_Tnp_1	Pfam	0.50	kegg_decoder+literature	inhibitor	Transposase HTH	Transposase DNA-binding; IS element mobilization; ARG dissemination
 2.3.3.2	Controlling disease	HemolysinCabind	Pfam	0.50	kegg_decoder+literature	inhibitor	Hemolysin/RTX cytotoxin	Hemolysin Ca-binding repeat; RTX toxin family; bacterial virulence factor
+2.3.3.2	Controlling disease	Hist_deacetyl	Pfam	0.45	kegg_decoder+literature	transformer	Histone deacetylase-like	HDAC family; acetylpolyamine aminohydrolase; some in virulence regulation
+2.3.3.2	Controlling disease	IstB_IS21	Pfam	0.45	kegg_decoder+literature	inhibitor	IS21 transposase helper	IstB ATPase; IS21 element transposition; MGE mobility
 2.3.3.2	Controlling disease	K00986	KO	0.55	kegg_decoder+literature	producer	Cyanophage-mediated biocontrol	cyanophage RNA-dependent RNA polymerase; phage lysis of toxigenic cyanobacteria; natural bloom biocontrol
 2.3.3.2	Controlling disease	K01152	KO	0.80	literature:PMID:39203545	inhibitor	Antimicrobial resistance indicator	intI1 class 1 integron integrase; primary indicator of anthropogenic ARG pollution in water
 2.3.3.2	Controlling disease	K02547	KO	0.75	literature:PMID:36002692	inhibitor	Antimicrobial resistance	mexB RND multidrug efflux pump; metal-ARG co-selection; Xiao et al 2022
@@ -262,6 +272,7 @@ es_code	es_name	gene_id	gene_id_type	confidence	evidence_source	functional_role	
 2.3.3.2	Controlling disease	Lactamase_B_2	Pfam	0.60	kegg_decoder+literature	inhibitor	Metallo-beta-lactamase variant	MBL superfamily variant; some confer carbapenem resistance; AMR indicator
 2.3.3.2	Controlling disease	LytTR	Pfam	0.45	kegg_decoder+literature	inhibitor	Virulence/biofilm regulator	LytTR response regulator; controls virulence, competence, biofilm in pathogens
 2.3.3.2	Controlling disease	Phage_integrase	Pfam	0.55	kegg_decoder+literature	inhibitor	Horizontal gene transfer	Phage integrase; prophage integration and HGT; ARG mobilization facilitator
+2.3.3.2	Controlling disease	Phage_portal	Pfam	0.45	kegg_decoder+literature	inhibitor	Phage portal protein	Phage DNA packaging portal; phage lifecycle indicator; phage predation
 2.3.3.2	Controlling disease	RVT_1	Pfam	0.45	kegg_decoder+literature	inhibitor	Reverse transcriptase / retroelement	Group II intron RT; retroelement; facilitates genetic mobility and HGT
 2.3.3.2	Controlling disease	Resolvase	Pfam	0.45	kegg_decoder+literature	inhibitor	Site-specific recombinase	Resolvase/invertase; resolves transposon cointegrates; ARG mobilization
 2.3.3.2	Controlling disease	Secretin	Pfam	0.50	kegg_decoder+literature	inhibitor	Type II/III secretion pore	Secretin outer membrane pore; T2SS/T3SS effector/toxin secretion; virulence
@@ -275,6 +286,10 @@ es_code	es_name	gene_id	gene_id_type	confidence	evidence_source	functional_role	
 2.3.4.2	Ensuring the organic matter in our soils is maintained	Beta_helix	Pfam	0.50	kegg_decoder+literature	transformer	Pectate/pectin lyase	Right-handed beta-helix; pectate lyase; plant polysaccharide degradation
 2.3.4.2	Ensuring the organic matter in our soils is maintained	DegT_DnrJ_EryC1	Pfam	0.45	kegg_decoder+literature	transformer	Aminosugar processing	DegT/DnrJ aminotransferase; aminosugar/deoxysugar biosynthesis for EPS and secondary metabolites
 2.3.4.2	Ensuring the organic matter in our soils is maintained	Epimerase	Pfam	0.45	kegg_decoder+literature	transformer	Sugar interconversion/EPS	NAD-dependent epimerase/dehydratase; sugar metabolism for EPS/biofilm production
+2.3.4.2	Ensuring the organic matter in our soils is maintained	Fasciclin	Pfam	0.45	kegg_decoder+literature	producer	Cell adhesion / biofilm	Fasciclin domain; cell adhesion; biofilm formation; soil aggregate stability
+2.3.4.2	Ensuring the organic matter in our soils is maintained	Glyco_hydro_16	Pfam	0.50	kegg_decoder+literature	transformer	GH16 polysaccharide hydrolase	Laminarinase/xyloglucanase/lichenase; plant/fungal polysaccharide degradation
+2.3.4.2	Ensuring the organic matter in our soils is maintained	Glyco_hydro_2_C	Pfam	0.50	kegg_decoder+literature	transformer	Beta-galactosidase C-terminal	GH2 C-terminal domain; co-occurs with Glyco_hydro_2_N
+2.3.4.2	Ensuring the organic matter in our soils is maintained	Glyco_hydro_2_N	Pfam	0.50	kegg_decoder+literature	transformer	Beta-galactosidase (GH2)	GH2 N-terminal; beta-galactosidase; lactose/galactoside hydrolysis; OM processing
 2.3.4.2	Ensuring the organic matter in our soils is maintained	Glyco_transf_9	Pfam	0.45	kegg_decoder+literature	producer	GT9 heptosyltransferase	Glycosyltransferase family 9; LPS/EPS biosynthesis; polysaccharide production
 2.3.4.2	Ensuring the organic matter in our soils is maintained	Glycos_trans_3N	Pfam	0.45	kegg_decoder+literature	producer	GT3 N-terminal domain	Co-occurs with Glycos_transf_3
 2.3.4.2	Ensuring the organic matter in our soils is maintained	Glycos_transf_1	Pfam	0.45	kegg_decoder+literature	producer	EPS/exopolysaccharide biosynthesis	Glycosyltransferase family 1; polysaccharide biosynthesis for biofilm
@@ -296,6 +311,7 @@ es_code	es_name	gene_id	gene_id_type	confidence	evidence_source	functional_role	
 2.3.4.2	Ensuring the organic matter in our soils is maintained	K05349	KO	0.70	literature:PMID:38278240	transformer	Cellulose degradation	bglX beta-glucosidase; GH1/GH3 dominant in soil C cycling; Wang et al 2024
 2.3.4.2	Ensuring the organic matter in our soils is maintained	K19668	KO	0.65	literature:PMID:38278240	transformer	Lignin degradation	manganese peroxidase; AA2 family lignin oxidation
 2.3.4.2	Ensuring the organic matter in our soils is maintained	Ketoacyl-synt_C	Pfam	0.45	kegg_decoder+literature	transformer	Polyketide/fatty acid synthesis	Beta-ketoacyl synthase C-terminal; co-occurs with ketoacyl-synt
+2.3.4.2	Ensuring the organic matter in our soils is maintained	NLPC_P60	Pfam	0.45	kegg_decoder+literature	transformer	Cell wall hydrolase	NlpC/P60 peptidase; peptidoglycan hydrolysis; cell wall recycling → OM
 2.3.4.2	Ensuring the organic matter in our soils is maintained	Peptidase_S8	Pfam	0.45	kegg_decoder+literature	transformer	Extracellular protein degradation	Subtilase family; secreted protease; protein turnover in soil/sediment
 2.3.4.2	Ensuring the organic matter in our soils is maintained	Poly_export	Pfam	0.45	kegg_decoder+literature	producer	EPS/capsule export	Polysaccharide export; Wza/Wzc-like; capsule/EPS outer membrane translocation
 2.3.4.2	Ensuring the organic matter in our soils is maintained	Polysacc_deac_1	Pfam	0.50	kegg_decoder+literature	transformer	Chitin/PG deacetylation	Polysaccharide deacetylase; chitin/peptidoglycan deacetylation; organic matter modification
@@ -320,9 +336,11 @@ es_code	es_name	gene_id	gene_id_type	confidence	evidence_source	functional_role	
 2.3.5.1	Controlling the chemical quality of freshwater	DoxX	Pfam	0.50	kegg_decoder+literature	transformer	Thiosulfate oxidation	DoxX/SoxF-like; thiosulfate oxidation; sulfur compound cycling in freshwater
 2.3.5.1	Controlling the chemical quality of freshwater	Exo_endo_phos	Pfam	0.50	kegg_decoder+literature	producer	Phosphorus cycling	Exo/endo phosphatase; hydrolyzes phosphoester bonds; organic P mineralization
 2.3.5.1	Controlling the chemical quality of freshwater	FUR	Pfam	0.50	kegg_decoder+literature	transformer	Iron uptake regulator	Fur/Zur/Mur; Fe/Zn/Mn-responsive transcription regulator; controls siderophore genes
+2.3.5.1	Controlling the chemical quality of freshwater	FeoA	Pfam	0.50	kegg_decoder+literature	transformer	Ferrous iron transport	FeoA Fe2+ transporter; Fe(II) uptake in anaerobic conditions; iron cycling
 2.3.5.1	Controlling the chemical quality of freshwater	Fer2	Pfam	0.45	kegg_decoder+literature	transformer	Electron transfer / iron cycling	2Fe-2S ferredoxin; electron carrier in N/S/Fe cycling and photosynthesis
 2.3.5.1	Controlling the chemical quality of freshwater	Fer4	Pfam	0.45	kegg_decoder+literature	transformer	Electron transfer / redox cycling	4Fe-4S ferredoxin; electron carrier in anaerobic S/N/Fe redox reactions
 2.3.5.1	Controlling the chemical quality of freshwater	Glutaredoxin	Pfam	0.45	kegg_decoder+literature	producer	Oxidative stress defense	Glutaredoxin; thiol-disulfide oxidoreductase; ROS defense in freshwater
+2.3.5.1	Controlling the chemical quality of freshwater	HAD	Pfam	0.50	kegg_decoder+literature	transformer	HAD phosphatase/dehalogenase	HAD superfamily; phosphatase and dehalogenase activities; P and halide cycling
 2.3.5.1	Controlling the chemical quality of freshwater	K00260	KO	0.55	foam	transformer	11_Nitrogen cycle / Ammonia assimilation	gudB, rocG
 2.3.5.1	Controlling the chemical quality of freshwater	K00261	KO	0.55	foam	transformer	11_Nitrogen cycle / Ammonia assimilation	GLUD1_2, gdhA
 2.3.5.1	Controlling the chemical quality of freshwater	K00262	KO	0.55	foam	transformer	11_Nitrogen cycle / Ammonia assimilation	E1.4.1.4, gdhA
@@ -480,14 +498,20 @@ es_code	es_name	gene_id	gene_id_type	confidence	evidence_source	functional_role	
 2.3.5.1	Controlling the chemical quality of freshwater	MoCF_biosynth	Pfam	0.50	kegg_decoder+literature	transformer	Molybdenum cofactor biosynthesis	MoCF biosynthesis; molybdopterin required for nitrate reductase, DMSO reductase; N/S cycling enabler
 2.3.5.1	Controlling the chemical quality of freshwater	Molydop_binding	Pfam	0.45	kegg_decoder+literature	transformer	Molybdopterin cofactor binding	Molybdopterin dinucleotide binding; in NarGH, DMSOR, SO; enables N/S cycling
 2.3.5.1	Controlling the chemical quality of freshwater	OsmC	Pfam	0.50	kegg_decoder+literature	producer	Organic hydroperoxide resistance	OsmC/Ohr; organic hydroperoxide detoxification; oxidative stress defense
+2.3.5.1	Controlling the chemical quality of freshwater	P-II	Pfam	0.50	kegg_decoder+literature	transformer	Nitrogen regulatory PII	PII signal transduction; master N/C status sensor; controls GS/GOGAT/NifA
 2.3.5.1	Controlling the chemical quality of freshwater	PAP2	Pfam	0.45	kegg_decoder+literature	transformer	Phosphatidic acid phosphatase	PAP2 lipid phosphatase; P cycling and lipid phosphate turnover
+2.3.5.1	Controlling the chemical quality of freshwater	PAPS_reduct	Pfam	0.50	kegg_decoder+literature	transformer	PAPS reductase (S cycling)	Phosphoadenosine phosphosulfate reductase; assimilatory sulfate reduction
 2.3.5.1	Controlling the chemical quality of freshwater	PLDc_2	Pfam	0.45	kegg_decoder+literature	transformer	Phospholipase D / P cycling	Phospholipase D; phospholipid hydrolysis; releases phosphate; P cycling
 2.3.5.1	Controlling the chemical quality of freshwater	PMSR	Pfam	0.45	kegg_decoder+literature	producer	Methionine sulfoxide reductase	MsrA/MsrB; repairs oxidized methionine; oxidative stress defense
 2.3.5.1	Controlling the chemical quality of freshwater	PhoH	Pfam	0.50	kegg_decoder+literature	transformer	Phosphate starvation response	PhoH ATPase; P-starvation inducible; indicator of P-limited aquatic conditions
 2.3.5.1	Controlling the chemical quality of freshwater	Phosphodiest	Pfam	0.45	kegg_decoder+literature	transformer	Phosphodiesterase	Phosphodiesterase; hydrolyzes phosphodiester bonds; organic P cycling
 2.3.5.1	Controlling the chemical quality of freshwater	Rhodanese	Pfam	0.55	kegg_decoder+literature	producer	Sulfur/cyanide detoxification	Rhodanese sulfurtransferase; thiosulfate:cyanide sulfurtransferase; detoxifies H2S and cyanide
+2.3.5.1	Controlling the chemical quality of freshwater	Sod_Fe_C	Pfam	0.50	kegg_decoder+literature	producer	Superoxide dismutase (Fe/Mn) C	Fe/Mn-SOD C-terminal; superoxide radical detoxification; water quality protection
+2.3.5.1	Controlling the chemical quality of freshwater	Sod_Fe_N	Pfam	0.50	kegg_decoder+literature	producer	Superoxide dismutase (Fe/Mn) N	Fe/Mn-SOD N-terminal; co-occurs with Sod_Fe_C
+2.3.5.1	Controlling the chemical quality of freshwater	Sulf_transp	Pfam	0.45	kegg_decoder+literature	consumer	Sulfate permease	SulP sulfate permease; sulfate import for assimilatory reduction; S cycling
 2.3.5.1	Controlling the chemical quality of freshwater	TauE	Pfam	0.50	kegg_decoder+literature	transformer	Sulfonate/taurine transport	TauE sulfite exporter; taurine/sulfonate metabolism; organosulfur cycling in freshwater
 2.3.5.1	Controlling the chemical quality of freshwater	TonB_dep_Rec	Pfam	0.60	kegg_decoder+literature	transformer	Iron acquisition/cycling	TonB-dependent receptor; siderophore/Fe/B12 import; central to aquatic Fe cycling
+2.3.5.1	Controlling the chemical quality of freshwater	peroxidase	Pfam	0.50	kegg_decoder+literature	producer	Haem peroxidase	H2O2 detoxification; oxidative stress defense; includes DyP-type peroxidases
 2.3.5.2	Controlling the chemical quality of salt water	K00368	KO	0.85	kegg_decoder+literature	producer	Denitrification (NO3→N2)	nirK Cu-containing nitrite reductase
 2.3.5.2	Controlling the chemical quality of salt water	K00370	KO	0.85	kegg_decoder+literature	producer	Denitrification (NO3→N2)	narG nitrate reductase; marine N removal
 2.3.5.2	Controlling the chemical quality of salt water	K00371	KO	0.85	kegg_decoder+literature	producer	Denitrification (NO3→N2)	narH nitrate reductase beta
@@ -703,6 +727,7 @@ es_code	es_name	gene_id	gene_id_type	confidence	evidence_source	functional_role	
 2.3.6.1	Regulating our global climate	K19159	KO	0.50	kegg_decoder+literature	producer	Photoprotection	hliA/hliB high-light inducible protein; protects photosynthetic apparatus; cyanobacteria-specific
 2.3.6.1	Regulating our global climate	K22622	KO	0.75	kegg_decoder	transformer	Thiosulfate oxidation (Sox)	soxY thiosulfate oxidation; S-compound cycling affects ocean climate
 2.3.6.1	Regulating our global climate	Rieske	Pfam	0.55	kegg_decoder+literature	producer	Aromatic hydroxylation / photosynthesis	Rieske 2Fe-2S; in aromatic ring-hydroxylating dioxygenases AND photosynthetic b6f complex
+2.3.6.1	Regulating our global climate	SQS_PSY	Pfam	0.45	kegg_decoder+literature	producer	Squalene/phytoene synthase	Carotenoid/hopanoid biosynthesis; photoprotection for photosynthetic organisms
 2.3.6.2	Regulating the physical quality of air for people	K00108	KO	0.60	kegg_decoder+literature	transformer	Choline → glycine betaine pathway	betA choline dehydrogenase; choline/betaine metabolism linked to DMS production in marine systems
 2.3.6.2	Regulating the physical quality of air for people	K16953	KO	0.80	literature:PMID:34693622	producer	DMSP cleavage to DMS	dddP DMSP lyase; produces DMS (climate-active gas); Sun et al 2021 Environ Microbiol
 2.3.6.2	Regulating the physical quality of air for people	K17285	KO	0.70	literature:PMID:37306587	producer	DMSP cleavage to DMS	dddL DMSP lyase; DMS production in marine bacteria; Cheng et al 2023
