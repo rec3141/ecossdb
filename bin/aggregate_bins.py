@@ -16,6 +16,13 @@ import csv
 import sys
 from collections import defaultdict
 
+DEFAULT_ROLE_WEIGHTS = {
+    'producer': 1.0,
+    'transformer': 0.7,
+    'consumer': -0.3,
+    'inhibitor': -0.5,
+}
+
 
 def load_contig2bin(filepath):
     """Load contig-to-bin mapping. Format: contig_id<TAB>bin_id"""
@@ -28,18 +35,32 @@ def load_contig2bin(filepath):
     return mapping
 
 
+def parse_role_weights(weights_str):
+    """Parse role:weight pairs from comma-separated string."""
+    weights = {}
+    for pair in weights_str.split(','):
+        role, weight = pair.strip().split(':')
+        weights[role.strip()] = float(weight.strip())
+    return weights
+
+
 def main():
     parser = argparse.ArgumentParser(description='Aggregate ES profiles per MAG')
     parser.add_argument('--catalog', required=True, help='Gene catalog TSV')
     parser.add_argument('--contig2bin', required=True, help='Contig-to-bin mapping')
     parser.add_argument('--output', required=True, help='Output per-MAG ES profile')
+    parser.add_argument('--role-weights',
+                        default='producer:1.0,transformer:0.7,consumer:-0.3,inhibitor:-0.5',
+                        help='Role weights for scoring')
     args = parser.parse_args()
 
     contig2bin = load_contig2bin(args.contig2bin)
+    role_weights = parse_role_weights(args.role_weights)
 
     # Aggregate catalog entries per bin
     bins = defaultdict(lambda: defaultdict(lambda: {
         'gene_count': 0,
+        'sum_weighted': 0,
         'sum_confidence': 0,
         'max_confidence': 0,
         'roles': defaultdict(int),
@@ -64,9 +85,12 @@ def main():
             entry = bins[bin_id][es_code]
             entry['gene_count'] += 1
             conf = float(row.get('confidence', 0))
+            role = row.get('functional_role', 'unknown')
+            weight = role_weights.get(role, 0)
+            entry['sum_weighted'] += conf * weight
             entry['sum_confidence'] += conf
             entry['max_confidence'] = max(entry['max_confidence'], conf)
-            entry['roles'][row.get('functional_role', 'unknown')] += 1
+            entry['roles'][role] += 1
             entry['genes'].append(f"{row.get('gene_id', '')}({conf:.2f})")
             entry['es_name'] = row.get('es_name', '')
 
@@ -79,14 +103,15 @@ def main():
         for bin_id in sorted(bins):
             for es_code in sorted(bins[bin_id]):
                 entry = bins[bin_id][es_code]
-                mean_conf = entry['sum_confidence'] / entry['gene_count']
+                # Role-weighted mean: mean(confidence × role_weight)
+                mean_weighted = entry['sum_weighted'] / entry['gene_count']
                 roles_str = ','.join(f'{r}:{c}' for r, c in sorted(entry['roles'].items()))
                 # Top 5 genes by confidence
                 top = sorted(entry['genes'], key=lambda g: -float(g.split('(')[1].rstrip(')')))[:5]
                 f.write('\t'.join([
                     bin_id, 'MAG', es_code, entry['es_name'],
                     str(entry['gene_count']),
-                    f'{mean_conf:.3f}',
+                    f'{mean_weighted:.4f}',
                     '-',  # completeness filled by score_es.py
                     roles_str,
                     ','.join(top),

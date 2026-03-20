@@ -183,14 +183,25 @@ def cluster_order(matrix):
         return order
 
 
-def build_pathway_heatmap(catalog, mapping_lookup, contig2bin):
+DEFAULT_ROLE_WEIGHTS = {
+    'producer': 1.0,
+    'transformer': 0.7,
+    'consumer': -0.3,
+    'inhibitor': -0.5,
+}
+
+
+def build_pathway_heatmap(catalog, mapping_lookup, contig2bin, role_weights=None):
     """Build expanded heatmap: bins x (ES code + pathway_context).
 
+    Values are role-weighted scores: sum(confidence × role_weight) per bin × pathway.
     contig2bin may map contigs to multiple bins (from different binners).
-    One contig can appear in bins from each binner.
     """
-    # Count hits per bin per (es_code, pathway)
-    bin_pathway = defaultdict(lambda: defaultdict(int))
+    if role_weights is None:
+        role_weights = DEFAULT_ROLE_WEIGHTS
+
+    # Accumulate role-weighted scores per bin per (es_code, pathway)
+    bin_pathway = defaultdict(lambda: defaultdict(float))
     for row in catalog:
         contig = row.get('contig_id', '')
         bins = contig2bin.get(contig, [])
@@ -202,8 +213,12 @@ def build_pathway_heatmap(catalog, mapping_lookup, contig2bin):
         if not pw:
             pw = 'Other'
         key = (es_code, pw)
+        conf = float(row.get('confidence', 0))
+        role = row.get('functional_role', 'unknown')
+        weight = role_weights.get(role, 0)
+        score = conf * weight
         for mag in bins:
-            bin_pathway[mag][key] += 1
+            bin_pathway[mag][key] += score
 
     # Build sorted column list
     all_cols = set()
@@ -214,7 +229,7 @@ def build_pathway_heatmap(catalog, mapping_lookup, contig2bin):
     mag_list = sorted(bin_pathway.keys())
     matrix = []
     for mag in mag_list:
-        row_vals = [bin_pathway[mag].get(col, 0) for col in col_list]
+        row_vals = [round(bin_pathway[mag].get(col, 0), 4) for col in col_list]
         matrix.append(row_vals)
 
     # Bray-Curtis column clustering
